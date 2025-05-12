@@ -1,0 +1,46 @@
+# Ignore heavy folders
+Knowledge_base/vector_store/
+FineTuned-Qwen2/
+Notebooks/models/
+Notebooks/data/
+
+# Ignore specific files
+CursorUserSetup-x64-0.49.6.exe
+base.md
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
