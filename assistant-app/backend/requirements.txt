@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+vllm
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+pymongo
+python-multipart
+# Add any other dependencies your RAG pipeline needs 

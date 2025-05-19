@@ -1,12 +1,23 @@
 # Ignore heavy folders
 Knowledge_base/vector_store/
 FineTuned-Qwen2/
+FineTuned-Qwen-Morocco/
+FineTuned-Qwen4/
 Notebooks/models/
 Notebooks/data/
 
 # Ignore specific files
 CursorUserSetup-x64-0.49.6.exe
 base.md
+
+# ignore all .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore the .env file
+.env
 
 # Python specific
 __pycache__/

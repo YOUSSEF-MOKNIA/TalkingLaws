@@ -1,0 +1,16 @@
+{
+  "rouge1_f1": 0.4388361274652223,
+  "rouge2_f1": 0.2521657853352238,
+  "rougeL_f1": 0.3422249445829217,
+  "bleu": 0.16995748031303892,
+  "bert_score": 0.3981171554327011,
+  "word_f1": 0.4191689904704806,
+  "faithfulness": 0.9105,
+  "citations_percentage": 97.0,
+  "avg_citation_count": 3.77,
+  "avg_gen_time": 1.8089082336425781,
+  "avg_tokens": 95.88,
+  "high_quality_percentage": 14.000000000000002,
+  "medium_quality_percentage": 31.0,
+  "low_quality_percentage": 55.00000000000001
+}

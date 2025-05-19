@@ -1,0 +1,11 @@
+<svg width="352" height="240" viewBox="0 0 352 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="352" height="240" fill="#D35F6F"/>
+<g>
+<path d="M176 40C185.389 40 193.5 48.1112 193.5 57.5C193.5 66.8888 185.389 75 176 75C166.611 75 158.5 66.8888 158.5 57.5C158.5 48.1112 166.611 40 176 40Z" fill="white"/>
+<path d="M176 80C192.569 80 206 93.4315 206 110V200H146V110C146 93.4315 159.431 80 176 80Z" fill="white"/>
+<path d="M176 20V40" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M196 28L191 38" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<path d="M156 28L161 38" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<text x="50%" y="225" text-anchor="middle" fill="white" font-size="48" font-family="Arial, Helvetica, sans-serif" font-weight="bold">JURIDOC</text>
+</g>
+</svg> 
