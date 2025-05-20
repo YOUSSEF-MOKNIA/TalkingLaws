@@ -1,0 +1,908 @@
+[
+  {
+    "question": "Si je me marie religieusement (Fatiha) mais sans acte officiel, est-ce que mon mariage est reconnu si nous avons un enfant ensemble ?",
+    "answer": "L'article 16 du Code de la Famille indique que lorsque des raisons impérieuses ont empêché l'établissement du document de l'acte de mariage en temps opportun, le tribunal admet, lors d'une action en reconnaissance de mariage, tous les moyens de preuve. Il prend en considération l'existence d'enfants issus de la relation. L'action en reconnaissance est recevable pendant un délai transitoire.",
+    "context": "Article 16 [Code de la Famille]: Le document portant acte de mariage constitue le moyen de preuve\ndudit mariage.\nLorsque des raisons impérieuses ont empêché l'établissement du\ndocument de l'acte de mariage en temps opportun, le tribunal admet,\nlors d'une action en reconnaissance de mariage, tous les moyens de\npreuve ainsi que le recours à l'expertise.\nLe tribunal prend en considération, lorsqu'il connaît d'une action en\nreconnaissance de mariage, l'existence d'enfants ou de grossesse issus de\nla relation conjugale et que l'action a été introduite du vivant des deux\népoux.\nL’action en reconnaissance de mariage est recevable pendant une\npériode transitoire maximum de quinze ans à compter de la date\nd’entrée en vigueur de la présente loi3\n.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Mon fils de 17 ans a été autorisé à se marier par le juge. Est-il maintenant considéré comme pleinement capable pour gérer son argent et ses biens ?",
+    "answer": "L'article 22 du Code de la Famille précise que les conjoints mariés mineurs (avec autorisation) acquièrent la capacité civile pour ester en justice pour tout ce qui concerne les droits et obligations nés du mariage. Cependant, cela ne signifie pas une pleine capacité générale pour tous les actes de la vie civile et la gestion de tous ses biens. L'article 218 du même code (non fourni ici mais faisant partie du livre sur la capacité) traite de l'émancipation qui accorde une capacité plus large, mais le mariage seul ne confère pas automatiquement cette pleine capacité générale.",
+    "context": "Article 22 [Code de la Famille]: Les conjoints, mariés conformément aux dispositions de l'Article 20\nci-dessus, acquièrent la capacité civile pour ester en justice pour tout ce\nqui concerne les droits et obligations nés des effets résultant du mariage.\nLe tribunal peut, à la demande de l'un des conjoints ou de son\nreprésentant légal, déterminer les charges financières qui incombent au\nconjoint concerné et leurs modalités de paiement.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Si un fonctionnaire public refuse d'agir alors qu'il est obligé par la loi de le faire, et que cela me cause un préjudice, est-ce une infraction selon le Code Pénal ?",
+    "answer": "Le Code Pénal, dans les articles fournis (1 à 267), traite des abus d'autorité commis par des fonctionnaires (ex: article 225 sur les actes arbitraires, article 230 sur la violation de domicile). Le fait de refuser d'agir quand la loi l'oblige pourrait constituer un déni de justice (article 240 si c'est un magistrat) ou une autre forme d'abus d'autorité, mais une qualification précise dépendrait des circonstances exactes et d'autres articles du Code Pénal non fournis ici.",
+    "context": "Article 225 [Code Penal]: Tout magistrat, tout fonctionnaire public, tout agent ou préposé de \nl'autorité ou de la force publique qui ordonne ou fait quelque acte \narbitraire, attentatoire soit à la liberté individuelle, soit aux droits \nciviques d'un ou plusieurs citoyens, est puni de la dégradation civique.\n(...)\nArticle 240 [Code Penal]: Tout magistrat ou tout fonctionnaire public investi d'attributions \njuridictionnelles qui, sous quelque prétexte que ce soit, même du silence \nou de l'obscurité de la loi, a dénié de rendre la justice qu'il doit aux \nparties après en avoir été requis et qui a persévéré dans son déni, après \navertissement ou injonction de ses supérieurs, peut être poursuivi et \npuni d'une amende de 250 dirhams au moins et de 2.500 dirhams au plus \net de l'interdiction de l'exercice de fonctions publiques pour une durée \nd'un à dix ans.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si je suis en voyage sur un bateau marocain et que je commets un vol, quelle loi s'applique ?",
+    "answer": "Selon l'article 11 du Code Pénal, les navires marocains sont considérés comme faisant partie du territoire marocain, où qu'ils se trouvent, sauf s'ils sont soumis à une loi étrangère en vertu du droit international. Donc, la loi pénale marocaine s'appliquerait probablement.",
+    "context": "Article 11 [Code Penal]: Sont considérés comme faisant partie du territoire, les navires ou les \naéronefs marocains quel que soit l'endroit où ils se trouvent, sauf s'ils \nsont soumis, en vertu du droit international, à une loi étrangère.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si un juge se trompe et que sa décision me cause un préjudice financier, puis-je demander une réparation à l'État ?",
+    "answer": "Oui, l'article 122 de la Constitution de 2011 indique que les dommages causés par une erreur judiciaire ouvrent droit à une réparation à la charge de l'Etat.",
+    "context": "Article 122 [Constitution du Maroc 2011]: Les dommages causés par une erreur judiciaire ouvrent droit à une réparation à la charge de l'Etat.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si je suis engagé pour un travail spécifique qui doit durer environ 3 mois, quel type de contrat de travail devrais-je avoir ?",
+    "answer": "L'article 16 du Code du Travail indique que le contrat de travail peut être conclu pour accomplir un travail déterminé. Ce serait le type de contrat approprié dans ce cas. Il pourrait aussi être un CDD si les conditions de l'article 16 sont remplies.",
+    "context": "Article 16 [Code du Travail]: Le contrat de travail est conclu pour une durée indéterminée, pour \nune durée déterminée ou pour accomplir un travail déterminé.\nLe contrat de travail à durée déterminée peut être conclu dans les \ncas où la relation de travail ne pourrait avoir une durée indéterminée.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'achète un fonds de commerce et que l'acte de vente ne mentionne pas si le local est loué ou pas, et que cela me pose problème plus tard, puis-je annuler la vente ?",
+    "answer": "Oui, l'article 81 du Code de Commerce liste les mentions obligatoires dans l'acte de vente, y compris les informations sur le bail s'il y a lieu. L'article 82 précise que si l'absence d'une de ces mentions porte préjudice à l'acheteur, il peut demander l'annulation du contrat.",
+    "context": "Article 81 [CODE DE COMMERCE]: Toute vente ou cession de fonds de commerce ainsi que tout apport en \nsociété ou toute attribution de fonds de commerce par partage ou licitation \nest constatée par acte en la forme authentique ou sous seing privé. Le \nmontant de la vente est déposé auprès d'une instance dûment habilitée à \nconserver les dépôts.\nCet acte mentionne:\n1) le nom du vendeur, la date et la nature de son acte d'acquisition, le \nprix de cette acquisition en spécifiant distinctement les prix des éléments \nincorporels, des marchandises et du matériel ; \n2) l'état des inscriptions des privilèges et nantissements pris sur le \nfonds ; \n3) s'il y a lieu, le bail, sa date, sa durée, le montant du loyer actuel, le \nnom et l'adresse du bailleur ; \n4) l'origine de la propriété du fonds de commerce.\nArticle 82 [CODE DE COMMERCE]: Lorsque l'une des mentions prescrites à l'article précédent ne figure \npas dans l'acte de vente, l'acheteur peut demander l'annulation du contrat \nsi l'absence de cette mention lui a porté préjudice.\nLorsque les mentions figurant à l'acte sont inexactes, l'acheteur peut \ndemander l'annulation du contrat ou la réduction du prix si l'inexactitude \ndes mentions lui a porté préjudice.\nDans les deux cas, l'action doit être intentée dans un délai maximum \nd'un an à compter de la date de l'acte de vente.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Un père peut-il être tenu responsable si son fils majeur, qui vit avec lui et souffre de troubles mentaux, cause un dommage à quelqu'un ?",
+    "answer": "Oui, l'article 85 du Dahir formant Code des Obligations et des Contrats indique que le père, la mère et les autres parents ou conjoints répondent des dommages causés par les insensés et autres infirmes d'esprit, même majeurs, habitant avec eux, s'ils ne prouvent pas avoir exercé la surveillance nécessaire, ignoraient le danger, ou si c'est la faute de la victime.",
+    "context": "Article 85 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: On est responsable non seulement du dommage que l'on cause par \nson propre fait, mais encore de celui qui est causé par le fait des personnes \ndont on doit répondre.\n(...)\nLe père, la mère et les autres parents ou conjoints répondent des \ndommages causés par les insensés et autres infirmes d'esprit, même \nmajeurs, habitant avec eux, s'ils ne prouvent : \n1. Qu'ils ont exercé sur ces personnes toute la surveillance \nnécessaire;\n2. Ou qu'ils ignoraient le caractère dangereux de la maladie de \nl'insensé;\n3. Ou que l'accident a eu lieu par la faute de celui qui en a été la \nvictime.\nLa même règle s'applique à ceux qui se chargent, par contrat, de \nl'entretien ou de la surveillance de ces personnes.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Quelle est la durée de la période de viduité (Idda) pour une femme dont le mari est décédé et qui n'est pas enceinte ?",
+    "answer": "Selon l'article 132 du Code de la Famille, la période de viduité de la veuve qui n'est pas enceinte est de quatre mois et dix jours francs.",
+    "context": "Article 132 [Code de la Famille]: La période de viduité de la veuve qui n'est pas enceinte est de quatre\nmois et dix jours francs.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Si un employeur est condamné plusieurs fois pour ne pas avoir respecté les règles du registre du commerce, sa peine peut-elle être plus lourde la fois suivante ?",
+    "answer": "Oui, l'article 67 du Code de Commerce indique que si une personne ayant déjà été condamnée à une amende commet le même délit dans les cinq ans, elle est en état de récidive et les peines prévues à l'article 64 (emprisonnement et amende pour fausse déclaration) sont portées au double.",
+    "context": "Article 67 [CODE DE COMMERCE]: Indépendamment des règles posées par le code pénal, est en état de \nrécidive, quiconque ayant fait précédemment l'objet d'une condamnation à \nune amende, commet le même délit dans les cinq années qui suivent le \nprononcé de la première condamnation devenue irrévocable.\nDans ce cas, les peines prévues à l'article 64 sont portées au double.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "La Constitution marocaine garantit-elle le droit à l'eau pour les citoyens ?",
+    "answer": "Oui, l'article 31 de la Constitution de 2011 énonce que l'Etat, les établissements publics et les collectivités territoriales œuvrent à faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit à l'accès à l'eau et à un environnement sain.",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n- aux soins de santé ;\n- à la protection sociale, à la couverture médicale et à la solidarité mutualiste ou organisée par l'Etat ;\n- à une éducation moderne, accessible et de qualité ;\n- à l'éducation sur l'attachement à l'identité marocaine et aux constantes nationales immuables;\n- à la formation professionnelle et à l'éducation physique et artistique ;\n- à un logement décent;\n- au travail et à l'appui des pouvoirs publics en matière de recherche d'emploi ou d'auto-emploi ;\n- à l'accès aux fonctions publiques selon le mérite ;\n- à l'accès à l'eau et à un environnement sain;\n- au développement durable.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Le Code du Travail marocain contient-il des dispositions sur le travail des personnes en situation de handicap dans le secteur agricole ?",
+    "answer": "Les articles 166 à 171 du Code du Travail traitent des dispositions particulières au travail et à la protection des handicapés en général, comme le maintien dans l'emploi, l'interdiction de travaux préjudiciables, l'examen médical et l'aménagement des locaux. Ces principes s'appliqueraient aussi au secteur agricole, bien que les détails spécifiques à l'agriculture ne soient pas élaborés dans ces articles précis.",
+    "context": "Article 166 [Code du Travail]: Tout salarié devenu handicapé, pour quelque cause que ce soit, \ngarde son emploi et est chargé, après avis du médecin de travail ou de la \ncommission de sécurité et d'hygiène, d'un travail qui correspond à son \nhandicap, après une formation de réadaptation, sauf si cela s'avère \nimpossible vu la gravité de l'handicap et la nature du travail.\nArticle 167 [Code du Travail]: Il est interdit d'employer les salariés handicapés à des travaux \npouvant leur porter préjudice ou susceptibles d'aggraver leur handicap.\nArticle 179 [Code du Travail]: Il est interdit d'employer les mineurs de moins de 18 ans, les \nfemmes et les salariés handicapés dans les carrières et dans les travaux \nsouterrains effectués au fond des mines.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis menacé pour signer un contrat, mais que la menace vient d'un tiers et non de la personne avec qui je contracte, puis-je quand même demander l'annulation ?",
+    "answer": "Oui, l'article 49 du Dahir formant Code des Obligations et des Contrats indique que la violence (qui inclut la menace causant une crainte) donne ouverture à la rescision de l'obligation, même si elle n'a pas été exercée par celui des contractants au profit duquel la convention a été faite.",
+    "context": "Article 49 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: La violence donne ouverture à la rescision de l'obligation, même si \nelle n'a pas été exercée par celui des contractant au profit duquel la \nconvention a été faite.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Quelle est la durée maximale de la période d'essai pour un employé (non cadre) avec un contrat à durée indéterminée (CDI) ?",
+    "answer": "Selon l'article 14 du Code du Travail, la période d'essai pour les employés en CDI est d'un mois et demi, renouvelable une seule fois.",
+    "context": "Article 14 [Code du Travail]: 1. La période d'essai en ce qui concerne les contrats à durée \nindéterminée est fixée à :\n- trois mois pour les cadres et assimilés ;\n- un mois et demi pour les employés ;\n- quinze jours pour les ouvriers.\nLa période d'essai peut être renouvelée une seule fois.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je divulgue un secret professionnel de mon entreprise et que cela cause un préjudice, est-ce une faute grave pouvant justifier mon licenciement ?",
+    "answer": "Oui, l'article 39 du Code du Travail considère comme une faute grave pouvant provoquer le licenciement du salarié la divulgation d'un secret professionnel ayant causé un préjudice à l'entreprise.",
+    "context": "Article 39 [Code du Travail]: Sont considérées comme fautes graves pouvant provoquer le \nlicenciement du salarié:\n(...)\n2. la divulgation d'un secret professionnel ayant causé un \npréjudice à l'entreprise;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code de Commerce marocain définit-il les règles pour la protection des consommateurs contre la publicité mensongère ?",
+    "answer": "Les articles 51 à 151 du Code de Commerce fournis ne traitent pas spécifiquement de la protection des consommateurs contre la publicité mensongère. Bien que l'article 84 du Dahir formant Code des Obligations et Contrats (un autre code) aborde la concurrence déloyale par des indications trompeuses, des lois spécifiques sur la protection du consommateur et la publicité contiendraient des règles plus détaillées.",
+    "context": "LIVRE PREMIER: LE COMMERÇANT, TITRE IV: LES OBLIGATIONS DU COMMERÇANT\nLIVRE II: LE FONDS DE COMMERCE (Ces sections ne traitent pas de la publicité mensongère envers les consommateurs).",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si mon employeur m'insulte gravement, puis-je quitter mon travail et considérer cela comme un licenciement abusif ?",
+    "answer": "Oui, l'article 40 du Code du Travail considère l'insulte grave comme une faute grave commise par l'employeur à l'encontre du salarié. Il ajoute qu'est assimilé à un licenciement abusif, le fait pour le salarié de quitter son travail en raison de l'une des fautes énumérées, lorsqu'il est établi que l'employeur l'a commise.",
+    "context": "Article 40 [Code du Travail]: Sont considérées comme fautes graves commises par l'employeur, le \nchef de l'entreprise ou de l'établissement à l'encontre du salarié :\n1. l'insulte grave ;\n2. la pratique de toute forme de violence ou d'agression dirigée \ncontre le salarié ;\n3. le harcèlement sexuel ;\n4. l'incitation à la débauche.\nEst assimilé à un licenciement abusif, le fait pour le salarié de quitter \nson travail en raison de l'une des fautes énumérées au présent article, \nlorsqu'il est établi que l'employeur a commis l'une de ces fautes.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Un commerçant peut-il utiliser le nom 'Banque Centrale Marocaine' pour son entreprise financière ?",
+    "answer": "Le Code de Commerce, dans l'article 69, interdit d'ajouter à une raison de commerce des indications qui pourraient induire en erreur ou léser un intérêt public. L'article 71 du Code des Obligations et Contrats (non fourni ici) traite de l'usage des noms et de la tromperie. Utiliser un nom qui suggère une institution officielle comme 'Banque Centrale' serait très probablement considéré comme trompeur et illégal, mais ces articles ne le disent pas explicitement pour ce cas précis.",
+    "context": "Article 69 [CODE DE COMMERCE]: Celui qui exploite un établissement de commerce, seul ou avec un \nassocié en participation ne peut inscrire comme raison de commerce que \nson propre nom.\nIl ne peut rien ajouter à la raison de commerce qui indique un rapport \nde société mais il peut ajouter toutes indications servant à distinguer sa \npersonne ou son établissement, pourvu qu'elles soient conformes à la \nvérité, ne puissent induire en erreur et ne lèsent aucun intérêt public.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si un commerçant est interdit d'exercer son activité par un jugement, combien de temps après sera-t-il radié d'office du registre du commerce ?",
+    "answer": "L'article 54 du Code de Commerce indique qu'est radié d'office tout commerçant frappé d'une interdiction d'exercer une activité commerciale en vertu d'une décision judiciaire passée en force de chose jugée. Il ne précise pas de délai spécifique après le jugement, la radiation intervient une fois que la décision est définitive.",
+    "context": "Article 54 [CODE DE COMMERCE]: Est radié d'office tout commerçant:\n1) frappé d'une interdiction d'exercer une activité commerciale en \nvertu d'une décision judiciaire passée en force de chose jugée ; \n2) décédé depuis plus d'un an ; \n3) s'il est établi que la personne immatriculée a cessé effectivement \ndepuis plus de trois ans l'exercice de l'activité pour laquelle elle a été \ninscrite.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si je suis marié et que ma femme possède une entreprise, ses dettes commerciales peuvent-elles affecter mes biens personnels ?",
+    "answer": "Le Code de la Famille (article 49, non fourni ici mais pertinent) établit le principe de la séparation des patrimoines des époux. Le Code de Commerce, dans les articles fournis, ne traite pas directement de la responsabilité des dettes commerciales d'un époux sur le patrimoine de l'autre. Cela dépendrait du régime matrimonial choisi et d'autres dispositions du Code de la Famille ou du droit des sociétés si l'entreprise est une société.",
+    "context": "Article 49 [Code de la Famille] (référence générale pertinente mais non fournie pour l'évaluation) : Les deux époux disposent chacun d'un patrimoine propre. (...)\n(Les articles du Code de Commerce fournis ne traitent pas de cette question).",
+    "code": "Combinaison implicite / Information non directement présente"
+  },
+  {
+    "question": "Si une entreprise est en liquidation judiciaire, cela affecte-t-il les contrats de travail des employés ?",
+    "answer": "L'article 55 du Code de Commerce mentionne la radiation d'office du commerçant ou de la personne morale à compter de la clôture d'une procédure de redressement ou de liquidation judiciaire. L'article 19 du Code du Travail indique que les contrats de travail subsistent en cas de modification de la situation juridique de l'employeur. Cependant, les conséquences spécifiques de la liquidation judiciaire sur les contrats de travail (maintien, rupture, indemnités) sont généralement détaillées dans le Livre V du Code de Commerce relatif aux difficultés de l'entreprise et dans les dispositions du Code du Travail sur le licenciement économique, non entièrement couvertes par les articles fournis ici.",
+    "context": "Article 55 [CODE DE COMMERCE]: Est radié d'office tout commerçant ou personne morale :\n1) à compter de la clôture d'une procédure de redressement ou de \nliquidation judiciaire ;\n(...)\nArticle 19 [Code du Travail]: En cas de modification dans la situation juridique de l'employeur ou \ndans la forme juridique de l'entreprise, notamment par succession, vente, \nfusion ou privatisation, tous les contrats en cours au jour de la \nmodification subsistent entre les salariés et le nouvel employeur. (...)",
+    "code": "Combinaison Code de Commerce / Code du Travail (partiel)"
+  },
+  {
+    "question": "Est-ce qu'un contrat de mariage peut être fait électroniquement au Maroc ?",
+    "answer": "L'article 2-1 du Dahir formant Code des Obligations et des Contrats permet l'établissement d'actes juridiques sous forme électronique. Cependant, il précise que les actes relatifs à l'application des dispositions du code de la famille ne sont pas soumis à ces dispositions sur l'écrit électronique. Un contrat de mariage, relevant du Code de la Famille, ne pourrait donc pas être valablement conclu uniquement par voie électronique selon cet article.",
+    "context": "Article 2-1 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Lorsqu'un écrit est exigé pour la validité d'un acte juridique, il peut \nêtre établi et conservé sous forme électronique dans les conditions \nprévues aux articles 417-1 et 417-2 ci-dessous.\nLorsqu'une mention écrite est exigée de la main même de celui qui \ns'oblige, ce dernier peut l'apposer sous forme électronique, si les \nconditions de cette apposition sont de nature à garantir qu'elle ne peut \nêtre effectuée que par lui-même.\nToutefois, les actes relatifs à l'application des dispositions du code de \nla famille et les actes sous seing privé relatifs à des sûretés personnelles ou \nréelles, de nature civile ou commerciale, ne sont pas soumis aux \ndispositions de la présente loi, à l'exception des actes établis par une \npersonne pour les besoins de sa profession.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Si un mineur commet un délit sous l'emprise de la drogue qu'il a consommée volontairement, sa responsabilité pénale est-elle diminuée ?",
+    "answer": "L'article 137 du Code Pénal indique que les états résultant de l'emploi volontaire de substances stupéfiantes ne peuvent, en aucun cas, exclure ou diminuer la responsabilité. Cependant, l'article 139 précise que le mineur de 12 à 18 ans est considéré comme partiellement irresponsable et bénéficie de l'excuse de minorité. La responsabilité serait donc évaluée en tenant compte de sa minorité, mais l'usage volontaire de drogues n'est pas une cause d'atténuation en soi.",
+    "context": "Article 137 [Code Penal]: L'ivresse, les états passionnels ou émotifs ou ceux résultant de \nl'emploi volontaire de substances stupéfiantes ne peuvent, en aucun cas, \nexclure ou diminuer la responsabilité.\nLes coupables peuvent être placés dans un établissement \nthérapeutique conformément aux dispositions des articles 80 et 81.\nArticle 139 [Code Penal]: Le mineur de douze ans qui n'a pas atteint dix-huit ans est, \npénalement, considéré comme partiellement irresponsable en raison \nd'une insuffisance de discernement.\nLe mineur bénéficie dans le cas prévu au premier alinéa du présent \narticle de l'excuse de minorité, et ne peut faire l'objet que des \ndispositions du livre III de la loi relative à la procédure pénale36.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 garantit-elle un accès gratuit à internet pour tous les citoyens ?",
+    "answer": "La Constitution garantit certains droits socio-économiques et culturels. L'article 31 mentionne le droit à une éducation moderne, accessible et de qualité, et l'article 27 le droit d'accéder à l'information. L'article 5 parle d'ouverture sur la société du savoir. Cependant, un droit explicite à un accès gratuit à internet pour tous n'est pas formulé tel quel dans les articles fournis (Préambule à 180).",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n(...)\n- à une éducation moderne, accessible et de qualité ;\n(...)\nArticle 27 [Constitution du Maroc 2011]: Les citoyennes et les citoyens ont le droit d'accéder à l'information détenue par l'administration publique, les institutions élues et les organismes investis de mission de service public.\n(...)\nArticle 5 [Constitution du Maroc 2011]: (...)\nDe même, il veille à la cohérence de la politique linguistique et culturelle nationale et à l'apprentissage et la maîtrise des langues étrangères les plus utilisées dans le monde, en tant qu'outils de communication, d'intégration et d'interaction avec la société du savoir, et d'ouverture sur les différentes cultures et sur les civilisations contemporaines.\n(...)",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si un employeur refuse de me payer mes heures supplémentaires, quel est le délai pour le poursuivre en justice pour cela ?",
+    "answer": "Les articles fournis du Code du Travail (Préambule à 200) mentionnent l'obligation de payer les heures supplémentaires (article 196, 198), mais ils ne précisent pas le délai de prescription spécifique pour une action en justice concernant le non-paiement de ces heures. Des dispositions générales sur la prescription des créances salariales se trouveraient ailleurs dans le Code du Travail ou le Code des Obligations et Contrats.",
+    "context": "Article 196 [Code du Travail]: Lorsque les entreprises doivent faire face à des travaux d'intérêt \nnational ou à des surcroîts exceptionnels de travail, les salariés desdites \nentreprises peuvent être employés au-delà de la durée normale de travail \ndans les conditions fixées par voie réglementaire28, à condition qu'ils \nperçoivent, en sus de leurs salaires, des indemnisations pour les heures \nsupplémentaires.\nArticle 198 [Code du Travail]: Les heures supplémentaires sont payées en un seul versement en \nmême temps que le salaire dû.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je vends mon fonds de commerce et que le nouveau propriétaire ne paie pas ses dettes, suis-je toujours responsable si je suis encore inscrit au registre du commerce pour ce fonds ?",
+    "answer": "Oui, l'article 60 du Code de Commerce indique qu'en cas de cession d'un fonds de commerce, la personne immatriculée reste solidairement responsable des dettes de son successeur tant qu'elle ne s'est pas fait radier du registre du commerce ou qu'elle n'a pas fait modifier son inscription avec la mention expresse de la vente.",
+    "context": "Article 60 [CODE DE COMMERCE]: En cas de cession ou de location d'un fonds de commerce, la personne \nimmatriculée reste solidairement responsable des dettes de son successeur \nou de son locataire tant qu'elle ne s'est pas fait radier du registre du \ncommerce ou qu'elle n'a pas fait modifier son inscription avec la mention \nexpresse de la vente ou la location.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si je me marie avec une personne qui a une maladie grave, mais qu'elle me l'a cachée avant le mariage, puis-je demander l'annulation du mariage ?",
+    "answer": "L'article 63 du Code de la Famille permet de demander la résiliation du mariage si le consentement a été obtenu par dol (tromperie). L'article 107 considère comme vice rédhibitoire les maladies mettant en danger la vie ou la santé de l'autre époux dont on ne peut espérer la guérison en un an. Si la dissimulation de la maladie constitue un dol et que la maladie est un vice rédhibitoire, une demande de résiliation/divorce pourrait être envisagée.",
+    "context": "Article 63 [Code de la Famille]: Le conjoint qui a fait l'objet de contrainte ou de dol qui l'a amené à \naccepter le mariage, ou de faits expressément stipulés comme condition \ndans l'acte de mariage, peut demander la résiliation du mariage avant ou \naprès sa consommation dans un délai maximum de deux mois. Ce délai \ncourt à compter du jour de la levée de la contrainte ou de la date de la \nconnaissance du dol. Le conjoint lésé peut réclamer, en outre, un \ndédommagement.\nArticle 107 [Code de la Famille]: Sont considérés comme vices rédhibitoires pouvant compromettre la\nvie conjugale et permettant de demander d'y mettre fin:\n1) les vices empêchant les rapports conjugaux;\n2) les maladies mettant en danger la vie de l'autre époux ou sa\nsanté et dont on ne peut espérer la guérison dans le délai d'une\nannée.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Est-ce qu'un fonctionnaire peut être condamné pour avoir accepté un cadeau pour faire son travail normalement ?",
+    "answer": "Oui, l'article 248 du Code Pénal qualifie de corruption le fait pour un fonctionnaire public de solliciter ou recevoir des dons, présents ou autres avantages pour accomplir ou s'abstenir d'accomplir un acte de sa fonction, même juste, mais non sujet à rémunération. Cela est puni d'emprisonnement et d'amende.",
+    "context": "Article 248 [Code Penal]: Est coupable de corruption et puni de l'emprisonnement de deux à \ncinq ans et d'une amende de 2.000 à 50.000 dirhams quiconque sollicite \nou agrée des offres ou promesses, sollicite ou reçoit des dons, présents \nou autres avantages, pour :\n1° Etant magistrat, fonctionnaire public ou étant investi d'un mandat \nélectif, accomplir ou s'abstenir d'accomplir un acte de sa fonction, juste \nou non, mais non sujet à rémunération ou un acte qui, bien qu'en dehors \nde ses attributions personnelles, est, ou a pu être facilité par sa fonction;\n(...)",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Un commerçant peut-il valablement utiliser un nom commercial qui n'est pas inscrit au registre du commerce ?",
+    "answer": "L'article 70 du Code de Commerce établit que le droit de faire usage d'un nom ou d'une raison de commerce inscrit au registre appartient exclusivement à son propriétaire. L'article 74 indique qu'un nom pour lequel un certificat négatif a été délivré mais non inscrit dans les 90 jours ne peut plus être inscrit. Bien que l'usage d'un nom non inscrit ne soit pas explicitement interdit ici, il ne bénéficierait pas de la protection légale conférée par l'inscription et pourrait créer des conflits si un autre commerçant l'inscrit légalement.",
+    "context": "Article 70 [CODE DE COMMERCE]: Le droit de faire usage du nom d'un commerçant ou d'une raison de \ncommerce inscrit au registre du commerce et publié dans un journal \nd'annonces légales, appartient exclusivement au propriétaire de ce nom ou \nde cette raison.\nIl ne peut être employé par aucun autre, même par celui qui a un nom \nde famille identique ; celui-ci doit, en constituant une raison de commerce, \najouter à son nom une autre indication qui le distingue nettement de la \nraison de commerce déjà existante.\nArticle 74 [CODE DE COMMERCE]: Tout nom, raison de commerce, dénomination commerciale ou \nenseigne dont le bénéficiaire n'aura pas opéré l'inscription au registre du \ncommerce dans un délai de quatre-vingt-dix (90) jours à compter de la date \nde délivrance du certificat négatif, par le service du registre central du \ncommerce, ne peut être inscrit au registre du commerce.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 contient-elle des règles sur la propriété des terres agricoles collectives (terres Melk ou Guich) ?",
+    "answer": "L'article 71 de la Constitution indique que 'les droits réels et les régimes des propriétés immobilières publique, privée et collective' sont du domaine de la loi. Cela couvre donc le principe. Cependant, les règles spécifiques et détaillées de gestion, d'exploitation ou de transmission des terres agricoles collectives ne sont pas dans la Constitution elle-même mais dans des lois et dahirs spécifiques à ces régimes fonciers.",
+    "context": "Article 71 [Constitution du Maroc 2011]: Sont du domaine de la loi, outre les matières qui lui sont expressément dévolues par d'autres articles de la Constitution :\n(...)\n- les droits réels et les régimes des propriétés immobilières publique, privée et collective;\n(...)",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si je suis un artisan travaillant seul à domicile, suis-je considéré comme un 'salarié travaillant à domicile' si je vends mes produits directement aux clients ?",
+    "answer": "L'article 8 du Code du Travail définit le salarié travaillant à domicile comme celui qui exécute un travail pour le compte d'une ou plusieurs entreprises. Si vous travaillez pour votre propre compte et vendez directement à vos clients, vous ne correspondez pas à cette définition de 'salarié à domicile' mais plutôt à un travailleur indépendant ou artisan.",
+    "context": "Article 8 [Code du Travail]: Au sens de la présente loi, sont considérés comme salariés \ntravaillant à domicile, ceux qui satisfont aux conditions suivantes et ce, \nsans qu'il y ait lieu de rechercher s'il existe ou s'il n'existe pas entre eux et \nleur employeur un lien de subordination juridique, s'ils travaillent ou ne \ntravaillent pas sous la surveillance immédiate et habituelle de leur \nemployeur, si le local où ils travaillent et l'outillage qu'ils emploient leur \nappartiennent ou non, s'ils fournissent, en même temps que le travail, \ntout ou partie des matières premières qu'ils emploient lorsque ces \nmatières leur sont vendues par un donneur d'ouvrage qui acquiert \nensuite l'objet fabriqué ou leur sont livrées par un fournisseur indiqué \npar le donneur d'ouvrage auprès duquel les salariés sont tenus de \ns'approvisionner ou s'ils se procurent eux-mêmes ou non les fournitures \naccessoires :\n1. être chargés soit directement, soit par un intermédiaire \nd'exécuter un travail, moyennant une rémunération, pour le \ncompte d'une ou plusieurs des entreprises visées à l'article \npremier ci-dessus ;\n2. travailler soit seuls, soit avec un seul assistant ou avec leurs\nconjoints ou leurs enfants non-salariés.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je signe un contrat pour acheter un terrain qui n'existe pas réellement (par exemple, un terrain sous la mer), ce contrat est-il valable ?",
+    "answer": "Non, l'article 59 du Dahir formant Code des Obligations et des Contrats stipule qu'est nulle l'obligation qui a pour objet une chose ou un fait impossible, physiquement ou en vertu de la loi. Un terrain qui n'existe pas serait un objet physiquement impossible.",
+    "context": "Article 59 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Est nulle l'obligation qui a pour objet une chose ou un fait impossible, \nphysiquement ou en vertu de la loi.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "En cas de grève dans mon entreprise, mon contrat de travail est-il automatiquement rompu ?",
+    "answer": "Non, l'article 32 du Code du Travail indique que le contrat est provisoirement suspendu pendant la durée de la grève.",
+    "context": "Article 32 [Code du Travail]: Le contrat est provisoirement suspendu :\n(...)\n6. pendant la durée de la grève ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis VRP et que mon employeur met fin à mon CDD avant la date prévue sans faute de ma part, à quelle indemnité ai-je droit en plus de mon salaire ?",
+    "answer": "L'article 82, section II, du Code du Travail précise qu'en cas de résiliation anticipée d'un CDD de VRP par l'employeur sans faute grave, le VRP a droit, en plus du salaire jusqu'à l'échéance du contrat, à des dommages-intérêts dans les conditions prévues par l'article 33 (équivalant au montant des salaires restants jusqu'au terme du contrat). L'article 83 peut aussi ouvrir droit à une indemnité spécifique de clientèle.",
+    "context": "Article 82 [Code du Travail]: Les conséquences de la rupture du contrat de travail du voyageur, \nreprésentant ou placier par la volonté de l'une des parties, sont réglées \ncomme suit : \n(...)\nII. - S'il s'agit de la résiliation anticipée d'un contrat à durée \ndéterminée, il est dû au représentant, voyageur ou placier : \na) à titre de salaire, le montant des avantages directs ou indirects \nqu'il aurait recueillis jusqu'à expiration du contrat et, en outre, le \nmontant des avantages que le salarié percevrait par suite de la rupture \ndu contrat ;\nb) des dommages-intérêts dans les conditions prévues par l'article \n33 ci-dessus.\nArticle 33 [Code du Travail]: Le contrat de travail à durée déterminée prend fin au terme fixé par \nle contrat ou par la fin du travail qui a fait l'objet du contrat.\nLa rupture avant terme du contrat du travail à durée déterminée \nprovoquée par l'une des parties et non motivée par la faute grave de \nl'autre partie ou par un cas de force majeure donne lieu à dommages intérêts.\nLe montant des dommages-intérêts prévus au deuxième alinéa ci dessus équivaut au montant des salaires correspondant à la période \nallant de la date de la rupture jusqu'au terme fixé par le contrat.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code Pénal marocain contient-il des sanctions spécifiques pour la contrefaçon de médicaments ?",
+    "answer": "L'article 218-1 du Code Pénal mentionne 'la contrefaçon ou la falsification des monnaies ou effets de crédit public, des sceaux de l'Etat...' comme pouvant constituer un acte de terrorisme sous certaines conditions. Cependant, les sanctions spécifiques pour la contrefaçon de médicaments en dehors du contexte terroriste ne sont pas détaillées dans les articles fournis (1 à 267) et relèveraient probablement de lois spécifiques sur la santé publique et les médicaments ou d'autres sections du Code Pénal.",
+    "context": "Article 218-1 [Code Penal]: Constituent des actes de terrorisme, lorsqu'elles sont \nintentionnellement en relation avec une entreprise individuelle ou \ncollective ayant pour but l'atteinte grave à l'ordre public par \nl'intimidation, la terreur ou la violence, les infractions suivantes :\n(...)\n2) la contrefaçon ou la falsification des monnaies ou effets de crédit \npublic, des sceaux de l'Etat et des poinçons, timbres et marques, ou le \nfaux ou la falsification visés dans les articles 360, 361 et 362 du présent \ncode ;\n(...)",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si une convention collective est signée dans mon entreprise, est-elle applicable dès le lendemain ?",
+    "answer": "Pas tout à fait. L'article 114 du Code du Travail indique qu'une convention collective de travail n'est applicable qu'à l'expiration du troisième jour qui suit celui de son dépôt auprès de l'autorité gouvernementale chargée du travail.",
+    "context": "Article 114 [Code du Travail]: Une convention collective de travail n'est applicable qu'à l'expiration \ndu troisième jour qui suit celui de son dépôt auprès de l'autorité \ngouvernementale chargée du travail.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Mon entreprise veut me faire travailler 11 heures par jour pendant une semaine à cause d'un surcroît de travail exceptionnel. Est-ce légal si je suis payé en heures supplémentaires ?",
+    "answer": "L'article 184 du Code du Travail fixe la durée normale de travail à 44 heures par semaine et précise que la durée normale ne doit pas excéder dix heures par jour, même en cas de répartition inégale sur l'année. L'article 196 permet des heures supplémentaires pour surcroîts exceptionnels, mais le dépassement des 10 heures/jour devrait être exceptionnel et justifié par des dérogations spécifiques (comme celles des articles 190, 192), et non une pratique régulière même avec paiement d'heures supplémentaires.",
+    "context": "Article 184 [Code du Travail]: Dans les activités non agricoles, la durée normale de travail des \nsalariés est fixée à 2288 heures par année ou 44 heures par semaine.\nLa durée annuelle globale de travail peut être répartie sur l'année \nselon les besoins de l'entreprise à condition que la durée normale du \ntravail n'excède pas dix heures par jour, sous réserve des dérogations \nvisées aux articles 189, 190 et 192.\n(...)\nArticle 196 [Code du Travail]: Lorsque les entreprises doivent faire face à des travaux d'intérêt \nnational ou à des surcroîts exceptionnels de travail, les salariés desdites \nentreprises peuvent être employés au-delà de la durée normale de travail \ndans les conditions fixées par voie réglementaire28, à condition qu'ils \nperçoivent, en sus de leurs salaires, des indemnisations pour les heures \nsupplémentaires.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si une entreprise sous-traite une partie de son activité à une autre et que cette dernière ne paie pas les cotisations CNSS de ses employés, l'entreprise principale peut-elle être tenue responsable ?",
+    "answer": "Oui, l'article 89 du Code du Travail indique qu'en cas d'insolvabilité du sous-entrepreneur non inscrit au registre du commerce et non affilié à la CNSS, l'entrepreneur principal est tenu, entre autres, au versement des cotisations à la Caisse nationale de sécurité sociale pour les salariés du sous-traitant.",
+    "context": "Article 89 [Code du Travail]: Dans tous les cas, que les travaux soient exécutés ou les services \nsoient fournis dans les établissements de l'entrepreneur principal ou \nleurs dépendances ou qu'ils le soient dans des établissements ou \ndépendances autres que les siens ou qu'ils soient exécutés par des \nsalariés travaillant à domicile, et en cas d'insolvabilité du sous entrepreneur non inscrit au registre du commerce et non affilié à la \nCaisse nationale de sécurité sociale, l'entrepreneur principal est tenu, à \nconcurrence des sommes dues au sous-entrepreneur en faveur des \nsalariés travaillant pour le compte de ce dernier, d'honorer les \nengagements suivants : \n(...)\n4. le versement des cotisations à la Caisse nationale de sécurité \nsociale ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 contient-elle des règles sur la manière dont les lois sont publiées pour que les citoyens en aient connaissance ?",
+    "answer": "Oui, l'article 6 de la Constitution affirme le principe d'obligation de publication des normes juridiques. L'article 50 précise que la loi promulguée par le Roi doit faire l'objet de publication au 'Bulletin officiel' du Royaume.",
+    "context": "Article 6 [Constitution du Maroc 2011]: La loi est l'expression suprême de la volonté de la Nation. Tous, personnes physiques ou morales, y compris les pouvoirs publics, sont égaux devant elle et tenus de s'y soumettre.\nLes pouvoirs publics œuvrent à la création des conditions permettant de généraliser l'effectivité de la liberté et de l'égalité des citoyennes et des citoyens, ainsi que de leur participation à la vie politique, économique, culturelle et sociale.\nSont affirmés les principes de constitutionnalité, de hiérarchie et d'obligation de publication des normes juridiques.\nLa loi ne peut avoir d'effet rétroactif.\nArticle 50 [Constitution du Maroc 2011]: Le Roi promulgue la loi dans les trente jours qui suivent la transmission au gouvernement de la loi définitivement adoptée.\nLa loi ainsi promulguée doit faire l'objet de publication au « Bulletin officiel » du Royaume dans un délai n'excédant pas un mois courant à compter de la date du dahir de sa promulgation.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si j'ai un différend avec mon employeur concernant l'application de notre convention collective, comment cela peut-il être résolu ?",
+    "answer": "L'article 127 du Code du Travail indique que les conflits individuels de travail entre les parties liées par la convention collective, si la convention ne prévoit pas de procédure spécifique, sont réglés conformément aux dispositions législatives applicables en la matière (ce qui inclut généralement la saisine du tribunal compétent après une éventuelle tentative de conciliation).",
+    "context": "Article 127 [Code du Travail]: Les conflits collectifs de travail entre les parties liées par la \nconvention collective de travail, sont réglés conformément au livre VI de \nla présente loi, relatif au règlement des conflits collectifs de travail, à \ndéfaut de dispositions particulières dans la convention collective de\ntravail.\nLes conflits individuels de travail entre les parties liées par la \nconvention collective de travail, dans le cas où celle-ci ne prévoit pas de \ndispositions relatives à leur règlement, sont réglés conformément aux \ndispositions législatives applicables en la matière.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis Marocain et que je commets une trahison en temps de guerre en aidant une puissance ennemie, quelle est la peine maximale que je risque selon le Code Pénal ?",
+    "answer": "L'article 182 du Code Pénal indique qu'est coupable de trahison et puni de mort tout Marocain qui, en temps de guerre, entretient des intelligences avec une autorité étrangère ou ses agents en vue de favoriser les entreprises de cette autorité contre le Maroc, ou qui participe à une entreprise de démoralisation de l'armée ou de la nation nuisant à la défense nationale.",
+    "context": "Article 182 [Code Penal]: Est, en temps de guerre, coupable de trahison et puni de mort :\n1° Tout Marocain qui provoque des militaires ou des marins à \npasser au service d'une autorité étrangère, leur en facilite les moyens ou \nfait des enrôlements pour une autorité en guerre avec le Maroc;\n2° Tout Marocain qui entretient des intelligences avec une autorité \nétrangère ou avec ses agents en vue de favoriser les entreprises de cette \nautorité contre le Maroc;\n3° Tout Marocain qui participe sciemment à une entreprise de \ndémoralisation de l'armée ou de la nation ayant pour objet de nuire à la \ndéfense nationale.\nPour l'application du présent article et celle de l'article 181, sont \nassimilés aux Marocains les militaires ou marins étrangers au service du \nMaroc.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si je donne de l'argent à une organisation en sachant qu'elle va l'utiliser pour commettre des actes terroristes, suis-je punissable même si ces actes n'ont finalement pas lieu ?",
+    "answer": "Oui, l'article 218-4 du Code Pénal punit le fait de fournir, réunir ou gérer des fonds, valeurs ou biens dans l'intention de les voir utiliser ou en sachant qu'ils seront utilisés pour commettre un acte de terrorisme, indépendamment de la survenance d'un tel acte.",
+    "context": "Article 218-4 [Code Penal]: Constituent des actes de terrorisme les infractions ci-après :\n- le fait de fournir, de réunir ou de gérer par quelque moyen que ce \nsoit, directement ou indirectement, des fonds, des valeurs ou des biens \ndans l'intention de les voir utiliser ou en sachant qu'ils seront utilisés, en \ntout ou en partie, en vue de commettre un acte de terrorisme, \nindépendamment de la survenance d'un tel acte ;\n- le fait d'apporter un concours ou de donner des conseils à cette fin.\nLes infractions visées au présent article sont punies :\n* pour les personnes physiques, de cinq à vingt ans de réclusion et \nd'une amende de 500.000 à 2.000.000 de dirhams ;\n* pour les personnes morales, d'une amende de 1.000.000 à 5.000.000 \nde dirhams, sans préjudice des peines qui pourraient être prononcées à \nl'encontre de leurs dirigeants ou agents impliqués dans les infractions.\nLa peine est portée à dix ans et à trente ans de réclusion et l'amende \nau double :\n- lorsque les infractions sont commises en utilisant les facilités que \nprocure l'exercice d'une activité professionnelle ;\n- lorsque les infractions sont commises en bande organisée ;\n- en cas de récidive.\nLa personne coupable de financement du terrorisme encourt, en \noutre, la confiscation de tout ou partie de ses biens.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si je me marie avec une femme qui a une fille d'un précédent mariage, puis-je épouser cette fille plus tard si le mariage avec sa mère n'a jamais été consommé ?",
+    "answer": "L'article 37 du Code de la Famille interdit le mariage de l'homme avec les descendantes de l'épouse à condition que le mariage avec la mère ait été consommé. Si le mariage avec la mère n'a pas été consommé, cet empêchement spécifique ne s'appliquerait pas.",
+    "context": "Article 37 [Code de la Famille]: Est prohibé, pour cause de parenté par alliance, le mariage de\nl'homme avec les ascendantes de son épouse dès la conclusion du\nmariage et avec les descendantes de l'épouse à condition que le mariage\navec la mère ait été consommé, à tous les degrés, avec les ex-épouses des\nascendants et descendants dès la conclusion du mariage.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Mon entreprise veut stocker une copie électronique de mon contrat de travail. Est-ce que c'est légalement valable ?",
+    "answer": "L'article 2-1 du Dahir formant Code des Obligations et des Contrats permet d'établir et de conserver sous forme électronique les écrits exigés pour la validité d'un acte juridique. Un contrat de travail pourrait donc être conservé électroniquement si les conditions des articles 417-1 et 417-2 (non fournis ici mais référencés) sont respectées.",
+    "context": "Article 2-1 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Lorsqu'un écrit est exigé pour la validité d'un acte juridique, il peut \nêtre établi et conservé sous forme électronique dans les conditions \nprévues aux articles 417-1 et 417-2 ci-dessous.\nLorsqu'une mention écrite est exigée de la main même de celui qui \ns'oblige, ce dernier peut l'apposer sous forme électronique, si les \nconditions de cette apposition sont de nature à garantir qu'elle ne peut \nêtre effectuée que par lui-même.\nToutefois, les actes relatifs à l'application des dispositions du code de \nla famille et les actes sous seing privé relatifs à des sûretés personnelles ou \nréelles, de nature civile ou commerciale, ne sont pas soumis aux \ndispositions de la présente loi, à l'exception des actes établis par une \npersonne pour les besoins de sa profession.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Si le Conseil Constitutionnel (maintenant Cour Constitutionnelle) était en fonction avant la Constitution de 2011, a-t-il continué à travailler en attendant la nouvelle Cour ?",
+    "answer": "Oui, l'article 177 de la Constitution de 2011 stipule que le Conseil Constitutionnel en fonction continuera d'exercer ses attributions en attendant l'installation de la Cour Constitutionnelle prévue par la nouvelle Constitution.",
+    "context": "Article 177 [Constitution du Maroc 2011]: Le Conseil Constitutionnel en fonction continuera d'exercer ses attributions en attendant l'installation de la Cour Constitutionnelle prévue par la présente Constitution.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Mon employeur peut-il me licencier si je refuse de travailler pendant une grève légale ?",
+    "answer": "Le Préambule du Code du Travail interdit toute mesure visant à porter atteinte à la stabilité des salariés dans le travail pour cause de participation à un conflit collectif. L'article 32 indique que le contrat est suspendu pendant la durée de la grève. Le licenciement pour ce motif serait donc illégal.",
+    "context": "Préambule [Code du Travail]: (...)\nEst interdite toute mesure visant à porter atteinte à la stabilité des \nsalariés dans le travail pour l'une des raisons suivantes :\n1- la participation à un conflit collectif ;\n(...)\nArticle 32 [Code du Travail]: Le contrat est provisoirement suspendu :\n(...)\n6. pendant la durée de la grève ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'ai un commerce et que j'utilise un nom très similaire à celui d'un concurrent connu pour attirer ses clients, est-ce que je risque quelque chose selon le Code des Obligations et Contrats ?",
+    "answer": "Oui, l'article 84 du Dahir formant Code des Obligations et des Contrats indique que peuvent donner lieu à des dommages-intérêts les faits constituant une concurrence déloyale, par exemple le fait d'user d'un nom ou d'une marque à peu près similaires à ceux d'une maison déjà connue, de manière à induire le public en erreur.",
+    "context": "Article 84 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Peuvent donner lieu à des dommages-intérêts les faits constituant \nune concurrence déloyale et, par exemple :\n1. Le fait d'user d'un nom ou d'une marque à peu près similaires \nà ceux appartenant légalement à une maison ou fabrique déjà \nconnue, ou à une localité ayant une réputation collective, de \nmanière à induire le public en erreur sur l'individualité du \nfabricant et la provenance du produit;\n(...)",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Si mon patron me demande de faire un travail qui n'est pas du tout dans mes compétences et que je refuse, peut-il me licencier pour faute grave ?",
+    "answer": "L'article 39 du Code du Travail liste parmi les fautes graves 'le refus délibéré et injustifié du salarié d'exécuter un travail de sa compétence'. Si le travail demandé n'est pas de votre compétence, le refus pourrait être justifié et ne pas constituer une faute grave selon cet article.",
+    "context": "Article 39 [Code du Travail]: Sont considérées comme fautes graves pouvant provoquer le \nlicenciement du salarié:\n(...)\n10.le refus délibéré et injustifié du salarié d'exécuter un travail de \nsa compétence;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 parle-t-elle de la durée des vacances scolaires ?",
+    "answer": "La Constitution, dans l'article 31, mentionne le droit à une éducation moderne et de qualité, et l'article 168 crée un Conseil supérieur de l'éducation. Cependant, les détails comme la durée des vacances scolaires ne sont pas fixés par la Constitution mais par le ministère de l'Éducation via le calendrier scolaire annuel.",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n(...)\n- à une éducation moderne, accessible et de qualité ;\n(...)\nArticle 168 [Constitution du Maroc 2011]: Il est créé un Conseil supérieur de l'éducation, de la formation et de la recherche scientifique.\nCe Conseil constitue une instance consultative chargée d'émettre son avis sur toutes les politiques publiques et sur toutes les questions d'intérêt national concernant l'éducation, la formation et la recherche scientifique, ainsi que sur les objectifs et le fonctionnement des services publics chargés de ces domaines. Il contribue également à l'évaluation des politiques et programmes publics menés dans ces domaines.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si je suis un commerçant et qu'un client ne me paie pas dans le délai de 90 jours qu'on avait convenu, à partir de quand puis-je calculer les pénalités de retard ?",
+    "answer": "Selon l'article 78.3 du Code de Commerce, les conditions relatives au paiement doivent préciser une indemnité de retard exigible le jour suivant la date de paiement convenue entre les parties. Donc, si le délai convenu était de 90 jours, l'indemnité est exigible à partir du 91ème jour.",
+    "context": "Article 78.3 [CODE DE COMMERCE]: Les conditions relatives au paiement doivent préciser une indemnité\nde retard exigible le jour suivant la date de paiement convenue entre les \nparties. Le taux de cette indemnité ne peut être inférieur au taux déterminé \npar voie réglementaire33.\nSi l’indemnité de retard n’a pas été prévue parmi les conditions de \npaiement, cette indemnité de retard au taux mentionné au 1er alinéa ci dessus est exigible le jour suivant la date de paiement convenue entre les \nparties.\nSi le délai de paiement n’est pas convenu entre les parties, l’indemnité\nde retard au taux mentionné au 1er alinéa ci-dessus est exigible à \nl’expiration de soixante jours après la date de réception des marchandises \nou d’exécution de la prestation demandée.\nPour les établissements publics mentionnés à l’article 78-1 ci-dessus, \ncette indemnité est exigible à partir du jour suivant la fin du délai de \npaiement prévu à l’article 78-2 ci-dessus qui suit la date de constatation du \nservice fait telle que définie par les dispositions réglementaires en vigueur.\nL’indemnité de retard est exigible sans formalité préalable.\nToute clause du contrat par laquelle le commerçant renonce à son droit \nde réclamer la pénalité de retard est nulle et sans effet.\nLorsque le commerçant verse les sommes dues après l’expiration du \ndélai de paiement convenu entre les parties ou après l’expiration du délai \nprévu au 1er alinéa de l’article 78.2, l’action en réclamation de l’indemnité\nde retard se prescrit aprés un an, à compter du jour de paiement.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si j'ai moins de 18 ans et que je travaille dans un spectacle public comme acteur, mon employeur a-t-il besoin d'une autorisation spéciale ?",
+    "answer": "Oui, l'article 145 du Code du Travail stipule qu'aucun mineur de moins de 18 ans ne peut, sans autorisation écrite préalable de l'agent chargé de l'inspection du travail (après consultation du tuteur), être employé comme comédien ou interprète dans les spectacles publics de certaines entreprises.",
+    "context": "Article 145 [Code du Travail]: Aucun mineur de moins de 18 ans ne peut, sans autorisation écrite \npréalablement remise par l'agent chargé de l'inspection du travail pour \nchaque mineur et après consultation de son tuteur, être employé à titre \nde salarié comme comédien ou interprète dans les spectacles publics faits \npar les entreprises dont la liste est fixée par voie réglementaire20.\nL'agent chargé de l'inspection du travail peut procéder au retrait de \nl'autorisation précédemment délivrée soit à son initiative ou à l'initiative \nde toute personne habilitée à cet effet.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un commerçant est décédé il y a 6 mois, son immatriculation au registre du commerce est-elle automatiquement annulée ?",
+    "answer": "L'article 54 du Code de Commerce indique qu'un commerçant décédé depuis plus d'un an est radié d'office. Donc, après seulement 6 mois, la radiation d'office pour ce motif ne serait pas encore automatique.",
+    "context": "Article 54 [CODE DE COMMERCE]: Est radié d'office tout commerçant:\n1) frappé d'une interdiction d'exercer une activité commerciale en \nvertu d'une décision judiciaire passée en force de chose jugée ; \n2) décédé depuis plus d'un an ; \n3) s'il est établi que la personne immatriculée a cessé effectivement \ndepuis plus de trois ans l'exercice de l'activité pour laquelle elle a été \ninscrite.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si je suis un fonctionnaire et que mon supérieur me donne un ordre illégal, suis-je quand même responsable si j'exécute cet ordre et que cela cause un préjudice ?",
+    "answer": "L'article 225 du Code Pénal indique que si le fonctionnaire justifie avoir agi par ordre de ses supérieurs hiérarchiques dans un domaine de leur compétence, pour lequel il leur devait obéissance, il bénéficie d'une excuse absolutoire pour les actes arbitraires. Cependant, cet article concerne les actes attentatoires à la liberté ou aux droits civiques. La responsabilité pour d'autres types d'ordres illégaux n'est pas explicitement couverte ici et pourrait dépendre d'autres dispositions ou de la nature de l'illégalité de l'ordre.",
+    "context": "Article 225 [Code Penal]: Tout magistrat, tout fonctionnaire public, tout agent ou préposé de \nl'autorité ou de la force publique qui ordonne ou fait quelque acte \narbitraire, attentatoire soit à la liberté individuelle, soit aux droits \nciviques d'un ou plusieurs citoyens, est puni de la dégradation civique.\nS'il justifie avoir agi par ordre de ses supérieurs hiérarchiques dans \nun domaine de leur compétence, pour lequel il leur devait obéissance, il \nbénéficie d'une excuse absolutoire. En ce cas, la peine est appliquée \nseulement aux supérieurs qui ont donné l'ordre.\nSi l'acte arbitraire ou attentatoire à la liberté individuelle a été \ncommis ou ordonné dans un intérêt privé ou pour la satisfaction de \npassions personnelles, la peine encourue est celle édictée aux articles 436 \nà 440.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Un enfant de 14 ans peut-il être employé pour faire des acrobaties dangereuses dans un spectacle ?",
+    "answer": "Non, l'article 147 du Code du Travail interdit à toute personne de faire exécuter par des mineurs de moins de 18 ans des tours de force périlleux ou des exercices d'acrobatie. Il interdit également aux directeurs de cirque d'employer des mineurs de moins de 16 ans dans leurs représentations.",
+    "context": "Article 147 [Code du Travail]: Il est interdit à toute personne de faire exécuter par des mineurs de \nmoins de 18 ans des tours de force périlleux, des exercices d'acrobatie, de \ncontorsion ou de leur confier des travaux comportant des risques sur \nleur vie, leur santé ou leur moralité.\nIl est également interdit à toute personne pratiquant les professions \nd'acrobate, saltimbanque, montreur d'animaux, directeur de cirque ou \nd'attractions foraines, d'employer dans ses représentations des mineurs \nâgés de moins de 16 ans.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je déplace mon fonds de commerce et que je ne préviens pas mes créanciers qui ont un nantissement, que se passe-t-il si cela leur cause un préjudice ?",
+    "answer": "L'article 111 du Code de Commerce indique qu'en cas d'omission des formalités de notification du déplacement et de modification de l'inscription, le créancier inscrit peut être déchu de son privilège s'il est établi que par sa négligence, il a causé un préjudice aux tiers induits en erreur sur la condition juridique du fonds de commerce.",
+    "context": "Article 111 [CODE DE COMMERCE]: En cas de déplacement du fonds de commerce, les créances inscrites \ndeviendront de plein droit exigibles si le propriétaire du fonds de \ncommerce n'a pas fait connaître aux créanciers inscrits, quinze jours au \nmoins à l'avance, son intention de déplacer le fonds et le nouveau siège \nqu'il entend lui donner.\nDans la quinzaine de l'avis à eux notifié ou dans les trente jours où ils \nauront eu connaissance du déplacement, le vendeur ou le créancier nanti \ndoit procéder à une inscription modificative sur le registre national \nélectronique des sûretés mobilières mentionnant le nouveau siège du \nfonds37.\nEn cas d'omission des formalités prescrites par l'alinéa précédent, le \ncréancier inscrit peut être déchu de son privilège s'il est établi que par sa \nnégligence, il a causé un préjudice aux tiers induits en erreur sur la\ncondition juridique du fonds de commerce.\nLe déplacement du fonds de commerce sans le consentement du \nvendeur ou du créancier gagiste peut, s'il en résulte une dépréciation du \nfonds, rendre leurs créances exigibles.\nL'inscription d'un nantissement peut également rendre exigibles les \ncréances antérieures ayant pour cause l'exploitation du fonds de \ncommerce.\nLes demandes en déchéance du terme formées en vertu des deux \nalinéas précédents devant le tribunal sont soumises aux règles de \nprocédure édictées par le dernier alinéa de l'article 113.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Est-ce que la Constitution marocaine de 2011 précise comment est organisé le système de santé publique (hôpitaux, centres de santé) ?",
+    "answer": "L'article 31 de la Constitution garantit le droit aux soins de santé et à la protection sociale. L'article 71 indique que les principes et règles du système de santé sont du domaine de la loi. Cependant, l'organisation détaillée du système de santé publique (structure des hôpitaux, etc.) n'est pas dans la Constitution elle-même mais serait définie par des lois et règlements spécifiques au secteur de la santé.",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n- aux soins de santé ;\n- à la protection sociale, à la couverture médicale et à la solidarité mutualiste ou organisée par l'Etat ;\n(...)\nArticle 71 [Constitution du Maroc 2011]: Sont du domaine de la loi, outre les matières qui lui sont expressément dévolues par d'autres articles de la Constitution :\n(...)\n--- les principes et règles du système de santé ;\n(...)",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si un contrat est signé sous la menace d'une arme, est-il valable ?",
+    "answer": "Non, un tel contrat serait nul. L'article 39 du Dahir formant Code des Obligations et des Contrats stipule que le consentement extorqué par violence est annulable. L'article 47 définit la violence comme une contrainte incluant des faits de nature à produire une souffrance physique ou la crainte d'un préjudice notable, ce qui inclurait la menace par une arme.",
+    "context": "Article 39 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Est annulable le consentement donné par erreur, surpris par dol, ou \nextorqué par violence.\nArticle 47 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: La violence ne donne ouverture à la rescision de l'obligation que :\n1. Lorsqu'elle en a été la cause déterminante ;\n2. Lorsqu'elle est constituée de faits de nature à produire chez \ncelui qui en est l'objet, soit une souffrance physique, soit un \ntrouble moral profond, soit la crainte d'exposer sa personne, \nson honneur ou ses biens à un préjudice notable, eu égard à \nl'âge, au sexe, à la condition des personnes et à leur degré \nd'impressionnabilité.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Quelle est la durée maximale de travail par jour si mon entreprise organise le travail par équipes successives ?",
+    "answer": "L'article 188 du Code du Travail indique qu'en cas d'organisation du travail par équipes successives, la durée de travail de chaque équipe ne peut excéder huit heures par jour, et cette durée doit être continue sauf une interruption pour le repos d'une heure maximum.",
+    "context": "Article 188 [Code du Travail]: En cas d'organisation du travail par équipes successives, la durée de \ntravail de chaque équipe ne peut excéder huit heures par jour. Cette \ndurée doit être continue sauf une interruption pour le repos qui ne peut \nêtre supérieure à une heure.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si une société commerciale est en difficulté financière, le Code de Commerce prévoit-il une procédure pour l'aider avant la faillite (liquidation) ?",
+    "answer": "L'article 55 du Code de Commerce mentionne la 'procédure de redressement' judiciaire avant la 'liquidation judiciaire'. Cela suggère qu'il existe des mécanismes pour tenter de sauver l'entreprise. Les détails de ces procédures de redressement se trouvent dans le Livre V du Code de Commerce (non fourni ici).",
+    "context": "Article 55 [CODE DE COMMERCE]: Est radié d'office tout commerçant ou personne morale :\n1) à compter de la clôture d'une procédure de redressement ou de \nliquidation judiciaire ;\n(...)",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 garantit-elle la liberté de créer une chaîne de télévision privée ?",
+    "answer": "L'article 28 de la Constitution garantit la liberté de la presse et le droit d'exprimer et de diffuser des informations. Il mentionne que la loi fixe les règles d'organisation et de contrôle des moyens publics de communication et que la Haute autorité de la communication audiovisuelle veille au respect du pluralisme. Bien que la liberté d'expression soit garantie, les conditions spécifiques pour créer une chaîne de télévision privée relèveraient de lois spécifiques sur l'audiovisuel et des autorisations de la HACA (non détaillées ici).",
+    "context": "Article 28 [Constitution du Maroc 2011]: La liberté de la presse est garantie et ne peut être limitée par aucune forme de censure préalable.\nTous ont le droit d'exprimer et de diffuser librement et dans les seules limites expressément prévues par la loi, des informations, des idées et des opinions.\nLes pouvoirs publics favorisent l'organisation du secteur de la presse de manière indépendante et sur des bases démocratiques, ainsi que la détermination des règles juridiques et déontologiques le concernant.\nLa loi fixe les règles d'organisation et de contrôle des moyens publics de communication. Elle garantit l'accès à ces moyens dans le respect du pluralisme linguistique, culturel et politique de la société marocaine.\nConformément aux dispositions de l'article 165 de la présente Constitution, la Haute autorité de la communication audiovisuelle veille au respect de ce pluralisme.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si mon employeur décide de changer les horaires de travail, doit-il m'en informer par écrit ?",
+    "answer": "Oui, l'article 24 du Code du Travail stipule que l'employeur est tenu de communiquer aux salariés par écrit lors de l'embauchage les dispositions relatives aux horaires de travail, ainsi que chaque modification qui leur est apportée.",
+    "context": "Article 24: De manière générale, l'employeur est tenu de prendre toutes les \nmesures nécessaires afin de préserver la sécurité, la santé et la dignité \ndes salariés dans l'accomplissement des tâches qu'ils exécutent sous sa \ndirection et de veiller au maintien des règles de bonne conduite, de \nbonnes mœurs et de bonne moralité dans son entreprise.\nIl est également tenu de communiquer aux salariés par écrit lors de \nl'embauchage, les dispositions relatives aux domaines ci-après ainsi que \nchaque modification qui leur est apportée :\n1. la convention collective de travail et, le cas échéant, son \ncontenu;\n2. le règlement intérieur ;\n3. les horaires de travail ;\n4. les modalités d'application du repos hebdomadaire ;\n5. les dispositions légales et les mesures concernant la \npréservation de la santé et de la sécurité, et la prévention des \nrisques liés aux machines9;\n6. les dates, heure et lieu de paye ;\n7. le numéro d'immatriculation à la Caisse nationale de sécurité \nsociale ;\n8. l'organisme d'assurance les assurant contre les accidents de \ntravail et les maladies professionnelles.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain s'applique-t-il de la même manière aux travailleurs agricoles qu'aux travailleurs dans l'industrie ?",
+    "answer": "L'article premier du Code du Travail indique que ses dispositions s'appliquent aux entreprises industrielles, commerciales, artisanales et aux exploitations agricoles et forestières. Cependant, l'article 184, par exemple, fixe des durées normales de travail différentes pour les activités non agricoles et agricoles. Certaines dispositions peuvent donc varier.",
+    "context": "Article premier: Les dispositions de la présente loi s'appliquent aux personnes liées \npar un contrat de travail quels que soient ses modalités d'exécution, la \nnature de la rémunération et le mode de son paiement qu'il prévoit et la \nnature de l'entreprise dans laquelle il s'exécute, notamment les \nentreprises industrielles, commerciales, artisanales et les exploitations \nagricoles et forestières et leurs dépendances. (...)\nArticle 184: Dans les activités non agricoles, la durée normale de travail des \nsalariés est fixée à 2288 heures par année ou 44 heures par semaine.\n(...)\nDans les activités agricoles, la durée normale de travail est fixée à \n2496 heures dans l'année. Elle est répartie par périodes selon les \nnécessités des cultures suivant une durée journalière déterminée par \nl'autorité gouvernementale compétente, après consultation des \norganisations professionnelles des employeurs et des organisations \nsyndicales des salariés les plus représentatives25.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Un CDD (Contrat à Durée Déterminée) dans le secteur agricole peut-il être renouvelé plusieurs fois ?",
+    "answer": "L'article 17 du Code du Travail indique que dans le secteur agricole, le contrat de travail à durée déterminée peut être conclu pour une durée de six mois renouvelable à condition que la durée totale des contrats conclus ne dépasse pas deux ans. Après cela, il devient à durée indéterminée.",
+    "context": "Article 17: (...)\nDans le secteur agricole, le contrat de travail à durée déterminée \npeut être conclu pour une durée de six mois renouvelable à condition \nque la durée des contrats conclus ne dépasse pas deux ans. Le contrat \ndevient par la suite à durée indéterminée.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si mon employeur ne me fournit pas de contrat de travail écrit, est-ce que cela veut dire que je n'ai pas de contrat ?",
+    "answer": "Non, pas nécessairement. L'article 18 du Code du Travail précise que la preuve de l'existence du contrat de travail peut être rapportée par tous les moyens. L'écrit est une forme de preuve, mais son absence ne signifie pas l'inexistence du contrat si la relation de travail existe en fait.",
+    "context": "Article 18: La preuve de l'existence du contrat de travail peut être rapportée \npar tous les moyens.\nLe contrat de travail établi par écrit est exonéré des droits \nd'enregistrement.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "En tant que salarié, ai-je le droit d'accéder à des formations pour m'améliorer professionnellement ?",
+    "answer": "Oui, l'article 23 du Code du Travail indique que les salariés ont le droit de bénéficier des programmes de lutte contre l'analphabétisme et de formation continue. Les conditions sont fixées par voie réglementaire.",
+    "context": "Article 23: Les salariés ont le droit de bénéficier des programmes de lutte \ncontre l'analphabétisme et de formation continue.\nLes conditions et les modalités du bénéfice de ces formations sont\nfixées par voie réglementaire.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain impose-t-il des règles sur la température maximale ou minimale sur le lieu de travail ?",
+    "answer": "L'article 24 du Code du Travail impose à l'employeur de prendre toutes les mesures nécessaires pour préserver la sécurité et la santé des salariés. L'article 139 mentionne que le règlement intérieur doit comporter des dispositions relatives à la protection de la santé et à la sécurité. Cependant, des limites de température spécifiques ne sont pas détaillées dans les articles fournis (Préambule à 200) et relèveraient de réglementations techniques sur l'hygiène et la sécurité au travail.",
+    "context": "Article 24: De manière générale, l'employeur est tenu de prendre toutes les \nmesures nécessaires afin de préserver la sécurité, la santé et la dignité \ndes salariés dans l'accomplissement des tâches qu'ils exécutent sous sa \ndirection (...)\nArticle 139: Le modèle du règlement intérieur est fixé par l'autorité \ngouvernementale chargée du travail (...) et doit comporter \nnotamment: \n(...)\n2. des dispositions particulières relatives à l'organisation du \ntravail, aux mesures disciplinaires, à la protection de la santé \net à la sécurité des salariés;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un salarié quitte son poste sans démissionner et sans justification pendant 5 jours, est-ce considéré comme une faute grave ?",
+    "answer": "Oui, l'article 39 du Code du Travail liste comme faute grave pouvant provoquer le licenciement 'l'absence non justifiée du salarié pour plus de quatre jours ou de huit demi-journées pendant une période de douze mois'.",
+    "context": "Article 39: Sont considérées comme fautes graves pouvant provoquer le \nlicenciement du salarié:\n(...)\n11.l'absence non justifiée du salarié pour plus de quatre jours ou \nde huit demi-journées pendant une période de douze mois;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Combien de temps ai-je pour contester un 'reçu pour solde de tout compte' si je pense qu'il est incorrect ?",
+    "answer": "L'article 75 du Code du Travail indique que le 'reçu pour solde de tout compte' peut être dénoncé dans les soixante jours suivant la date de sa signature.",
+    "context": "Article 75: Le \" reçu solde de tout compte \" peut être dénoncé dans les soixante \njours suivant la date de sa signature.\nLa dénonciation du reçu doit être effectuée, soit par lettre \nrecommandée avec accusé de réception adressée à l'employeur, soit par \nassignation devant le tribunal. Elle n'est valable qu'à condition de \npréciser les divers droits dont le salarié entend se prévaloir.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis un VRP et que mon contrat ne mentionne pas d'interdiction, puis-je prendre une nouvelle représentation pour une autre entreprise sans en parler à mon employeur actuel ?",
+    "answer": "L'article 81 du Code du Travail précise que lorsque le contrat ne contient pas d'interdiction de représenter d'autres entreprises, les parties doivent, sauf renonciation expresse, prévoir une clause indiquant les entreprises déjà représentées et l'engagement de ne pas prendre de nouvelles représentations sans autorisation préalable de l'employeur. Donc, en principe, vous devriez demander l'autorisation.",
+    "context": "Article 81: Les contrats prévus à l'article 79 ci-dessus peuvent, pour leur durée, \ncontenir l'interdiction pour le voyageur, représentant ou placier de \nreprésenter des entreprises commerciales ou industrielles ou des \nproduits déterminés.\nLorsque le contrat ne contient pas cette interdiction, les parties \ndoivent, à moins qu'elles n'y renoncent par une stipulation expresse, \nprévoir, le cas échéant, une clause indiquant les entreprises \ncommerciales ou industrielles ou les produits que le voyageur, \nreprésentant ou placier représente déjà jusqu'à la formation du contrat et \nl'engagement de ne pas prendre en cours de contrat de nouvelles \nreprésentations sans autorisation préalable de l'employeur.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si mon entreprise principale sous-traite une partie du travail à une autre entreprise qui ne me paie pas mon salaire, puis-je réclamer mon salaire à l'entreprise principale ?",
+    "answer": "Oui, dans certains cas. L'article 89 du Code du Travail indique qu'en cas d'insolvabilité du sous-entrepreneur (surtout s'il n'est pas inscrit au registre du commerce ni affilié à la CNSS), l'entrepreneur principal est tenu, à concurrence des sommes dues au sous-entrepreneur, au paiement des salaires des employés du sous-traitant, sous réserve des conditions de l'article 91 (avis de défaut de paiement).",
+    "context": "Article 89: Dans tous les cas, que les travaux soient exécutés ou les services \nsoient fournis dans les établissements de l'entrepreneur principal ou \nleurs dépendances ou qu'ils le soient dans des établissements ou \ndépendances autres que les siens ou qu'ils soient exécutés par des \nsalariés travaillant à domicile, et en cas d'insolvabilité du sous entrepreneur non inscrit au registre du commerce et non affilié à la \nCaisse nationale de sécurité sociale, l'entrepreneur principal est tenu, à \nconcurrence des sommes dues au sous-entrepreneur en faveur des \nsalariés travaillant pour le compte de ce dernier, d'honorer les \nengagements suivants : \n1. le paiement des salaires sous réserve des dispositions prévues \nà l'article 91 ci-dessous : \n(...)\nArticle 90: En cas d'insolvabilité du sous-entrepreneur dans les cas visés à \nl'article 89 ci-dessus, les salariés lésés et la Caisse nationale de sécurité \nsociale ont le droit d'intenter une action contre l'entrepreneur principal \npour le compte duquel le travail aura été exécuté.\nArticle 91: L'entrepreneur principal n'est responsable du paiement des salaires \ndu personnel du sous-entrepreneur que si un avis de défaut de paiement \nlui est adressé dans les soixante jours qui ont suivi la date d'exigibilité \ndes salaires du dernier mois ou de la dernière quinzaine, demeurés \nimpayés, soit par les salariés du sous-entrepreneur, soit par l'autorité \nadministrative locale ou l'agent chargé de l'inspection du travail.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Les parties à une négociation collective sont-elles obligées de se fournir toutes les informations demandées ?",
+    "answer": "Oui, l'article 94 du Code du Travail stipule que chaque partie dans la négociation collective est tenue de fournir à l'autre partie les informations et les indications qu'elle demande et nécessaires pour faciliter le déroulement des négociations.",
+    "context": "Article 94: Chaque partie dans la négociation collective est tenue de fournir à \nl'autre partie les informations et les indications qu'elle demande et \nnécessaires pour faciliter le déroulement des négociations.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Combien de temps l'autre partie a-t-elle pour répondre à une demande de négociation collective envoyée par lettre recommandée ?",
+    "answer": "Selon l'article 97 du Code du Travail, la partie avisée d'une demande de négociation doit notifier sa réponse à l'autre partie de la même manière (lettre recommandée) dans un délai de sept jours à compter de la date de réception du préavis.",
+    "context": "Article 97: La partie désirant négocier est tenue, lorsqu'il est nécessaire, \nd'adresser un préavis à l'autre partie par une lettre recommandée avec \naccusé de réception.\nLa partie avisée doit notifier sa réponse à I'autre partie de la même \nmanière, dans un délai de sept jours, à compter de la date de la réception \ndu préavis.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si une convention collective est signée pour la durée d'un projet spécifique, quand prend-elle fin ?",
+    "answer": "L'article 120 du Code du Travail indique que la convention collective de travail conclue pour la durée de réalisation d'un projet demeure valable jusqu'à l'achèvement dudit projet.",
+    "context": "Article 120: La convention collective de travail conclue pour la durée de \nréalisation d'un projet demeure valable jusqu'à l'achèvement dudit \nprojet.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain précise-t-il le nombre de jours de congés payés annuels auxquels un salarié a droit ?",
+    "answer": "Les articles fournis (Préambule à 200) mentionnent le droit au congé annuel payé (par exemple, articles 5, 54, 89), mais ils ne spécifient pas le nombre de jours. Ces détails se trouvent dans d'autres sections du Code du Travail (Livre II, Titre IV, Chapitre III, non fourni ici).",
+    "context": "Article 5: Les bénéficiaires des stages de formation-insertion et de formation \npar apprentissage sont soumis aux dispositions relatives à la réparation \ndes accidents de travail et des maladies professionnelles7 ainsi qu'aux \ndispositions prévues par la présente loi, notamment en ce qui concerne la \ndurée du travail, le repos hebdomadaire, le congé annuel payé, les jours \nde repos et de fêtes et la prescription.\nArticle 54: Sont considérées comme périodes de travail effectif :\n1. les périodes de congé annuel payé ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si une convention collective est étendue à tout un secteur, mais qu'une entreprise de ce secteur cesse son activité, la convention étendue s'arrête-t-elle pour les autres entreprises ?",
+    "answer": "L'article 134 du Code du Travail précise que la convention collective de travail étendue cesse d'être obligatoire lorsque la convention initiale (celle qui a été étendue) prend fin. La cessation d'activité d'une seule entreprise ne mettrait pas fin à la convention étendue pour les autres.",
+    "context": "Article 134: La convention collective de travail étendue cesse d'être obligatoire \nlorsque la convention initiale prend fin.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'ouvre un petit atelier d'artisanat avec seulement 5 employés, suis-je quand même obligé de déclarer l'ouverture à l'inspection du travail ?",
+    "answer": "L'article 135 du Code du Travail s'applique à 'toute personne physique ou morale assujettie aux dispositions de la présente loi'. L'article 4 peut exempter certaines catégories d'employeurs du secteur traditionnel avec peu d'assistants. Si votre atelier ne rentre pas dans ces exemptions spécifiques, vous seriez tenu de faire la déclaration, même avec 5 salariés.",
+    "context": "Article 135: Toute personne physique ou morale assujettie aux dispositions de la \nprésente loi et envisageant d'ouvrir une entreprise, un établissement ou \nun chantier dans lequel elle va employer des salariés, est tenue d'en faire \ndéclaration à l'agent chargé de l'inspection du travail dans les conditions \net formes fixées par voie réglementaire18.\nArticle 4: (...)\nNe sont pas soumises à la présente loi, certaines catégories \nprofessionnelles d'employeurs, fixées par voie réglementaire, après avis \ndes organisations professionnelles des employeurs et des salariés les plus \nreprésentatives.\nSont prises en considération pour la détermination des catégories \nmentionnées ci-dessus les conditions suivantes :\n1. l'employeur doit être une personne physique ;\n2. le nombre des personnes qui l'assistent ne doit pas dépasser \ncinq;\n3. le revenu annuel de l'employeur ne doit pas dépasser cinq fois \nla tranche exonérée de l'impôt général sur le revenu.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je dirige un cirque, puis-je faire travailler mon fils de 15 ans dans un numéro d'acrobatie ?",
+    "answer": "Non, l'article 147 du Code du Travail interdit d'employer des mineurs âgés de moins de 16 ans dans les représentations pour les directeurs de cirque, et interdit de faire exécuter des exercices d'acrobatie par des mineurs de moins de 18 ans.",
+    "context": "Article 147: Il est interdit à toute personne de faire exécuter par des mineurs de \nmoins de 18 ans des tours de force périlleux, des exercices d'acrobatie, de \ncontorsion ou de leur confier des travaux comportant des risques sur \nleur vie, leur santé ou leur moralité.\nIl est également interdit à toute personne pratiquant les professions \nd'acrobate, saltimbanque, montreur d'animaux, directeur de cirque ou \nd'attractions foraines, d'employer dans ses représentations des mineurs \nâgés de moins de 16 ans.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Une femme enceinte peut-elle décider de quitter son travail sans donner de préavis ?",
+    "answer": "Oui, l'article 158 du Code du Travail stipule que la salariée en état de grossesse attesté par certificat médical peut quitter son emploi sans préavis et sans avoir à payer une indemnité compensatrice de préavis ou de rupture du contrat.",
+    "context": "Article 158: La salariée en état de grossesse attesté par certificat médical peut \nquitter son emploi sans préavis et sans avoir à payer une indemnité \ncompensatrice de préavis ou de rupture du contrat.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un salarié handicapé est embauché, l'employeur doit-il faire quelque chose de spécial concernant son poste de travail ?",
+    "answer": "Oui, l'article 169 du Code du Travail oblige l'employeur à équiper ses locaux des accessibilités nécessaires pour faciliter le travail des salariés handicapés et à veiller à leur procurer toutes les conditions d'hygiène et de sécurité professionnelle.",
+    "context": "Article 169: L'employeur doit équiper ses locaux des accessibilités22 nécessaires \npour faciliter le travail des salariés handicapés et veiller à leur procurer \ntoutes les conditions d'hygiène et de sécurité professionnelle.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "À partir de quelle heure le soir le travail est-il considéré comme du 'travail de nuit' dans une ferme ?",
+    "answer": "Selon l'article 172 du Code du Travail, dans les activités agricoles, est considéré comme travail de nuit tout travail exécuté entre 20 heures et 5 heures.",
+    "context": "Article 172: (...)\nDans les activités non agricoles, est considéré comme travail de nuit \ntout travail exécuté entre 21 heures et 6 heures.\nDans les activités agricoles, est considéré comme travail de nuit tout \ntravail exécuté entre 20 heures et 5 heures.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain contient-il des dispositions sur la formation professionnelle des demandeurs d'emploi ?",
+    "answer": "Le Préambule du Code du Travail mentionne que toute personne cherchant un emploi a le droit de bénéficier gratuitement des services publics lors de la recherche d'un emploi décent, de la requalification ou de la formation. L'article 23 mentionne le droit des salariés à la formation continue. Cependant, les détails des programmes de formation pour les demandeurs d'emploi ne sont pas dans les articles fournis (Préambule à 200) et relèveraient d'autres textes ou de politiques d'emploi spécifiques.",
+    "context": "Préambule: (...)\nConformément au droit au travail prévu par la Constitution, toute \npersonne ayant atteint l'âge d'admission au travail et désirant obtenir un \nemploi qu'elle est capable d'exercer et qu'elle cherche activement à \nobtenir, a le droit de bénéficier gratuitement des services publics lors de \nla recherche d'un emploi décent, de la requalification ou de la formation \nen vue d'une éventuelle promotion.\n(...)\nArticle 23: Les salariés ont le droit de bénéficier des programmes de lutte \ncontre l'analphabétisme et de formation continue.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si mon entreprise connaît des difficultés financières temporaires, peut-elle me faire travailler moins d'heures et réduire mon salaire en conséquence ?",
+    "answer": "Oui, l'article 185 du Code du Travail permet à l'employeur de réduire la durée normale du travail (pour maximum 60 jours par an) en cas de crise économique passagère, après consultation des représentants des salariés. Le salaire est alors payé pour la durée effective de travail mais ne peut être inférieur à 50% du salaire normal, sauf dispositions plus favorables.",
+    "context": "Article 185: Pour se protéger des crises périodiques passagères, l'employeur \npeut, après consultation des représentants des salariés et, le cas échéant, \ndes représentants des syndicats au sein de l'entreprise, répartir la durée \nannuelle globale de travail sur l'année selon les besoins de l'entreprise à \ncondition que la durée normale du travail n'excède pas dix heures par \njour.\nCette mesure n'entraîne aucune réduction du salaire mensuel. \nL'employeur peut réduire la durée normale du travail pour une période \ncontinue ou interrompue ne dépassant pas soixante jours par an, après \nconsultation des délégués des salariés et, le cas échéant, des \nreprésentants des syndicats au sein de l'entreprise en cas de crise \néconomique passagère ayant affecté l'entreprise ou de circonstances\nexceptionnelles involontaires.\nLe salaire est payé pour la durée effective de travail et ne peut, en \naucun cas, être inférieur à 50 % du salaire normal, sauf dispositions plus \nfavorables pour les salariés.\nSi la réduction de la durée normale de travail est supérieure à celle \nprévue au premier alinéa ci-dessus, la période de cette réduction doit \nêtre fixée par accord entre l'employeur, les délégués des salariés et, le cas \néchéant, les représentants des syndicats dans l'entreprise.\nA défaut d'accord, la réduction de la durée normale de travail ne \npeut être opérée que sur autorisation du gouverneur de la préfecture ou \nde la province conformément à la procédure fixée à l'article 67 ci-dessus.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Qu'est-ce que le 'travail par relais' au sens du Code du Travail ?",
+    "answer": "Selon l'article 187 du Code du Travail, le 'travail par relais' est une organisation de travail avec des équipes tournantes sur la base de la non-simultanéité des repos des salariés dans le cadre de la même journée.",
+    "context": "Article 187: Le travail par roulement ou par relais est interdit sauf dans les \nentreprises où cette organisation du travail est justifiée par des raisons \ntechniques.\nOn entend par \" travail par roulement \", l'organisation du travail qui \npermet à un établissement de rester ouvert tous les jours de la semaine, \nsans que chaque salarié qui s'y trouve occupé ne dépasse la limite \nmaximum légale de la durée du travail.\nOn entend par \" travail par relais \", l'organisation de travail avec des \néquipes tournantes sur la base de la non-simultanéité des repos des \nsalariés dans le cadre de la même journée.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je travaille dans une station-service, et que mon travail implique de longues périodes d'attente entre les clients, ces heures de présence sont-elles payées au même tarif que des heures de travail continu ?",
+    "answer": "L'article 193 du Code du Travail indique que pour les travaux intermittents, où les heures de présence sont entrecoupées de longs repos (comme pour les préposés à la distribution d'essence), les heures effectuées dans le cadre des dérogations des articles 190 et 192 sont rémunérées sur la base du salaire normal et non comme des heures supplémentaires, sauf si elles entrent dans le cadre de surcroîts exceptionnels (article 196).",
+    "context": "Article 193: Les heures de travail effectuées conformément aux articles 190 et 192 \nci-dessus sont rémunérées sur la base du salaire afférent à la durée \nnormale de travail, sauf lorsqu'elles sont destinées à permettre au salarié \nde bénéficier d'un repos compensatoire ou lorsque : \n1. elles sont destinées à permettre au salarié de prendre un repas \nsi la durée du repas est comprise dans le temps de travail ;\n2. elles correspondent, en raison du caractère intermittent du \ntravail, à des heures de présence et non à des heures de travail \neffectif, ce dernier étant entrecoupé de longs repos, \nnotamment le travail des concierges dans les bâtiments \ndestinés au logement, surveillants, gardiens, préposés aux \nservices d'incendie ou à la distribution d'essence et les \npréposés aux services médicaux de l'entreprise.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si mon entreprise répartit les 2288 heures de travail annuelles de manière inégale, à partir de combien d'heures par jour une heure est-elle considérée comme supplémentaire ?",
+    "answer": "L'article 199 du Code du Travail précise que dans les entreprises où les 2288 heures sont réparties inégalement sur l'année, sont considérées comme heures supplémentaires les heures de travail accomplies quotidiennement à partir de la dixième heure incluse.",
+    "context": "Article 199: Dans les entreprises où les 2288 heures de travail sont réparties \nd'une manière inégale sur l'année, sont considérées comme heures \nsupplémentaires les heures de travail accomplies quotidiennement à \npartir de la dixième heure incluse.\nSont également considérées comme heures supplémentaires de \ntravail, les heures effectuées annuellement à partir de la 2289e heure \nincluse.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain définit-il les conditions pour qu'un stage soit considéré comme abusif ou comme un emploi déguisé ?",
+    "answer": "L'article 5 du Code du Travail soumet les stagiaires en formation-insertion à certaines dispositions du code. Cependant, les articles fournis (Préambule à 200) ne définissent pas explicitement les critères pour distinguer un stage légitime d'un emploi déguisé ou les conditions d'un stage abusif. Des réglementations spécifiques sur les stages ou la jurisprudence pourraient apporter ces précisions.",
+    "context": "Article 5: Les bénéficiaires des stages de formation-insertion et de formation \npar apprentissage sont soumis aux dispositions relatives à la réparation \ndes accidents de travail et des maladies professionnelles7 ainsi qu'aux \ndispositions prévues par la présente loi, notamment en ce qui concerne la \ndurée du travail, le repos hebdomadaire, le congé annuel payé, les jours \nde repos et de fêtes et la prescription.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je travaille comme vendeur dans un magasin fourni par mon employeur, avec des prix et conditions imposés par lui, suis-je considéré comme un salarié ?",
+    "answer": "Oui, l'article 2 du Code du Travail indique que ses dispositions s'appliquent aux personnes chargées par une seule entreprise de procéder à des ventes et de recevoir des commandes, lorsqu'elles exercent leur profession dans un local fourni par cette entreprise en respectant les conditions et prix imposés par celle-ci.",
+    "context": "Article 2: Les dispositions de la présente loi s'appliquent également :\n1. aux personnes qui, dans une entreprise, sont chargées par le chef \nde cette entreprise ou avec son agrément, de se mettre à la \ndisposition de la clientèle, pour assurer à celle-ci diverses \nprestations ;\n2. aux personnes chargées par une seule entreprise, de procéder à \ndes ventes de toute nature et de recevoir toutes commandes, \nlorsque ces personnes exercent leur profession dans un local \nfourni par cette entreprise en respectant les conditions et prix \nimposés par celle-ci ;\n3. aux salariés travaillant à domicile.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un statut particulier pour ma profession (par exemple, marin) offre moins de garanties que le Code du Travail, lequel s'applique ?",
+    "answer": "L'article 3 du Code du Travail stipule que les catégories de salariés comme les marins demeurent régies par leurs statuts applicables, mais que ces statuts ne peuvent en aucun cas comporter des garanties moins avantageuses que celles prévues dans le Code du Travail. Le Code du Travail s'applique pour ce qui n'est pas prévu par les statuts.",
+    "context": "Article 3: Demeurent régies par les dispositions des statuts qui leur sont \napplicables et qui ne peuvent en aucun cas comporter des garanties \nmoins avantageuses que celles prévues dans le code du travail, les \ncatégories de salariés ci-après :\n1. les salariés des entreprises et établissements publics relevant de \nl'Etat et des collectivités locales ;\n2. les marins2\n;\n(...)\nLes catégories mentionnées ci-dessus sont soumises aux dispositions \nde la présente loi pour tout ce qui n'est pas prévu par les statuts qui leur \nsont applicables.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis une femme mariée, ai-je besoin de l'autorisation de mon mari pour adhérer à un syndicat ?",
+    "answer": "Non, l'article 9 du Code du Travail affirme le droit de la femme, mariée ou non, d'adhérer à un syndicat professionnel et de participer à son administration et à sa gestion.",
+    "context": "Article 9: (...)\nIl découle notamment des dispositions précédentes :\n1. le droit pour la femme de conclure un contrat de travail ;\n2. l'interdiction de toute mesure discriminatoire fondée sur \nl'affiliation ou l'activité syndicale des salariés ;\n3. le droit de la femme, mariée ou non, d'adhérer à un syndicat \nprofessionnel et de participer à son administration et à sa \ngestion.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si mon employeur me licencie parce que j'ai porté plainte contre lui pour non-respect du Code du Travail, ce licenciement est-il valable ?",
+    "answer": "Non, l'article 36 du Code du Travail indique que le fait d'avoir déposé une plainte ou participé à des actions judiciaires contre l'employeur dans le cadre des dispositions de la loi ne constitue pas un motif valable de licenciement.",
+    "context": "Article 36: Ne constituent pas des motifs valables de prise de sanctions \ndisciplinaires ou de licenciement :\n(...)\n4. le fait d'avoir déposé une plainte ou participé à des actions \njudiciaires contre l'employeur dans le cadre des dispositions \nde la présente loi ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Mon employeur peut-il me mettre à pied pour 10 jours si j'ai commis une faute non grave ?",
+    "answer": "Non, l'article 37 du Code du Travail, pour une faute non grave, prévoit comme sanction maximale après un premier blâme, 'un deuxième blâme ou la mise à pied pour une durée n'excédant pas huit jours'. Une mise à pied de 10 jours pour une faute non grave dépasserait donc cette limite.",
+    "context": "Article 37: L'employeur peut prendre l'une des sanctions disciplinaires \nsuivantes à l'encontre du salarié pour faute non grave:\n1. l'avertissement;\n2. le blâme;\n3. un deuxième blâme ou la mise à pied pour une durée \nn'excédant pas huit jours;\n4. un troisième blâme ou le transfert à un autre service ou, le cas \néchéant, à un autre établissement, le lieu de résidence du \nsalarié étant pris en considération.\nLes dispositions de l'article 62 ci-dessous sont applicables aux \nsanctions prévues aux 3° et 4° du présent article.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain explique-t-il comment calculer l'impôt sur le revenu des salariés ?",
+    "answer": "Le Code du Travail (articles Préambule à 200 fournis) traite des droits et obligations dans la relation de travail. Bien qu'il mentionne le salaire et les indemnités, il ne détaille pas les règles de calcul de l'impôt sur le revenu. Ces règles se trouvent dans le Code Général des Impôts.",
+    "context": "Article 6: Est considérée comme salariée toute personne qui s'est engagée à \nexercer son activité professionnelle sous la direction d'un ou plusieurs \nemployeurs moyennant rémunération, quels que soient sa nature et son \nmode de paiement.\n(...)\n(Les autres articles ne traitent pas du calcul de l'IR).",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis absent du travail pendant 3 jours sans justification, est-ce une faute grave ?",
+    "answer": "L'article 39 du Code du Travail considère comme faute grave 'l'absence non justifiée du salarié pour plus de quatre jours ou de huit demi-journées pendant une période de douze mois'. Une absence de 3 jours, bien que non justifiée, ne correspond pas à ce critère de faute grave pour licenciement direct selon cet article, mais pourrait entraîner une sanction disciplinaire (article 37).",
+    "context": "Article 39: Sont considérées comme fautes graves pouvant provoquer le \nlicenciement du salarié:\n(...)\n11.l'absence non justifiée du salarié pour plus de quatre jours ou \nde huit demi-journées pendant une période de douze mois;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Mon employeur peut-il me licencier sans préavis si j'ai commis une faute grave ?",
+    "answer": "Oui, l'article 61 du Code du Travail stipule qu'en cas de faute grave, le salarié peut être licencié sans préavis ni indemnité ni versement de dommages-intérêts.",
+    "context": "Article 61: En cas de faute grave, le salarié peut être licencié sans préavis ni \nindemnité ni versement de dommages-intérêts.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "La lettre de licenciement doit-elle obligatoirement mentionner les motifs de mon licenciement ?",
+    "answer": "Oui, l'article 64 du Code du Travail indique que la décision de licenciement doit comporter les motifs justifiant le licenciement du salarié.",
+    "context": "Article 64: Une copie de la décision de licenciement ou de la lettre de démission \nest adressée à l'agent chargé de l'inspection du travail.\nLa décision de licenciement doit comporter les motifs justifiant le \nlicenciement du salarié, la date à laquelle il a été entendu et être assortie \ndu procès-verbal visé à l'article 62 ci-dessus.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si mon entreprise veut me licencier pour des raisons économiques, doit-elle obtenir une autorisation spéciale ?",
+    "answer": "Oui, l'article 67 du Code du Travail précise que le licenciement pour motifs technologiques, structurels ou économiques, dans les entreprises d'une certaine taille, est subordonné à une autorisation délivrée par le gouverneur de la préfecture ou de la province.",
+    "context": "Article 67: Le licenciement de tout ou partie des salariés employés dans les \nentreprises visées à l'article 66 ci-dessus pour motifs technologiques, \nstructurels ou pour motifs similaires ou économiques, est subordonné à \nune autorisation délivrée par le gouverneur de la préfecture ou de la \nprovince, dans un délai maximum de deux mois à compter de la date de \nla présentation de la demande par l'employeur au délégué provincial \nchargé du travail.\nLa demande d'autorisation doit être assortie de tous les justificatifs \nnécessaires et du procès-verbal des concertations et négociations avec les \nreprésentants des salariés prévu par l'article 66 ci-dessus.\nEn cas de licenciement pour motifs économiques, la demande doit \nêtre accompagnée, outre les documents susvisés, des justificatifs \nsuivants:\n1. un rapport comportant les motifs économiques, nécessitant \nl'application de la procédure de licenciement ;\n2. l'état de la situation économique et financière de l'entreprise ;\n3. un rapport établi par un expert-comptable ou par un \ncommissaire aux comptes.\nLe délégué provincial chargé du travail doit effectuer toutes les \ninvestigations qu'il juge nécessaires. Il doit adresser le dossier, dans un \ndélai n'excédant pas un mois à compter de la réception de la demande, \naux membres d'une commission provinciale présidée par le gouverneur \nde la préfecture ou de la province, aux fins d'examiner et de statuer sur \nle dossier dans le délai fixé ci-dessus.\nLa décision du gouverneur de la préfecture ou de la province doit \nêtre motivée et basée sur les conclusions et les propositions de ladite \ncommission.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le certificat de travail que mon employeur me donne doit-il mentionner pourquoi mon contrat a pris fin ?",
+    "answer": "L'article 72 du Code du Travail indique que le certificat de travail doit exclusivement indiquer la date d'entrée, la date de sortie et les postes occupés. Il ne mentionne pas l'obligation d'y inclure le motif de la rupture, sauf si les deux parties sont d'accord pour y ajouter des mentions sur les qualifications ou services rendus.",
+    "context": "Article 72: L'employeur doit délivrer au salarié un certificat de travail, à la \ncessation du contrat de travail, dans un délai maximum de huit jours, \nsous peine de dommages-intérêts.\nLe certificat de travail doit exclusivement indiquer la date de l'entrée \ndu salarié dans l'entreprise, celle de sa sortie et les postes de travail qu'il \na occupés. Toutefois, par accord entre les deux parties, le certificat de \ntravail peut comporter des mentions relatives aux qualifications \nprofessionnelles du salarié et aux services qu'il a rendus.\nLe certificat de travail est exempté des droits d'enregistrement \nmême s'il comporte des indications autres que celles prévues au \ndeuxième alinéa ci-dessus. L'exemption s'étend au certificat portant la \nmention de : \" libre de tout engagement \" ou toute autre formule \nétablissant que le contrat de travail a pris fin de manière ordinaire.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Un contrat de VRP (voyageur, représentant, placier) peut-il être à durée indéterminée ?",
+    "answer": "Oui, l'article 80 du Code du Travail précise que les contrats de VRP sont, au choix des parties, d'une durée déterminée ou indéterminée.",
+    "context": "Article 80: Les contrats définis à l'article 79 ci-dessus doivent être établis par \nécrit.\nIls sont, au choix des parties, d'une durée déterminée ou \nindéterminée. Les parties doivent, dans ce dernier cas, stipuler un délai \nde préavis fixé en vertu de la convention collective de travail, du \nrèglement intérieur ou des usages sans être inférieur dans tous les cas à \nla durée fixée dans l'article 43 ci-dessus.\nIl peut être stipulé une période d'essai dont la durée ne peut être \nsupérieure à six mois.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Un VRP a-t-il droit à une indemnité spéciale s'il a apporté beaucoup de clients à l'entreprise et que son contrat prend fin ?",
+    "answer": "Oui, l'article 83 du Code du Travail indique que la rupture du contrat d'un VRP (sous certaines conditions comme la rupture par l'employeur sans faute grave ou la non-reconduction d'un CDD) ouvre droit à une indemnité. L'article 85 précise que cette indemnité est calculée d'après la part qui revient personnellement au VRP, eu égard à l'importance en nombre et en valeur de la clientèle apportée par lui.",
+    "context": "Article 83: La rupture de tout contrat à durée indéterminée ou de tout contrat à \ndurée déterminée d'un voyageur, représentant ou placier ouvre droit à \nindemnité au profit de celui-ci dans les cas ci-après : \n1. Lorsque la rupture du contrat à durée indéterminée ou la \nrésiliation avant son échéance du contrat à durée déterminée, \nest le fait de l'employeur et qu'elle n'est pas provoquée par \nune faute grave du voyageur, représentant ou placier ;\n2. Lorsqu'il y a cessation du contrat par suite d'accident ou de \nmaladie entraînant une incapacité totale permanente de travail \ndu voyageur, représentant ou placier ;\n3. Lorsqu'il y a non renouvellement du contrat à durée \ndéterminée venu à expiration.\nArticle 85: Le montant de l'indemnité visée à l'article 83 ci-dessus est calculé \nd'après la part qui revient personnellement au voyageur, représentant ou \nplacier, eu égard à l'importance en nombre et en valeur de la clientèle \napportée par lui, compte tenu des rémunérations spéciales qui lui ont été \naccordées au cours du contrat pour le même objet ainsi que des \ndiminutions qui pourraient être constatées dans la clientèle préexistante \net imputables au voyageur, représentant ou placier.\nIl est interdit de déterminer cette indemnité à l'avance.\nSi la rupture du contrat à durée indéterminée ou la résiliation avant \nson échéance du contrat à durée déterminée, résulte du décès du \nvoyageur, représentant ou placier, l'indemnité est attribuée aux héritiers \nde ce dernier.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code du Travail marocain définit-il les règles de sécurité pour le transport de matières dangereuses par les employés ?",
+    "answer": "L'article 24 du Code du Travail impose à l'employeur une obligation générale de préserver la sécurité et la santé des salariés et de communiquer les mesures de prévention. L'article 181 interdit certains travaux dangereux. Cependant, les règles spécifiques et techniques pour le transport de matières dangereuses ne sont pas détaillées dans les articles fournis (Préambule à 200) et relèveraient de réglementations spécifiques sur le transport de matières dangereuses et la sécurité au travail.",
+    "context": "Article 24: De manière générale, l'employeur est tenu de prendre toutes les \nmesures nécessaires afin de préserver la sécurité, la santé et la dignité \ndes salariés dans l'accomplissement des tâches qu'ils exécutent sous sa \ndirection et de veiller au maintien des règles de bonne conduite, de \nbonnes mœurs et de bonne moralité dans son entreprise.\nIl est également tenu de communiquer aux salariés par écrit lors de \nl'embauchage, les dispositions relatives aux domaines ci-après ainsi que \nchaque modification qui leur est apportée :\n(...)\n5. les dispositions légales et les mesures concernant la \npréservation de la santé et de la sécurité, et la prévention des \nrisques liés aux machines9;\n(...)\nArticle 181: Il est interdit d'occuper les mineurs de moins de 18 ans, les femmes \net les salariés handicapés à des travaux qui présentent des risques de \ndanger excessif, excèdent leurs capacités ou sont susceptibles de porter \natteinte aux bonnes mœurs.\nLa liste de ces travaux est fixée par voie réglementaire24.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un employeur et un syndicat ne sont pas d'accord sur l'interprétation d'une clause de leur convention collective, qui peut les aider ?",
+    "answer": "L'article 101 du Code du Travail indique que le Conseil de la négociation collective a pour mission, entre autres, de donner son avis sur l'interprétation des clauses de la convention collective de travail, lorsqu'il en est sollicité.",
+    "context": "Article 101: Il est créé auprès de l'autorité gouvernementale chargée du travail \nun conseil sous la dénomination de \" Conseil de la négociation collective \n\" ayant pour mission de : \n(...)\n3. donner son avis sur l'interprétation des clauses de la \nconvention collective de travail, lorsqu'il en est sollicité ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un employeur déplace son entreprise dans une autre ville et que cela m'oblige à déménager, le Code du Travail prévoit-il une aide ou une compensation pour moi ?",
+    "answer": "Les articles fournis (Préambule à 200) du Code du Travail ne traitent pas explicitement d'une compensation ou d'une aide spécifique en cas de déménagement du salarié suite au transfert de l'entreprise. L'article 19 assure le maintien des contrats en cas de modification de la situation juridique de l'employeur, mais les aspects liés aux frais de déménagement ou à une compensation pour le changement de lieu de vie ne sont pas détaillés ici et pourraient relever de conventions collectives ou d'accords d'entreprise.",
+    "context": "Article 19 [Code du Travail]: En cas de modification dans la situation juridique de l'employeur ou \ndans la forme juridique de l'entreprise, notamment par succession, vente, \nfusion ou privatisation, tous les contrats en cours au jour de la \nmodification subsistent entre les salariés et le nouvel employeur. Ce \ndernier prend vis-à-vis des salariés la suite des obligations du précédent \nemployeur, notamment en ce qui concerne le montant des salaires et des \nindemnités de licenciement et le congé payé.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Un jeune de 15 ans peut-il être embauché pour un travail de nuit dans un hôtel si ses parents sont d'accord ?",
+    "answer": "Non, l'article 172 du Code du Travail interdit d'employer à un travail de nuit des mineurs âgés de moins de seize ans, sous réserve de certaines exceptions qui ne semblent pas s'appliquer ici (article 176 pour les urgences). L'accord des parents ne prime pas sur cette interdiction légale.",
+    "context": "Article 172 [Code du Travail]: (...)\nSous réserve des dispositions des articles 175 et 176 ci-dessous, il est \ninterdit d'employer à un travail de nuit des mineurs âgés de moins de \nseize ans.\nDans les activités non agricoles, est considéré comme travail de nuit \ntout travail exécuté entre 21 heures et 6 heures.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si une entreprise de BTP fait travailler ses ouvriers plus de 10 heures par jour régulièrement pour finir un chantier à temps, est-ce légal si les heures supplémentaires sont payées ?",
+    "answer": "L'article 184 du Code du Travail limite la durée normale journalière à 10 heures même en cas de répartition inégale sur l'année. L'article 196 permet des heures supplémentaires pour surcroîts exceptionnels. Cependant, un dépassement régulier et structurel des 10 heures par jour, même payé en heures supplémentaires, pourrait être contraire à l'esprit de la loi si cela devient la norme et non une exception justifiée par des conditions spécifiques prévues par la loi (ex: travaux urgents article 192, travaux intermittents article 190).",
+    "context": "Article 184 [Code du Travail]: Dans les activités non agricoles, la durée normale de travail des \nsalariés est fixée à 2288 heures par année ou 44 heures par semaine.\nLa durée annuelle globale de travail peut être répartie sur l'année \nselon les besoins de l'entreprise à condition que la durée normale du \ntravail n'excède pas dix heures par jour, sous réserve des dérogations \nvisées aux articles 189, 190 et 192.\n(...)\nArticle 196 [Code du Travail]: Lorsque les entreprises doivent faire face à des travaux d'intérêt \nnational ou à des surcroîts exceptionnels de travail, les salariés desdites \nentreprises peuvent être employés au-delà de la durée normale de travail \ndans les conditions fixées par voie réglementaire28, à condition qu'ils \nperçoivent, en sus de leurs salaires, des indemnisations pour les heures \nsupplémentaires.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code de Commerce marocain contient-il des règles sur la faillite personnelle d'un individu qui n'est pas commerçant ?",
+    "answer": "Les articles 51 à 151 du Code de Commerce fournis se concentrent sur les obligations du commerçant et le fonds de commerce, y compris les procédures de redressement et de liquidation judiciaire des entreprises (article 55). Ils ne traitent pas de la faillite personnelle des non-commerçants, qui relèverait d'autres dispositions légales (procédures de surendettement des particuliers, si elles existent dans un cadre distinct).",
+    "context": "Article 55 [CODE DE COMMERCE]: Est radié d'office tout commerçant ou personne morale :\n1) à compter de la clôture d'une procédure de redressement ou de \nliquidation judiciaire ;\n(...)\n(Les autres articles concernent les commerçants et sociétés).",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si je suis divorcé et que je dois une pension alimentaire, mais que je perds mon emploi, puis-je demander une diminution de la pension ?",
+    "answer": "L'article 192 du Code de la Famille indique qu'aucune demande tendant à obtenir une augmentation ou une diminution de la pension alimentaire convenue ou décidée judiciairement ne sera recevable, sauf circonstances exceptionnelles, avant l'écoulement du délai d'un an. La perte d'emploi pourrait être considérée comme une circonstance exceptionnelle justifiant une demande de révision.",
+    "context": "Article 192 [Code de la Famille]: Aucune demande tendant à obtenir une augmentation ou une\ndiminution de la pension alimentaire convenue ou décidée\njudiciairement ne sera recevable, sauf circonstances exceptionnelles,\navant l'écoulement du délai d'un an.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Un employeur peut-il me demander de travailler un jour férié légal, et si oui, comment cela doit-il être compensé ?",
+    "answer": "Les articles fournis (Préambule à 200) du Code du Travail mentionnent les jours de repos et de fêtes pour les stagiaires (article 5) et le paiement des heures supplémentaires (article 196 sqq.). Cependant, les règles spécifiques concernant l'obligation de travailler un jour férié et les modalités exactes de sa compensation (paiement majoré, repos compensateur) ne sont pas détaillées dans ces extraits et se trouveraient dans les sections du Code du Travail relatives aux jours fériés et au repos hebdomadaire (non fournies ici).",
+    "context": "Article 5 [Code du Travail]: Les bénéficiaires des stages de formation-insertion et de formation \npar apprentissage sont soumis aux dispositions relatives à la réparation \ndes accidents de travail et des maladies professionnelles7 ainsi qu'aux \ndispositions prévues par la présente loi, notamment en ce qui concerne la \ndurée du travail, le repos hebdomadaire, le congé annuel payé, les jours \nde repos et de fêtes et la prescription.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis fonctionnaire et que je commets une faute dans l'exercice de mes fonctions, le Code Pénal prévoit-il des sanctions spécifiques qui ne s'appliquent pas aux citoyens ordinaires ?",
+    "answer": "Oui, le Code Pénal (Chapitre III, Sections I à VI, articles 224 à 262 bis non tous fournis ici mais dont certains le sont) traite des crimes et délits contre l'ordre public commis par des fonctionnaires. Par exemple, l'article 231 prévoit des peines aggravées pour les violences commises par des fonctionnaires. L'article 241 punit le détournement de deniers publics par des fonctionnaires.",
+    "context": "Article 231 [Code Penal]: Tout magistrat, tout fonctionnaire public, tout agent ou préposé de \nl'autorité ou de la force publique qui, sans motif légitime, use ou fait user \nde violences envers les personnes dans l'exercice ou à l'occasion de \nl'exercice de ses fonctions, est puni pour ces violences et selon leur \ngravité, suivant les dispositions des articles 401 à 403; mais la peine \napplicable est aggravée comme suit :\n(...)\nArticle 241 [Code Penal]: Tout magistrat, tout fonctionnaire public qui détourne, dissipe, \nretient indûment ou soustrait des deniers publics ou privés, des effets en \ntenant lieu ou des pièces, titres, actes, effets mobiliers qui étaient entre \nses mains, soit en vertu, soit à raison de ses fonctions, est puni de la \nréclusion de cinq ans à vingt ans et d’une amende de 5.000 à 100.000 \ndirhams.\n(...)",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si un commerçant fait une fausse déclaration sur ses papiers commerciaux concernant son inscription au registre du commerce, est-ce une infraction ?",
+    "answer": "Oui, l'article 66 du Code de Commerce punit des peines prévues par l'article 64 (emprisonnement et/ou amende) toute indication inexacte donnée de mauvaise foi figurant dans la mention portée sur les papiers de commerce des commerçants et des sociétés commerciales.",
+    "context": "Article 66 [CODE DE COMMERCE]: Toute indication inexacte donnée de mauvaise foi, figurant dans la \nmention portée sur les papiers de commerce des commerçants et des \nsociétés commerciales, est punie des peines prévues par l'article 64.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Un contrat est-il valable si l'une des parties n'a pas la 'capacité de s'obliger' (par exemple, un mineur non autorisé) ?",
+    "answer": "Non, l'article 2 du Dahir formant Code des Obligations et des Contrats liste parmi les éléments nécessaires pour la validité des obligations 'La capacité de s'obliger'. L'article 4 précise que le mineur ou l'incapable qui a contracté sans autorisation n'est pas obligé et peut demander la rescision.",
+    "context": "Article 2 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Les éléments nécessaires pour la validité des obligations qui dérivent \nd'une déclaration de volonté sont : \n1. La capacité de s'obliger ;\n2. Une déclaration valable de volonté portant sur les éléments \nessentiels de l'obligation ;\n3. Un objet certain pouvant former objet d'obligation ;\n4. Une cause liste de s'obliger.\nArticle 4 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Le mineur et l'incapable qui ont contracté sans l'autorisation de leur \npère, tuteur ou curateur, ne sont pas obligés à raison des engagements \npris par eux, et peuvent en demander la rescision dans les conditions \nétablies par le présent dahir.\nCependant, ces obligations peuvent être validées par l'approbation \ndonnée par le père, tuteur ou curateur, à l'acte accompli par le mineur ou \nl'incapable. Cette approbation doit être donnée en la forme requise par la \nloi.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 parle-t-elle de la protection des consommateurs ?",
+    "answer": "La Constitution de 2011, dans les articles fournis (Préambule à 180), ne mentionne pas explicitement et en détail la 'protection des consommateurs' comme un droit fondamental distinct ou une mission spécifique de l'État. L'article 35 garantit la libre concurrence et l'article 166 crée un Conseil de la concurrence qui contrôle les pratiques commerciales déloyales, ce qui peut indirectement bénéficier aux consommateurs. Des lois spécifiques sur la protection du consommateur existent en dehors de la Constitution.",
+    "context": "Article 35 [Constitution du Maroc 2011]: Le droit de propriété est garanti.\nLa loi peut en limiter l'étendue et l'exercice si les exigences du développement économique et social du pays le nécessitent. Il ne peut être procédé à l'expropriation que dans les cas et les formes prévus par la loi.\nL'Etat garantit la liberté d'entreprendre et la libre concurrence. Il œuvre à la réalisation d'un développement humain durable, à même de permettre la consolidation de la justice sociale et la préservation des ressources naturelles nationales et des droits des générations futures.\nL'Etat veille à garantir l'égalité des chances pour tous et une protection spécifique pour les catégories sociales défavorisées.\nArticle 166 [Constitution du Maroc 2011]: Le Conseil de la concurrence est une institution indépendante chargée, dans le cadre de l'organisation d'une concurrence libre et loyale, d'assurer la transparence et l'équité dans les relations économiques, notamment à travers l'analyse et la régulation de la concurrence sur les marchés, le contrôle des pratiques anticoncurrentielles, des pratiques commerciales déloyales et des opérations de concentration économique et de monopole.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si un père décède et que ses enfants héritent de son commerce, doivent-ils tous s'inscrire individuellement au registre du commerce s'ils continuent l'activité ensemble ?",
+    "answer": "Oui, l'article 53 du Code de Commerce indique qu'en cas de décès du commerçant et si le commerce doit être continué dans l'indivision, une immatriculation nouvelle doit être demandée par chacun des indivisaires.",
+    "context": "Article 53: En cas de décès du commerçant et si le commerce doit être continué \ndans l'indivision, une immatriculation nouvelle doit être demandée par \nchacun des indivisaires.\nEn cas de partage, la radiation des indivisaires doit être demandée et \nune immatriculation nouvelle requise par celui auquel le fonds est \nattribué.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si un commerçant a été condamné par la justice à ne plus exercer le commerce, est-il automatiquement radié du registre du commerce ?",
+    "answer": "Oui, selon l'article 54 du Code de Commerce, est radié d'office tout commerçant frappé d'une interdiction d'exercer une activité commerciale en vertu d'une décision judiciaire passée en force de chose jugée.",
+    "context": "Article 54: Est radié d'office tout commerçant:\n1) frappé d'une interdiction d'exercer une activité commerciale en \nvertu d'une décision judiciaire passée en force de chose jugée ; \n2) décédé depuis plus d'un an ; \n3) s'il est établi que la personne immatriculée a cessé effectivement \ndepuis plus de trois ans l'exercice de l'activité pour laquelle elle a été \ninscrite.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Le Code de Commerce marocain de 2019 contient-il des règles sur les assurances pour les entreprises ?",
+    "answer": "Les articles 51 à 151 du Code de Commerce fournis se concentrent sur le registre du commerce, le fonds de commerce (vente, nantissement). Ils ne détaillent pas les règles spécifiques concernant les assurances obligatoires ou facultatives pour les entreprises. Ces aspects relèveraient du Code des Assurances ou de lois spécifiques.",
+    "context": "LIVRE PREMIER: LE COMMERÇANT, TITRE IV: LES OBLIGATIONS DU COMMERÇANT\nLIVRE II: LE FONDS DE COMMERCE (Ces sections ne traitent pas des assurances d'entreprise).",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si je signe un contrat pour vendre un bien qui ne m'appartient pas, ce contrat est-il valable ?",
+    "answer": "Le Dahir formant Code des Obligations et des Contrats, dans son article 2, exige 'un objet certain pouvant former objet d'obligation'. Si le bien ne vous appartient pas, vous ne pouvez pas valablement vous obliger à le transférer. L'article 57 précise que les choses dans le commerce peuvent former objet d'obligation. Un bien appartenant à autrui n'est pas librement dans votre commerce pour en disposer. Le contrat serait donc susceptible d'annulation ou serait nul pour défaut d'objet valable de votre part.",
+    "context": "Article 2 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Les éléments nécessaires pour la validité des obligations qui dérivent \nd'une déclaration de volonté sont : \n(...)\n3. Un objet certain pouvant former objet d'obligation ;\n(...)\nArticle 57 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Les choses, les faits et les droits incorporels qui sont dans le \ncommerce peuvent seuls former objet d'obligation; sont dans le commerce \ntoutes les choses au sujet desquelles la loi ne défend pas expressément de \ncontracter.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "L'État marocain a-t-il l'obligation de faciliter l'accès des citoyens aux soins de santé ?",
+    "answer": "Oui, l'article 31 de la Constitution de 2011 énonce que l'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit aux soins de santé.",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n- aux soins de santé ;\n(...)",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si je suis employée dans une boutique et que mon employeur me demande de faire des tâches très dangereuses pour ma santé sans protection, que dit le Code du Travail ?",
+    "answer": "L'article 24 du Code du Travail oblige l'employeur à prendre toutes les mesures nécessaires afin de préserver la sécurité et la santé des salariés. L'article 181 interdit d'occuper les femmes (entre autres) à des travaux qui présentent des risques de danger excessif ou excèdent leurs capacités. Refuser de fournir une protection adéquate pour des tâches dangereuses serait une violation de ces obligations.",
+    "context": "Article 24 [Code du Travail]: De manière générale, l'employeur est tenu de prendre toutes les \nmesures nécessaires afin de préserver la sécurité, la santé et la dignité \ndes salariés dans l'accomplissement des tâches qu'ils exécutent sous sa \ndirection et de veiller au maintien des règles de bonne conduite, de \nbonnes mœurs et de bonne moralité dans son entreprise.\n(...)\nArticle 181 [Code du Travail]: Il est interdit d'occuper les mineurs de moins de 18 ans, les femmes \net les salariés handicapés à des travaux qui présentent des risques de \ndanger excessif, excèdent leurs capacités ou sont susceptibles de porter \natteinte aux bonnes mœurs.\nLa liste de ces travaux est fixée par voie réglementaire24.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'achète un fonds de commerce, et que le vendeur m'a menti sur le chiffre d'affaires réel, est-ce que je peux annuler la vente ?",
+    "answer": "L'article 82 du Code de Commerce indique que lorsque les mentions figurant à l'acte sont inexactes, l'acheteur peut demander l'annulation du contrat ou la réduction du prix si l'inexactitude des mentions lui a porté préjudice. Si le chiffre d'affaires était une mention (directement ou indirectement liée à la valeur des éléments incorporels) et que l'inexactitude vous cause un préjudice, vous pourriez avoir cette option. Le dol (tromperie) est aussi une cause d'annulation selon le Code des Obligations et Contrats (article 52, non fourni ici).",
+    "context": "Article 82 [CODE DE COMMERCE]: Lorsque l'une des mentions prescrites à l'article précédent ne figure \npas dans l'acte de vente, l'acheteur peut demander l'annulation du contrat \nsi l'absence de cette mention lui a porté préjudice.\nLorsque les mentions figurant à l'acte sont inexactes, l'acheteur peut \ndemander l'annulation du contrat ou la réduction du prix si l'inexactitude \ndes mentions lui a porté préjudice.\nDans les deux cas, l'action doit être intentée dans un délai maximum \nd'un an à compter de la date de l'acte de vente.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si une personne est atteinte d'une maladie mentale grave et commet un crime sans comprendre ce qu'elle fait, sera-t-elle condamnée à la prison ?",
+    "answer": "Non, l'article 134 du Code Pénal stipule que n'est pas responsable et doit être absous celui qui, au moment des faits, se trouvait par suite de troubles de ses facultés mentales dans l'impossibilité de comprendre ou de vouloir. En matière de crime, son internement judiciaire dans un établissement psychiatrique est ordonné.",
+    "context": "Article 134 [Code Penal]: N'est pas responsable et doit être absous celui qui, au moment des \nfaits qui lui sont imputés, se trouvait par suite de troubles de ses facultés \nmentales dans l'impossibilité de comprendre ou de vouloir.\nEn matière de crime et de délit, l'internement judiciaire dans un \nétablissement psychiatrique est ordonné dans les conditions prévues à \nl'article 76.\nEn matière de contravention, l'individu absous, s'il est dangereux \npour l'ordre public, est remis à l'autorité administrative.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Le Code de la Famille marocain prévoit-il des règles spécifiques pour l'héritage lorsqu'il n'y a aucun héritier connu ?",
+    "answer": "Le Code de la Famille, dans son Livre VI sur la Succession (articles 321 à 395, dont certains ne sont pas fournis), traite de la dévolution successorale. L'article 349 du Code de la Famille (non fourni ici mais pertinent) indique qu'à défaut d'héritiers, la succession est dévolue au Trésor public. Le Code Pénal (article 349, différent) n'aborde pas cette question.",
+    "context": "Article 349 [Code Penal - attention, différent de l'article 349 du Code de la Famille qui serait pertinent]: Les héritiers âsaba par eux-mêmes sont classés dans l'ordre de priorité \nsuivant:\n(...)\n6) le trésor public, à défaut d'héritier. Dans ce cas, l'autorité \nchargée des domaines de l'Etat recueille l'héritage. Toutefois, \ns'il existe un seul héritier à Fardh, le reste de la succession lui \nrevient ; en cas de pluralité d'héritiers à Fardh et que leurs \nparts n'épuisent pas l'ensemble de la succession, le reste leur \nrevient selon la part de chacun dans la succession.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Est-ce que les membres du Parlement au Maroc ont le droit de proposer des modifications à la Constitution ?",
+    "answer": "Oui, l'article 172 de la Constitution de 2011 indique que l'initiative de la révision de la Constitution appartient au Roi, au Chef du Gouvernement, à la Chambre des Représentants et à la Chambre des Conseillers.",
+    "context": "Article 172 [Constitution du Maroc 2011]: L'initiative de la révision de la Constitution appartient au Roi, au Chef du Gouvernement, à la Chambre des Représentants et à la Chambre des Conseillers.\nLe Roi peut soumettre directement au référendum le projet de révision dont Il prend l'initiative.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si mon employeur me demande de travailler 12 heures par jour pendant une semaine pour un surcroît exceptionnel de travail, est-ce que toutes les heures au-delà de 8 heures sont des heures supplémentaires ?",
+    "answer": "L'article 184 du Code du Travail fixe la durée normale de travail à 44h/semaine ou 2288h/an, avec une limite de 10h/jour en cas de répartition inégale. L'article 197 précise que sont considérées comme heures supplémentaires les heures accomplies au-delà de la durée normale. Si la durée normale journalière est de 8h (pour 44h/semaine sur 5.5 jours par ex.), alors oui, au-delà de 8h (ou 10h si répartition inégale autorisée) ce seraient des heures supplémentaires. Il faut aussi respecter les conditions de l'article 196 pour le recours aux heures supplémentaires.",
+    "context": "Article 184 [Code du Travail]: Dans les activités non agricoles, la durée normale de travail des \nsalariés est fixée à 2288 heures par année ou 44 heures par semaine.\nLa durée annuelle globale de travail peut être répartie sur l'année \nselon les besoins de l'entreprise à condition que la durée normale du \ntravail n'excède pas dix heures par jour, sous réserve des dérogations \nvisées aux articles 189, 190 et 192.\n(...)\nArticle 197 [Code du Travail]: Les heures supplémentaires effectuées, en application de l'article 196 \nci-dessus, au-delà de la durée normale hebdomadaire sont calculées en \ntenant compte des heures accomplies conformément aux articles 190 et \n192 ci-dessus.\nSont considérées comme heures supplémentaires les heures de \ntravail accomplies au-delà de la durée normale de travail du salarié.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je veux vendre mon magasin, suis-je obligé de vendre aussi ma clientèle avec ?",
+    "answer": "L'article 80 du Code de Commerce indique que le fonds de commerce comprend obligatoirement la clientèle et l'achalandage. Donc, si vous vendez le fonds de commerce, la clientèle est un élément essentiel qui est inclus. Vous ne vendez pas la clientèle séparément du fonds dans ce cadre.",
+    "context": "Article 80 [CODE DE COMMERCE]: Le fonds de commerce comprend obligatoirement la clientèle et \nl'achalandage.\nIl comprend aussi, tous autres biens nécessaires à l'exploitation du \nfonds tels que le nom commercial, l'enseigne, le droit au bail, le mobilier \ncommercial, les marchandises, le matériel et l'outillage, les brevets \nd'invention, les licences, les marques de fabrique, de commerce et de \nservice, les dessins et modèles industriels et, généralement, tous droits de \npropriété industrielle, littéraire ou artistique qui y sont attachés.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si j'ai été menacé par un collègue pour signer un document qui me porte préjudice, et que mon employeur était au courant mais n'a rien fait, puis-je annuler ma signature ?",
+    "answer": "L'article 49 du Dahir formant Code des Obligations et des Contrats indique que la violence (contrainte) donne ouverture à la rescision de l'obligation, même si elle n'a pas été exercée par celui des contractants au profit duquel la convention a été faite. Si la menace de votre collègue constitue une violence au sens de l'article 47, et que le document signé est une obligation, vous pourriez demander son annulation.",
+    "context": "Article 49 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: La violence donne ouverture à la rescision de l'obligation, même si \nelle n'a pas été exercée par celui des contractant au profit duquel la \nconvention a été faite.\nArticle 47 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: La violence ne donne ouverture à la rescision de l'obligation que :\n1. Lorsqu'elle en a été la cause déterminante ;\n2. Lorsqu'elle est constituée de faits de nature à produire chez \ncelui qui en est l'objet, soit une souffrance physique, soit un \ntrouble moral profond, soit la crainte d'exposer sa personne, \nson honneur ou ses biens à un préjudice notable, eu égard à \nl'âge, au sexe, à la condition des personnes et à leur degré \nd'impressionnabilité.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Le Code Pénal marocain prévoit-il des sanctions pour la pollution de l'eau potable ?",
+    "answer": "L'article 218-3 du Code Pénal, dans le chapitre sur le terrorisme, mentionne que constitue un acte de terrorisme le fait d'introduire ou de mettre dans les eaux une substance qui met en péril la santé de l'homme. Cependant, pour la pollution de l'eau potable en dehors du contexte terroriste, les articles fournis (1 à 267) ne donnent pas de sanction spécifique. Des lois sur l'environnement ou la santé publique contiendraient ces dispositions.",
+    "context": "Article 218-3 [Code Penal]: Constitue également un acte de terrorisme, au sens du premier \nalinéa de l'article 218-1 ci-dessus, le fait d'introduire ou de mettre dans \nl'atmosphère, sur le sol, dans le sous-sol ou dans les eaux, y compris \ncelles de la mer territoriale, une substance qui met en péril la santé de \nl'homme ou des animaux ou le milieu naturel.\n(...)",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si mon employeur me licencie parce que je suis trop souvent malade (avec certificats médicaux), est-ce un licenciement abusif ?",
+    "answer": "L'article 32 du Code du Travail indique que le contrat est suspendu pendant l'absence du salarié pour maladie ou accident dûment constaté. L'article 36 liste les motifs non valables de licenciement, et la maladie (si elle n'empêche pas définitivement l'exercice d'une fonction adéquate) n'est pas un motif de licenciement en soi si elle est justifiée. Un licenciement uniquement basé sur des absences maladie justifiées pourrait être considéré comme abusif, mais cela dépendra de l'appréciation du tribunal et si la maladie rend impossible la poursuite du contrat.",
+    "context": "Article 32 [Code du Travail]: Le contrat est provisoirement suspendu :\n(...)\n2. pendant l'absence du salarié pour maladie ou accident dûment \nconstaté par un médecin ;\n(...)\nArticle 36 [Code du Travail]: Ne constituent pas des motifs valables de prise de sanctions \ndisciplinaires ou de licenciement :\n(...)\n6. le handicap dans la mesure où il ne fait pas obstacle à \nl'exercice par le salarié handicapé d'une fonction adéquate au \nsein de l'entreprise.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si un commerçant est radié d'office du registre du commerce parce qu'il est décédé, ses héritiers doivent-ils quand même payer ses dettes commerciales ?",
+    "answer": "L'article 51 du Code de Commerce indique qu'avant toute radiation (y compris pour décès), les inscriptions doivent être apurées et les créanciers gagistes informés. La radiation n'efface pas les dettes. Le Code des Obligations et Contrats (non fourni ici mais pertinent, article 50 du Code Pénal a un principe similaire pour les condamnations pécuniaires) prévoit généralement que les dettes du défunt sont payées sur sa succession.",
+    "context": "Article 51 [CODE DE COMMERCE]: Quand un commerçant cesse d'exercer son commerce ou vient à \ndécéder, sans qu'il y ait cession de fonds de commerce ou quand une \nsociété est dissoute, il y a lieu de procéder à la radiation de \nl'immatriculation.\n(...)\nPréalablement à toute radiation, les inscriptions doivent être apurées \net les créanciers gagistes informés.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Est-ce que le Parlement marocain peut voter une loi qui contredit la Constitution ?",
+    "answer": "L'article 132 de la Constitution de 2011 prévoit que les lois organiques et les lois ordinaires peuvent être soumises à la Cour Constitutionnelle avant leur promulgation pour vérifier leur conformité à la Constitution. L'article 134 précise qu'une disposition déclarée inconstitutionnelle ne peut être promulguée ni mise en application. Donc, en principe, une loi contraire à la Constitution ne devrait pas entrer en vigueur.",
+    "context": "Article 132 [Constitution du Maroc 2011]: (...)\nLes lois organiques avant leur promulgation et les règlements de la Chambre des Représentants et de la Chambre des Conseillers, avant leur mise en application, doivent être soumis à la Cour Constitutionnelle qui se prononce sur leur conformité à la Constitution.\nAux mêmes fins, les lois, avant leur promulgation, peuvent être déférées à la Cour Constitutionnelle par le Roi, le Chef du Gouvernement, le Président de la Chambre des Représentants, le Président de la Chambre des Conseillers, ou par le cinquième des membres de la Chambre des Représentants ou par quarante membres de la Chambre des Conseillers.\n(...)\nArticle 134 [Constitution du Maroc 2011]: Une disposition déclarée inconstitutionnelle sur le fondement de l'article 132 de la présente Constitution ne peut être promulguée ni mise en application. (...)",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Mon employeur peut-il m'obliger à travailler un dimanche si ce n'est pas mon jour de repos habituel et que le contrat ne le prévoit pas ?",
+    "answer": "Les articles fournis du Code du Travail (Préambule à 200) mentionnent le repos hebdomadaire (articles 5, 24) mais ne détaillent pas les règles sur le travail du dimanche spécifiquement. Le Code du Travail contient des dispositions sur le repos hebdomadaire (articles 205 et suivants, non fournis ici) qui précisent qu'il est en principe de 24h et doit être donné le vendredi, samedi, dimanche ou le jour du marché hebdomadaire. Travailler un dimanche en dehors de ces cas nécessiterait des conditions particulières ou des dérogations.",
+    "context": "Article 24 [Code du Travail]: (...)\nIl est également tenu de communiquer aux salariés par écrit lors de \nl'embauchage, les dispositions relatives aux domaines ci-après ainsi que \nchaque modification qui leur est apportée :\n(...)\n4. les modalités d'application du repos hebdomadaire ;\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'achète un produit en ligne et que le vendeur ne m'envoie pas de confirmation de commande, le contrat est-il quand même valable ?",
+    "answer": "L'article 65-5 du Dahir formant Code des Obligations et des Contrats indique que l'auteur de l'offre (le vendeur) doit accuser réception, sans délai injustifié et par voie électronique, de l'acceptation de l'offre. Le destinataire (l'acheteur) est irrévocablement lié dès réception de son acceptation par le vendeur. L'absence d'accusé de réception n'invalide pas forcément le contrat si l'acceptation a bien été reçue par le vendeur, mais c'est une obligation pour ce dernier.",
+    "context": "Article 65-5 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Pour que le contrat soit valablement conclu, le destinataire de l'offre \ndoit avoir eu la possibilité de vérifier le détail de son ordre et son prix \ntotal et de corriger d'éventuelles erreurs, et ce avant de confirmer ledit \nordre pour exprimer son acceptation. L'auteur de l'offre doit accuser \nréception, sans délai injustifié et par voie électronique, de l'acceptation de \nl'offre qui lui a été adressée. Le destinataire est irrévocablement lié à \nl'offre dès sa réception. L'acceptation de l'offre, sa confirmation et l'accusé \nde réception sont réputés reçus lorsque les parties auxquelles ils sont \nadressés peuvent y avoir accès.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Si une femme quitte son mari parce qu'il la harcèle sexuellement, peut-elle demander des dommages et intérêts comme pour un licenciement abusif ?",
+    "answer": "Oui, l'article 40 du Code du Travail considère le harcèlement sexuel comme une faute grave de l'employeur. Il précise qu'est assimilé à un licenciement abusif, le fait pour le salarié de quitter son travail en raison de l'une des fautes énumérées (dont le harcèlement sexuel), lorsqu'il est établi que l'employeur a commis cette faute. L'article 41 ouvre alors droit à des dommages-intérêts.",
+    "context": "Article 40 [Code du Travail]: Sont considérées comme fautes graves commises par l'employeur, le \nchef de l'entreprise ou de l'établissement à l'encontre du salarié :\n(...)\n3. le harcèlement sexuel ;\n(...)\nEst assimilé à un licenciement abusif, le fait pour le salarié de quitter \nson travail en raison de l'une des fautes énumérées au présent article, \nlorsqu'il est établi que l'employeur a commis l'une de ces fautes.\nArticle 41 [Code du Travail]: En cas de rupture abusive du contrat de travail par l'une des \nparties, la partie lésée a le droit de demander des dommages-intérêts.\n(...)",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'ai travaillé pendant 4 mois dans une entreprise avec un CDI et que mon employeur me licencie sans faute grave, ai-je droit à une indemnité de licenciement ?",
+    "answer": "Non, l'article 52 du Code du Travail précise que le salarié lié par un contrat de travail à durée indéterminée a droit à une indemnité en cas de licenciement après six mois de travail dans la même entreprise. Avec seulement 4 mois, cette condition n'est pas remplie.",
+    "context": "Article 52 [Code du Travail]: Le salarié lié par un contrat de travail à durée indéterminée a droit à \nune indemnité, en cas de licenciement après six mois de travail dans la \nmême entreprise quels que soient le mode de rémunération et la \npériodicité du paiement du salaire.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Le Code de Commerce marocain définit-il le concept de 'concurrence déloyale' de manière générale ?",
+    "answer": "Les articles 51 à 151 du Code de Commerce fournis ne contiennent pas une définition générale de la concurrence déloyale. Cependant, le Dahir formant Code des Obligations et des Contrats, dans son article 84 (non fourni ici mais pertinent), donne des exemples de faits constituant une concurrence déloyale. Le Code de Commerce se concentre plus sur les aspects structurels du commerce et des sociétés.",
+    "context": "LIVRE PREMIER: LE COMMERÇANT, TITRE IV: LES OBLIGATIONS DU COMMERÇANT\nLIVRE II: LE FONDS DE COMMERCE (Ces sections ne définissent pas la concurrence déloyale en général).",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Si mon voisin a une activité commerciale bruyante qui a une autorisation administrative, puis-je quand même demander au tribunal de faire cesser le bruit ?",
+    "answer": "Oui, l'article 91 du Dahir formant Code des Obligations et des Contrats indique que les voisins ont action contre les propriétaires d'établissements incommodes pour demander la suppression ou des changements, et que l'autorisation des pouvoirs compétents ne saurait faire obstacle à l'exercice de cette action.",
+    "context": "Article 91 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Les voisins ont action contre les propriétaires d'établissements \ninsalubres ou incommodes pour demander, soit la suppression de ces \nétablissements, soit l'adoption des changements nécessaires pour faire \ndisparaître les inconvénients dont ils se plaignent; l'autorisation des \npouvoirs compétents ne saurait faire obstacle à l'exercice de cette action.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 garantit-elle le droit à un environnement sain pour tous ?",
+    "answer": "Oui, l'article 31 de la Constitution de 2011 énonce que l'Etat et les autres institutions publiques œuvrent pour faciliter l'égal accès des citoyens aux conditions leur permettant de jouir du droit à l'accès à l'eau et à un environnement sain, ainsi qu'au développement durable.",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n(...)\n- à l'accès à l'eau et à un environnement sain;\n- au développement durable.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si un commerçant décède et que ses enfants se partagent son fonds de commerce, doivent-ils radier l'ancienne immatriculation au nom de leur père ?",
+    "answer": "Oui, l'article 53 du Code de Commerce précise qu'en cas de partage, la radiation des indivisaires (qui se seraient préalablement immatriculés si le commerce continuait en indivision) doit être demandée et une immatriculation nouvelle requise par celui auquel le fonds est attribué. Implicitement, l'immatriculation du père défunt est radiée dans le processus.",
+    "context": "Article 53 [CODE DE COMMERCE]: En cas de décès du commerçant et si le commerce doit être continué \ndans l'indivision, une immatriculation nouvelle doit être demandée par \nchacun des indivisaires.\nEn cas de partage, la radiation des indivisaires doit être demandée et \nune immatriculation nouvelle requise par celui auquel le fonds est \nattribué.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Mon employeur peut-il me licencier si je participe à une manifestation pacifique en dehors de mes heures de travail ?",
+    "answer": "La participation à une manifestation pacifique en dehors des heures de travail ne figure pas parmi les motifs de licenciement valables ou les fautes graves listées dans les articles fournis du Code du Travail (notamment articles 36 et 39). De plus, le Préambule du Code du Travail et l'article 9 protègent la liberté syndicale et interdisent la discrimination. La Constitution (article 29) garantit la liberté de manifestation pacifique. Un tel licenciement serait donc très probablement abusif.",
+    "context": "Préambule [Code du Travail]: (...)\nLa liberté syndicale est l'un des droits principaux du travail. (...)\nArticle 36 [Code du Travail]: Ne constituent pas des motifs valables de prise de sanctions \ndisciplinaires ou de licenciement :\n1. l'affiliation syndicale ou l'exercice d'un mandat du \nreprésentant syndical ;\n2. la participation à des activités syndicales en dehors des heures \nde travail (...)\nArticle 29 [Constitution du Maroc 2011]: Sont garanties les libertés de réunion, de rassemblement, de manifestation pacifique, d'association et d'appartenance syndicale et politique. La loi fixe les conditions d'exercice de ces libertés.\n(...)",
+    "code": "Combinaison Code du Travail / Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si j'ai payé une somme d'argent en pensant que j'avais une dette, mais que cette dette n'existait pas, et que la personne à qui j'ai payé a, à cause de ce paiement, détruit le titre de sa créance contre le vrai débiteur, puis-je quand même récupérer mon argent auprès d'elle ?",
+    "answer": "Non, pas directement auprès d'elle dans ce cas. L'article 68 du Dahir formant Code des Obligations et des Contrats indique que celui qui a reçu le paiement ne doit aucune restitution si, de bonne foi et en conséquence de ce paiement, il a détruit ou annulé le titre, s'est privé des garanties de sa créance, ou a laissé son action se prescrire contre le véritable débiteur. Dans ce cas, celui qui a payé n'a recours que contre le véritable débiteur.",
+    "context": "Article 68 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Celui qui, se croyant débiteur, par une erreur de droit ou de fait, a \npayé ce qu'il ne devait pas, a le droit de répétition contre celui auquel il a \npayé. Mais celui-ci ne doit aucune restitution si, de bonne foi et en \nconséquence de ce payement, il a détruit ou annulé le titre, s'est privé des \ngaranties de sa créance, ou a laissé son action se prescrire contre le \nvéritable débiteur. Dans ce cas, celui qui a payé n'a recours que contre le \nvéritable débiteur.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "Le Code Pénal marocain prévoit-il des sanctions pour la diffusion de 'fake news' (fausses nouvelles) ?",
+    "answer": "Les articles 1 à 267 du Code Pénal fournis ne contiennent pas de disposition spécifique et générale sanctionnant la diffusion de 'fake news'. L'article 264 punit la dénonciation d'infractions imaginaires. D'autres lois, comme le Code de la Presse et de l'Edition, pourraient contenir des dispositions relatives à la diffusion de fausses nouvelles, surtout si elles causent un trouble à l'ordre public ou portent atteinte à l'honneur.",
+    "context": "Article 264 [Code Penal]: Est considéré comme outrage et puni comme tel, le fait par une \npersonne de dénoncer aux autorités publiques une infraction qu'elle sait \nne pas avoir existé ou de produire une fausse preuve relative à une \ninfraction imaginaire, ou de déclarer devant l'autorité judiciaire être \nl'auteur d'une infraction qu'elle n'a ni commise, ni concouru à \ncommettre.\n(Les autres articles fournis ne traitent pas spécifiquement des 'fake news').",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si je suis mineur et que je vends un objet de valeur sans l'accord de mes parents, mais que l'acheteur était au courant de mon âge, le contrat est-il valable ?",
+    "answer": "L'article 4 du Dahir formant Code des Obligations et des Contrats indique que le mineur qui a contracté sans l'autorisation de son père, tuteur ou curateur, n'est pas obligé et peut demander la rescision. Le fait que l'acheteur connaisse l'âge du mineur ne valide pas automatiquement le contrat si l'autorisation parentale ou du tuteur fait défaut. L'article 10 précise que le contractant capable ne peut opposer l'incapacité de l'autre.",
+    "context": "Article 4 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Le mineur et l'incapable qui ont contracté sans l'autorisation de leur \npère, tuteur ou curateur, ne sont pas obligés à raison des engagements \npris par eux, et peuvent en demander la rescision dans les conditions \nétablies par le présent dahir.\nCependant, ces obligations peuvent être validées par l'approbation \ndonnée par le père, tuteur ou curateur, à l'acte accompli par le mineur ou \nl'incapable. Cette approbation doit être donnée en la forme requise par la \nloi.\nArticle 10 [DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS]: Le contractant capable de s'obliger ne peut opposer l'incapacité de la \npartit avec laquelle il a contracté.",
+    "code": "DAHIR FORMANT CODE DES OBLIGATIONS ET DES CONTRATS"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 garantit-elle le droit à la culture pour les jeunes ?",
+    "answer": "Oui, l'article 33 de la Constitution indique qu'il incombe aux pouvoirs publics de prendre toutes les mesures appropriées en vue de faciliter l'accès des jeunes à la culture, à la science, à la technologie, à l'art, au sport et aux loisirs.",
+    "context": "Article 33 [Constitution du Maroc 2011]: Il incombe aux pouvoirs publics de prendre toutes les mesures appropriées en vue :\n- d'étendre et généraliser la participation de la jeunesse au développement social, économique, culturel et politique du pays;\n- d'aider les jeunes à s'insérer dans la vie active et associative et prêter assistance à ceux en difficulté d'adaptation scolaire, sociale ou professionnelle;\n- de faciliter l'accès des jeunes à la culture, à la science, à la technologie, à l'art, au sport et aux loisirs, tout en créant les conditions propices au plein déploiement de leur potentiel créatif et innovant dans tous ces domaines.\nIl est créé à cet effet un Conseil consultatif de la jeunesse et de l'action associative.",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si je suis un salarié handicapé et que mon employeur ne veut pas aménager mon poste de travail, que puis-je faire ?",
+    "answer": "L'article 169 du Code du Travail oblige l'employeur à équiper ses locaux des accessibilités nécessaires pour faciliter le travail des salariés handicapés. Si l'employeur ne respecte pas cette obligation, vous pourriez vous adresser à l'inspection du travail ou aux instances compétentes pour faire valoir vos droits. L'article 171 prévoit une amende en cas d'infraction.",
+    "context": "Article 169 [Code du Travail]: L'employeur doit équiper ses locaux des accessibilités22 nécessaires \npour faciliter le travail des salariés handicapés et veiller à leur procurer \ntoutes les conditions d'hygiène et de sécurité professionnelle.\nArticle 171 [Code du Travail]: Sont punies d'une amende de 2.000 à 5.000 dirhams les infractions \naux dispositions des articles 166 à 169.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis commerçant et qu'un concurrent utilise une enseigne presque identique à la mienne pour tromper mes clients, le Code de Commerce prévoit-il une sanction ?",
+    "answer": "Les articles 51 à 151 du Code de Commerce fournis ne détaillent pas les sanctions spécifiques pour ce type de concurrence déloyale. Cependant, l'article 84 du Dahir formant Code des Obligations et des Contrats (non fourni ici) indique que de tels actes peuvent donner lieu à des dommages-intérêts. Des lois spécifiques sur la propriété industrielle et la concurrence pourraient aussi s'appliquer.",
+    "context": "Article 70 [CODE DE COMMERCE]: Le droit de faire usage du nom d'un commerçant ou d'une raison de \ncommerce inscrit au registre du commerce et publié dans un journal \nd'annonces légales, appartient exclusivement au propriétaire de ce nom ou \nde cette raison.\nIl ne peut être employé par aucun autre, même par celui qui a un nom \nde famille identique ; celui-ci doit, en constituant une raison de commerce, \najouter à son nom une autre indication qui le distingue nettement de la \nraison de commerce déjà existante.\n(Cet article protège le nom, mais les sanctions pour usage d'enseigne similaire relèveraient plus du DOC ou de lois spécifiques).",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Le Code de la Famille marocain permet-il à une femme de demander le divorce si son mari est absent depuis 6 mois sans donner de nouvelles ?",
+    "answer": "L'article 104 du Code de la Famille permet à l'épouse de demander le divorce judiciaire si l'époux s'absente du foyer conjugal durant une période excédant une année. Donc, une absence de 6 mois ne serait pas suffisante pour ce motif spécifique, mais d'autres motifs de divorce pourraient être invoqués selon les circonstances.",
+    "context": "Article 104 [Code de la Famille]: Si l'époux s'absente du foyer conjugal durant une période excédant\nune année, l'épouse a la faculté de demander le divorce judiciaire.\nLe tribunal s'assure, par tous moyens, de cette absence, de sa durée et\ndu lieu où se trouve l'absent.\nLe tribunal notifie à l'époux, dont l'adresse est connue, la requête de\nl'instance afin d'y répondre, en l'avisant que s'il persiste dans son\nabsence ou ne fait pas venir son épouse auprès de lui, le tribunal\nprononcera le divorce.",
+    "code": "code famille 2016"
+  },
+  {
+    "question": "Si je suis condamné à une peine de prison avec sursis, et que pendant le délai de sursis je commets une simple contravention (pas un crime ou délit grave), est-ce que mon sursis est révoqué ?",
+    "answer": "L'article 56 du Code Pénal indique que le sursis est révoqué si, pendant le délai de cinq ans, le condamné commet un crime ou délit de droit commun qui donne lieu à une condamnation à l'emprisonnement ou à une peine plus grave. Une simple contravention n'entraînerait donc pas automatiquement la révocation du sursis selon cet article.",
+    "context": "Article 56 [Code Penal]: La condamnation sera réputée non avenue si, pendant un délai de \ncinq ans à compter du jour où le jugement ou l'arrêt ayant accordé le \nsursis est devenu irrévocable, le condamné ne commet aucun crime ou \ndélit de droit commun qui donne lieu à une condamnation à \nl'emprisonnement ou à une peine plus grave.\nSi au contraire, il commet un tel crime ou délit dans le délai de cinq \nans prévu à l'alinéa précédent, la condamnation à l'emprisonnement ou à \nune peine plus grave sanctionnant ce crime ou délit, même si elle \nn'intervient qu'après l'expiration dudit délai, entraîne de plein droit, dès \nqu'elle est devenue irrévocable, la révocation du sursis.\nLa première peine est alors exécutée avant la seconde sans \npossibilité de confusion avec cette dernière.",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "La Constitution marocaine de 2011 prévoit-elle des dispositions spécifiques pour les personnes âgées concernant la protection sociale ?",
+    "answer": "Oui, l'article 31 de la Constitution énonce que l'Etat et les autres institutions publiques œuvrent à faciliter l'égal accès des citoyens à la protection sociale. L'article 34 précise que les pouvoirs publics élaborent des politiques destinées notamment à traiter et prévenir la vulnérabilité de certaines catégories de personnes âgées.",
+    "context": "Article 31 [Constitution du Maroc 2011]: L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :\n(...)\n- à la protection sociale, à la couverture médicale et à la solidarité mutualiste ou organisée par l'Etat ;\n(...)\nArticle 34 [Constitution du Maroc 2011]: Les pouvoirs publics élaborent et mettent en œuvre des politiques destinées aux personnes et aux catégories à besoins spécifiques. A cet effet, ils veillent notamment à :\n- traiter et prévenir la vulnérabilité de certaines catégories de femmes et de mères, d'enfants et de personnes âgées ;\n(...)",
+    "code": "Constitution du Maroc 2011"
+  },
+  {
+    "question": "Si mon employeur ferme l'entreprise sans autorisation et me licencie, ai-je droit à des dommages-intérêts en plus de mes indemnités de licenciement et de préavis ?",
+    "answer": "Oui, l'article 70 du Code du Travail indique qu'en cas de licenciement sans l'autorisation requise (pour fermeture ou motifs économiques, etc.), les salariés licenciés ne bénéficient des dommages-intérêts prévus à l'article 41 que sur décision judiciaire s'ils ne sont pas réintégrés, en plus des indemnités de préavis et de licenciement.",
+    "context": "Article 70 [Code du Travail]: Les salariés bénéficient des indemnités de préavis et de licenciement \nprévues respectivement aux articles 51 et 52 ci-dessus, en cas de \nl'obtention ou non par l'employeur de l'autorisation de licenciement, \nconformément aux articles 66, 67 et 69 ci-dessus.\nToutefois, en cas de licenciement conformément auxdits articles, \nsans l'autorisation précitée, les salariés licenciés ne bénéficient des \ndommages-intérêts prévus à l'article 41 ci-dessus que sur décision \njudiciaire s'ils ne sont pas réintégrés dans leurs postes tout en conservant \nleurs droits.\nL'employeur et les salariés peuvent recourir à la conciliation \npréliminaire conformément à l'article 41 ci-dessus ou au tribunal pour \nstatuer sur le litige.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si j'achète un fonds de commerce et que plus tard, un créancier du vendeur fait une surenchère et que le fonds est revendu plus cher, ai-je droit à la différence de prix ?",
+    "answer": "Non, l'article 130 du Code de Commerce (faisant référence à l'article 119 pour la folle enchère) indique que l'acquéreur surenchéri (celui dont la vente est annulée par la surenchère) n'a pas droit à la différence en plus si le fonds est revendu plus cher. Il a un recours contre le vendeur initial pour ce qui excède le prix qu'il avait stipulé.",
+    "context": "Article 130 [CODE DE COMMERCE]: L'acquéreur surenchéri qui se rendra adjudicataire par suite de la \nrevente sur surenchère aura son recours, tel que de droit contre le vendeur \npour le remboursement de ce qui excède le prix stipulé, et pour l'intérêt de \ncet excédent à compter du jour de chaque paiement.\nArticle 119 [CODE DE COMMERCE]: (...)\nLe fol enchéri est tenu de la différence en moins entre son prix et celui \nde la nouvelle vente, sans pouvoir réclamer la différence en plus qui se \nproduirait.",
+    "code": "code de commerce 2019"
+  },
+  {
+    "question": "Le Code Pénal marocain prévoit-il des peines spécifiques pour la maltraitance des enfants au sein de la famille ?",
+    "answer": "Les articles 1 à 267 du Code Pénal fournis ne détaillent pas spécifiquement les infractions de maltraitance d'enfants au sein de la famille. Le Code Pénal contient des dispositions générales sur les coups et blessures (articles 400 et suivants, non fournis ici) qui seraient applicables, et des lois spécifiques ou d'autres sections du Code Pénal peuvent traiter plus directement de la protection de l'enfance contre la maltraitance.",
+    "context": "(Les articles 1 à 267 du Code Pénal fournis ne traitent pas spécifiquement de la maltraitance infantile intra-familiale, bien que des infractions générales de violence s'appliqueraient).",
+    "code": "code penale 2018"
+  },
+  {
+    "question": "Si un employeur utilise un cautionnement versé par un salarié pour ses besoins personnels, quelle sanction risque-t-il selon le Code du Travail ?",
+    "answer": "L'article 31 du Code du Travail punit d'une amende de 2.000 à 5.000 dirhams la saisie ou l'utilisation dans un intérêt personnel ou pour les besoins de l'entreprise, des sommes en espèces ou titres remis à titre de cautionnement.",
+    "context": "Article 31 [Code du Travail]: Sont punis d'une amende de 2.000 à 5.000 dirhams :\n(...)\n5. la saisie ou l'utilisation dans un intérêt personnel ou pour les \nbesoins de l'entreprise, des sommes en espèces ou titres remis \nà titre de cautionnement.",
+    "code": "Code du Travail"
+  },
+  {
+    "question": "Si je suis un commerçant et que je suis en désaccord avec un client sur un délai de paiement, pouvons-nous faire appel à un médiateur ?",
+    "answer": "Oui, l'article 78.5 du Code de Commerce indique qu'en cas de litige portant sur l'application des dispositions du chapitre sur les délais de paiement, les parties peuvent convenir de désigner un médiateur pour régler ledit litige, conformément aux dispositions du code de procédure civile.",
+    "context": "Article 78.5 [CODE DE COMMERCE]: En cas de litige portant sur l’application des dispositions de ce chapitre \nde la présente loi, les parties peuvent convenir de désigner un médiateur \npour régler ledit litige, conformément aux dispositions du chapitre VIII du \ntitre V du code de procédure civile.",
+    "code": "code de commerce 2019"
+  }
+]

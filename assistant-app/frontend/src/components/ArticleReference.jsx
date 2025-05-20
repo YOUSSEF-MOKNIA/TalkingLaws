@@ -96,7 +96,7 @@ function ArticleReference({ article }) {
             {article.code || 'Code inconnu'}
           </span>
           <span className="text-xs font-medium bg-gray-50 text-gray-600 px-3 py-1 rounded-full border border-gray-200">
-            Art. {article.article_number || 'N/A'}
+            Article {article.article_number || 'N/A'}
           </span>
         </div>
         
@@ -147,7 +147,7 @@ function ArticleReference({ article }) {
             </motion.button>
           )}
           
-          <motion.div
+          {/* <motion.div
             whileHover={{ x: 3 }}
             className={`ml-auto ${article.text && article.text.length > 200 ? '' : 'w-full text-right'}`}
           >
@@ -160,7 +160,7 @@ function ArticleReference({ article }) {
                 <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
               </svg>
             </Link>
-          </motion.div>
+          </motion.div> */}
         </div>
       </div>
     </motion.div>

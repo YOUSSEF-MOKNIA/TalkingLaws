@@ -7,6 +7,7 @@ import ChatHistory from './components/ChatHistory';
 import CodesJuridiques from './components/CodesJuridiques';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
+import LandingPage from './pages/LandingPage';
 
 // Navigation item component with animation
 const NavItem = ({ to, icon, label, active, collapsed }) => (
@@ -58,6 +59,7 @@ function App() {
   return (
     <Router>
       <Routes>
+        <Route path="/landing" element={<LandingPage />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/*" element={
@@ -360,8 +362,8 @@ function MainApp() {
           <div className="h-16 px-6 flex items-center border-b border-purple-100 bg-white">
             <h1 className="text-xl font-semibold text-purple-800">{getPageTitle()}</h1>
             
-            <div className="ml-auto flex items-center space-x-3">
-              <motion.button 
+            {/* <div className="ml-auto flex items-center space-x-3"> */}
+              {/* <motion.button 
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="p-2 rounded-lg text-gray-500 hover:text-purple-600 hover:bg-purple-50 transition-colors"
@@ -380,10 +382,10 @@ function MainApp() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
                 </svg>
                 <span className="absolute top-1 right-1 w-2 h-2 rounded-full bg-red-500"></span>
-              </motion.button>
+              </motion.button> */}
               
               {/* Collapse sidebar button when expanded */}
-              {!sidebarCollapsed && (
+              {/* {!sidebarCollapsed && (
                 <motion.button
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
@@ -396,7 +398,7 @@ function MainApp() {
                   Réduire
                 </motion.button>
               )}
-            </div>
+            </div> */}
           </div>
         )}
         
