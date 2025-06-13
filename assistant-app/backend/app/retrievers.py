@@ -157,38 +157,39 @@ class DenseRetriever:
         print(f"Dense vector index loaded from {path}")
         return model
 
-
 class ReciprocalRankFusionRetriever:
-    """Implements Reciprocal Rank Fusion for combining multiple retrieval methods."""
+    """Combine rankings using Reciprocal Rank Fusion algorithm."""
 
-    def __init__(self, retrievers, k=20):
+    def __init__(self, sparse_model, dense_model, k=60):
         """
+        Initialize with models and RRF constant.
+
         Args:
-            retrievers: List of retriever models
-            k: Constant to prevent items with very low ranks from having too much influence
+            sparse_model: Sparse retriever (BM25 or TF-IDF)
+            dense_model: Dense retriever (embedding model)
+            k: RRF constant (typically 60)
         """
-        self.retrievers = retrievers
+        self.sparse_model = sparse_model
+        self.dense_model = dense_model
         self.k = k
-        self.name = f"RRF(k={k})"
+        self.name = f"rrf_k{k}"
 
-    def retrieve(self, query, top_k=5, per_retriever_k=50):
-        """Retrieve documents using RRF ranking."""
-        # Get results from all retrievers
-        all_results = []
-        for retriever in self.retrievers:
-            results = retriever.retrieve(query, top_k=per_retriever_k)
-            all_results.append(results)
+    def retrieve(self, query, top_k=5):
+        # Get results from both models
+        sparse_results = self.sparse_model.retrieve(query, top_k=100)
+        dense_results = self.dense_model.retrieve(query, top_k=100)
 
         # Calculate RRF scores
         rrf_scores = {}
 
-        for result_set in all_results:
-            for rank, (doc_id, _) in enumerate(result_set):
-                if doc_id not in rrf_scores:
-                    rrf_scores[doc_id] = 0
-                # RRF formula: 1 / (k + rank)
-                rrf_scores[doc_id] += 1 / (self.k + rank + 1)  # +1 because rank is 0-indexed
+        # Add sparse rankings
+        for rank, (doc_id, _) in enumerate(sparse_results):
+            rrf_scores[doc_id] = rrf_scores.get(doc_id, 0) + 1 / (self.k + rank + 1)
 
-        # Sort by RRF score and return top-k
+        # Add dense rankings
+        for rank, (doc_id, _) in enumerate(dense_results):
+            rrf_scores[doc_id] = rrf_scores.get(doc_id, 0) + 1 / (self.k + rank + 1)
+
+        # Sort and return top-k
         sorted_results = sorted(rrf_scores.items(), key=lambda x: x[1], reverse=True)
         return sorted_results[:top_k]

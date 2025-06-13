@@ -1,0 +1,471 @@
+[
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre premier DISPOSITIONS GENERALES",
+    "section": "Section première. – Définitions et champ d’application",
+    "article_no": "Article premier",
+    "text": "L’informatique est au service du citoyen et évolue dans le cadre de la coopération \ninternationale. Elle ne doit pas porter atteinte à l’identité, aux droits et aux libertés \ncollectives ou individuelles de l’Homme. Elle ne doit pas constituer un moyen de \ndivulguer des secrets de la vie privée des citoyens.\nPour l’application de la présente loi, on entend par :\n1- « données à caractère personnel » : toute information, de quelque nature \nqu’elle soit et indépendamment de son support, y compris le son et l’image, \nconcernant une personne physique identifiée ou identifiable, dénommée ci après « personne concernée ».\nEst réputée identifiable une personne qui peut être identifiée, directement \nou indirectement, notamment par référence à un numéro d’identification ou à \nun ou plusieurs éléments spécifiques de son identité physique, \nphysiologique, génétique, psychique, économique, culturelle ou sociale ;\n2- « traitement de données à caractère personnel » (« traitement ») : toute \nopération ou ensemble d’opérations effectuées ou non à l’aide de procédés \nautomatisés et appliquées à des données à caractère personnel, telles que \nla collecte, l’enregistrement, l’organisation, la conservation, l’adaptation ou \nla modification, l’extraction, la consultation, l’utilisation, la communication\npar transmission, diffusion ou toute autre forme de mise à disposition, le \nrapprochement ou l’interconnexion, ainsi que le verrouillage, l’effacement ou \nla destruction ;\n3- « données sensibles » : données à caractère personnel qui révèlent l’origine \nraciale ou ethnique, les opinions politiques, les convictions religieuses ou \nphilosophiques ou l’appartenance syndicale de la personne concernée ou qui \nsont relatives à sa santé y compris ses données génétiques ;\n4- « fichier de données à caractère personnel » (« fichier ») : tout ensemble \nstructuré de données à caractère personnel accessibles selon des critères \ndéterminés, que cet ensemble soit centralisé, décentralisé ou réparti de \nmanière fonctionnelle ou géographiques, tels que les archives, les banques \nde données, les fichiers de recensement ;\n5- « responsable du traitement » : la personne physique ou morale, l’autorité \npublique, le service ou tout autre organisme qui, seul ou conjointement \navec d’autres, détermine les finalités et les moyens du traitement de \ndonnées à caractère personnel. Lorsque les finalités et les moyens du \ntraitement sont déterminés par des dispositions législatives ou\nréglementaires, le responsable du traitement doit être indiqué dans la loi \nd’organisation et de fonctionnement ou dans le statut de l’entité légalement \nou statutairement compétente pour traiter les données à caractère personnel \nen cause ;\n6- « sous-traitant » : la personne physique ou morale, l’autorité publique, le \nservice ou tout autre organisme qui traite des données à caractère \npersonnel pour le compte du responsable du traitement ;\n7- « tiers » : la personne physique ou morale, l’autorité publique, le service ou \ntout autre organisme autre que la personne concernée, le responsable du \ntraitement, le sous-traitant et les personnes qui, placées sous l’autorité\ndirecte du responsable du traitement ou du sous-traitant, sont habilitées à \ntraiter les données ;\n8- « destinataire » : la personne physique ou morale, l’autorité publique, le \nservice ou tout autre organisme qui reçoit communication de données, qu’il \ns’agisse ou non d’un tiers. Les organismes qui sont susceptibles de recevoir \ncommunication de données dans le cadre d’une disposition légale ne sont pas \nconsidérées comme destinataires, notamment la Commission nationale de \ncontrôle de la protection des données à caractère personnel instituée à\nl’article 27 ci-après et dénommée la Commission nationale ;\n9- « consentement de la personne concernée » : toute manifestation de \nvolonté, libre, spécifique et informée, par laquelle la personne concernée \naccepte que les données à caractère personnel la concernant fassent l’objet \nd’un traitement ;\n10- « cession ou communication » : toute divulgation ou information d’une\ndonnée portée à la connaissance d’une personne autre que a personne \nconcernée ;\n11- « interconnexion de données » : forme de traitement qui consiste à établir \nun rapport entre les données d’un fichier et les données d’un fichier ou \nplusieurs fichiers tenus par un autre ou par d’autres responsables, ou tenus \npar le même responsable mais dans un autre but."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre premier DISPOSITIONS GENERALES",
+    "section": "Section première. – Définitions et champ d’application",
+    "article_no": "Article 2",
+    "text": "1- La présente loi s’applique au traitement des données à caractère personnel, \nautomatisé en tout ou en partie, ainsi qu’au traitement non automatisé de \ndonnées à caractère personnel contenues ou appelées à figurer dans des fichiers \nmanuels ;\n2- La présente loi s’applique au traitement des données à caractère personnel \nrépondant à la définition du paragraphe 1 ci-dessus :\na) Lorsqu’il est effectué par une personne physique ou morale dont le \nresponsable est établi sur le territoire marocain. Le responsable d’un \ntraitement qui exerce une activité sur le territoire marocain dans le \ncadre d’une installation, qu’elle que soit sa forme juridique, y est\nconsidéré comme établi ;\nb) Lorsque le responsable n’est pas établi sur le territoire marocain mais \nrecourt, à des fins de traitement des données à caractère personnel, à \ndes moyens automatisés ou non, situés sur le territoire marocain, à \nl’exclusion des traitements qui ne sont utilisés qu’à des fins de transit sur\nle territoire national ou sur celui d’un Etat dont la législation est \nreconnue équivalente à celle du Maroc en matière de protection des \ndonnées à caractère personnel ;\n3- Dans le cas visé au b du paragraphe 2 ci-dessus, le responsable du traitement doit \nnotifier à la Commission nationale, l’identité d’un représentant installé au Maroc \nqui sans préjudice de sa responsabilité personnelle, se substitue à lui dans tous\nses droits et obligations résultant des dispositions de la présente loi et des textes \npris pour son application ;\n4- La présente loi ne s’applique pas :\n- au traitement de données à caractère personnel effectué par une\npersonne physique pour l’exercice d’activités exclusivement personnelles \nou domestiques ;\n- aux données à caractère personnel recueillies et traitées dans l’intérêt de\nla défense nationale et de la sécurité intérieure ou extérieure de l’Etat. \nElle ne s’applique aux données à caractère personnel recueillies et traitées \nà des fins de prévention et de répression des crimes et délits que dans les \nconditions fixées par la loi ou le règlement qui crée le fichier en cause ; ce \nrèglement précise le responsable du traitement, la condition de légitimité \ndu traitement, la ou les finalités du traitement, la ou les catégories de \npersonnes concernées et les données ou les catégories de données s’y \nrapportant, l’origine de ces données ou les tiers ou les catégories de tiers \nauxquels ces données peuvent être communiquées et les mesures à \nprendre pour assurer la sécurité du traitement. Il est soumis à l’avis \npréalable de la Commission nationale ;\n- aux données à caractère personnel recueillies en application d’une \nlégislation particulière. Les projets ou propositions de loi portant création \nde fichiers relatifs aux données précitées sont communiqués à la \nCommission nationale en précisant l’autorité responsable du fichier, la ou \nles finalités du traitement, la ou les catégories de personnes concernées et \nles données ou les catégories de données s’y rapportant, l’origine de ces\ndonnées, les tiers ou les catégories de tiers auxquels ces données peuvent \nêtre communiquées et les mesures à prendre pour assurer la sécurité du \ntraitement."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre premier DISPOSITIONS GENERALES",
+    "section": "Section 2. – Qualité des données et consentement préalable de la personne concernée",
+    "article_no": "Article 3",
+    "text": "1- Les données à caractère personnel doivent être :\na) traitées loyalement et licitement ;\nb) collectées pour des finalités déterminées explicites et légitimes, et ne pas \nêtre traitées ultérieurement de manière incompatible avec finalités ;\nc) adéquates, pertinentes et non excessives, au regard des finalités pour \nlesquelles elles sont collectées, et pour lesquelles, elles sont traitées \nultérieurement ;\nd) exactes et, si nécessaire, mises à jour. Toutes les mesures raisonnables \ndoivent être prises, pour que les données inexactes ou incomplètes, au \nregard des finalités pour lesquelles elles, sont collectées et pour lesquelles \nelles sont traitées ultérieurement, soient effacées ou rectifiées ;\ne) conservées sous, une forme permettant l’identification des personnes \nconcernées pendant une durée n’excédant pas celle nécessaire à la \nréalisation des finalités pour lesquelles elles sont collectées et pour \nlesquelles elles sont traitées ultérieurement.\n2- Sur demande du responsable du traitement et, s’il existe un intérêt légitime, la \nCommission nationale peut autoriser la conservation de données, à caractère \npersonnel à des fins historiques, statistique, ou scientifique au-delà de la période, \ncitée au e) du paragraphe précédent ;\n3- Il incombe au responsable du traitement d’assurer le respect des dispositions des \nparagraphes qui précèdent, sous le contrôle de la Commission nationale."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre premier DISPOSITIONS GENERALES",
+    "section": "Section 2. – Qualité des données et consentement préalable de la personne concernée",
+    "article_no": "Article 4",
+    "text": "Le traitement des données, à caractère personnel ne peut être effectué que si la \npersonne concernée a indubitablement donné son consentement à l’opération ou à \nl’ensemble des opérations envisagées.\nLes données à caractère personnel objet du traitement ne peuvent être\ncommuniquées à un tiers que pour la réalisation de fins, directement liées aux \nfonctions du cédant et du cessionnaire et sous réserve du consentement préalable, \nde la personne concernée.\nToutefois, ce consentement n’est pas exigé si le traitement est nécessaire :\na) au respect d’une obligation légale à laquelle est soumis la personne \nconcernée ou le responsable du traitement ;\nb) à l’exécution d’un contrat auquel la personne concernée, est partie ou à \nl’exécution de mesures précontractuelles prises à la demande de celle-ci ;\nc) à la sauvegarde d’intérêts vitaux de la personne concernée, si elle est \nphysiquement ou juridiquement dans l’incapacité de donner un \nconsentement ;\nd) à l’exécution d’une mission d’intérêt public ou relevant de l’exercice de \nl’autorité publique, dont est investi le responsable du traitement ou le\ntiers auquel les données sont communiquées ;\ne) à la réalisation de l’intérêt légitime poursuivi par le responsable du \ntraitement ou par le destinataire, sous réserve de ne pas méconnaître \nl’intérêt ou les droits et libertés fondamentaux de la personne concernée."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 5",
+    "text": "Droit à l’information lors de la collecte des données\n1- Toute personne sollicitée directement, en vue d’une collecte de ses données \npersonnelles, doit être préalablement informée de manière expresse, précise et \nnon équivoque par le responsable du traitement ou son représentant, sauf si elle \nen a déjà eu connaissance, des éléments suivants :\na) l’identité du responsable du traitement et, le cas échéant, de son \nreprésentant ;\nb) les finalités du traitement auquel les donnéessont destinées ;\nc) toute information, supplémentaires telles que :\n- les destinataires ou les catégories de destinataires ;\n- le fait de savoir si la réponse aux questions, est obligatoire ou \nfacultative, ainsi que les conséquences éventuelles d’un défaut de \nréponse ;\n- l’existence d’un droit d’accès aux données à caractère personnel la \nconcernant et de rectification de ces données, dans la mesure où, \ncompte tenu des circonstances particulières dans lesquelles les \ndonnées sont collectées, ces informations, sont nécessaires pour \nassurer un traitement loyal des données à l’égard de la personne \nconcernée ;\nd) les caractéristiques du récépissé de la déclaration auprès de la \nCommission nationale ou celles de l’autorisation délivrée par ladite \ncommission ;\n2- Les documents, qui servent de base à la collecte des données à caractère \npersonnel doivent contenir les informations visées au paragraphe précédent ;\n3- Lorsque les données, à caractère personnel n’ont pas été collectées auprès de la \npersonne concernée, le responsable du traitement ou son représentant doit,\navant l’enregistrement des données ou si une communication de données à \nun tiers est envisagée, au plus tard lors de la première communication de\ndonnées, fournir à la personne concernée au moins les informations visées aux \na), b) et c) ci-dessus, sauf si la personne en a déjà eu connaissance.\n4- En cas de collecte de données, en réseaux, ouverts, la personne concernée doit \nêtre informée, sauf si elle sait déjà que les données à caractère personnel la \nconcernant peuvent circuler sur les réseaux sans garanties de sécurité et \nqu’elles risquent d’être lues et utilisées, par des tiers non autorisés."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 6",
+    "text": "Limites au droit à l’information\nL’obligation d’information prévue à l’article 5 ci-dessus n’est pas applicable :\na) aux données à caractère personnel dont la collecte et le traitement sont \nnécessaires à la défense nationale, la sûreté intérieure ou extérieure de \nl’Etat, la prévention ou la répression du crime ;\nb) lorsque l’information de la personne concernée se révèle impossible, \nnotamment en cas de traitement de données à caractère personnel à des \nfins statistiques, historiques ou scientifiques. Dans ce cas, le responsable\ndu traitement est tenu d’aviser la Commission de l’impossibilité \nd’informer la personne concernée et de lui présenter le motif de cette \nimpossibilité ;\nc) si la législation prévoit expressément l’enregistrement ou la\ncommunication des données à caractère personnel ;\nd) au traitement de données à caractère personnel effectuées à des fins \nexclusivement journalistiques, artistiques ou littéraires."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 7",
+    "text": "Droit d’accès\nLa personne concernée, justifiant de son identité, a le droit d’obtenir du responsable \ndu traitement, à des intervalles raisonnables, sans délais et gratuitement :\na) la confirmation que les données à caractère personnel la concernant sont \nou ne sont pas traitées, ainsi que des informations portant au moins sur \nles finalités du traitement, les catégories de données sur lesquelles il porte, \net les destinataires ou les catégories de destinataires auxquels les \ndonnées à caractère personnel sont communiquées ;\nb) la communication, sous une forme intelligible, des données, à caractère \npersonnel faisant l’objet des traitements, ainsi que de toute information \ndisponible sur l’origine des données.\nLe responsable du traitement peut demander à la Commission nationale\ndes délais de réponses aux demandes d’accès légitimes et peut s’opposer \naux demandes manifestement abusives, notamment, par leur nombre et \nleur caractère répétitif.\nEn cas d’opposition, la charge de la preuve du caractère manifestement \nabusif, incombe au responsable du traitement auprès duquel ces\ndemandes ont été faites.\nc) La connaissance de la logique qui sous-tend tout traitement automatisé\ndes données à caractère personnel la concernant."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 8",
+    "text": "Droit de rectification\nLa personne concernée, justifiant de son identité, a le droit d’obtenir du responsable \ndu traitement :\na) L’actualisation, la rectification, l’effacement ou le verrouillage des \ndonnées à caractère personnel dont le traitement n’est pas conforme à la \nprésente loi, notamment en raison du caractère incomplet et inexact de\nces données ; le responsable du traitement est tenu de procéder aux \nrectifications nécessaires sans frais pour le demandeur et ce, dans un délai \nfranc de dix jours.\nEn cas de refus ou de non réponse dans le délai précité, la personne \nconcernée peut introduire une demande de rectification auprès de la \nCommission nationale, laquelle charge l’un de ses membres à l’effet de \nmener toutes investigations utiles et faire procéder aux rectifications \nnécessaires, dans les plus brefs délais.\nLa personne concernée est tenue informée des suites réservées à sa \ndemande ;\nb) La notification aux tiers auxquels les données à caractère personnel ont \nété communiquées de toute actualisation, toute rectification, tout \neffacement ou tout verrouillage effectué conformément au point a) ci dessus, si cela ne s’avère pas impossible."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 9",
+    "text": "Droit d’opposition\nLa personne concernée, justifiant de son identité, a le droit de s’opposer, pour des \nmotifs légitimes, à ce que des données la concernant fassent l’objet d’un traitement.\nElle a le droit de s’opposer, sans frais, à ce que les données la concernant soient \nutilisées à des fins de prospection, notamment commerciale, par le responsable\nactuel du traitement ou celui d’un traitement ultérieur.\nLes dispositions du premier alinéa ne s’appliquent pas lorsque le traitement répond à \nune obligation légale ou lorsque l’application de ces dispositions a été écartée, par\nune disposition expresse de l’acte autorisant le traitement."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 10",
+    "text": "Interdiction de la prospection directe\nEst interdite la prospection directe au moyen d’un automate d’appel, d’un télécopieur \nou d’un courrier électronique ou d’un moyen employant une technologie de même \nnature qui utilise, sous quelque forme que ce soit, les coordonnées d’une personne \nphysique qui n’a pas exprimé son consentement préalable à recevoir des \nprospections directes par ce moyen.\nPour l’application du présent article, on entend par consentement toute \nmanifestation de volonté libre, spécifique et informée par laquelle une personne \naccepte que des données à caractère personnel la concernant soient utilisées à des\nfins de prospection directe.\nConstitue une prospection directe l’envoi de tout message destiné à promouvoir, \ndirectement ou indirectement, des biens, des services ou l’image d’une personne \nvendant des biens ou fournissant des services.\nToutefois, la prospection directe par courrier électronique est autorisée, si les \ncoordonnées du destinataire ont été recueillies directement auprès de lui, dans le \nrespect des dispositions de la présente loi, à l’occasion d’une vente ou d’une prestation \nde services, si la prospection directe concerne des produits ou service analogues \nfournis par la même personne physique ou morale, et si le destinataire se voit offrir,\nde manière expresse, dénuée d’ambiguïté et simple, la possibilité de s’opposer, sans \nfrais, hormis ceux liés à la transmission du refus, à l’utilisation de ses coordonnées \nlorsque celles-ci sont recueillies et chaque foi, qu’un courrier électronique de \nprospection lui est adressé.\nDans tous les cas, il est interdit d’émettre, à des fins de prospection directe, des \nmessages au moyen d’automates d’appel, télécopieurs et courriers électroniques,\nsans indiquer de coordonnées valables auxquelles le destinataire puisse utilement \ntransmettre une demande tendant à obtenir que ces communications, cessent sans \nfrais autre que ceux liés à la transmission de celle-ci.\nIl est également interdit de dissimuler l’identité de la personne pour le compte de \nlaquelle la communication est émise et de mentionner un objet sans rapport avec la \nprestation ou le service proposé."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre II DES DROITS DE LA PERSONNE CONCERNEE",
+    "section": null,
+    "article_no": "Article 11",
+    "text": "Neutralité des effets\nAucune décision de justice impliquant une appréciation sur le comportement d’une \npersonne ne peut avoir pour fondement un traitement automatisé de données à \ncaractère personnel destiné à évaluer certains aspects de sa personnalité.\nAucune autre décision produisant des effets juridiques à l’égard d’une personne ne \npeut être prise sur le seul fondement d’un traitement automatisé de données destiné\nà définir le profil de l’intéressé ou à évaluer certains aspects de sa personnalité.\nNe sont pas considérées comme prises sur le seul fondement d’un traitement \nautomatisé les décisions prises dans le cadre de la conclusion ou de l’exécution d’un \ncontrat et pour lesquelles la personne concernée a été mise à même de présenter ses \nobservations, ni celles satisfaisant les demandes de la personne concernée."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 12",
+    "text": "Sauf dispositions législatives particulières, le traitement de données à caractère \npersonnel doit faire l’objet :\n1- D’une autorisation préalable lorsque les traitements concernent :\na) Les données sensibles visées à l’alinéa 3 de l’article premier ci-dessus. \nToutefois, sont dispensés de ladite autorisation les traitements mis en \nœuvre par une association ou tout autre groupement à but non lucratif et\nà caractère religieux, philosophique, politique, syndical, culturel ou sportif :\n- pour les seules données qui révèlent l’une ou plusieurs des \ncaractéristiques visées au paragraphe 3 de l’article premier ci dessus et correspondant à l’objet de ladite association ou \ndudit groupement ;\n- sous, réserve que les données ne concernent que les membres\nde cette association ou de ce groupement et, le cas échéant, les\npersonnes qui entretiennent avec celui-ci des contacts \nréguliers dans le cadre de son activité ;\n- et qu’ils ne portent que sur des données non communiquées à \ndes tiers, à moins que les personnes concernées n’y \nconsentent expressément et que le groupement puisse fournir la \npreuve de ce consentement à la première requête de l’autorité \ncompétente ;\nb) l’utilisation de données à caractère personnel à d’autres fins que celles \npour lesquelles elles ont été collectées ;\nc) des données génétiques, à l’exception de ceux mis en œuvre par des \npersonnels de santé et qui répondent à des fins médicales, qu’il s’agisse de \nla médecine préventive, des diagnostics ou des soins ;\nd) des données portant sur les infractions, condamnations ou mesures de \nsûreté, à l’exception de ceux mis en œuvre par les auxiliaires de justice ;\ne) des données comportant le numéro de la carte d’identité nationale de la \npersonne concernée ;\nf) L’interconnexion de fichiers relevant d’une ou de plusieurs personnes \nmorales gérant un service public et dont les finalités d’intérêt public sont \ndifférentes ou l’interconnexion de fichiers relevant d’autres personnes \nmorales et dont les finalités principales sont différentes.\n2- D’une déclaration préalable dansles autres cas"
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 13",
+    "text": "La déclaration préalable prévue à l’article 12 ci-dessus, qui comporte l’engagement\nque le traitement sera effectué conformément aux dispositions de la présente loi, est \ndéposée auprès de la Commission nationale dans les conditions prévues à la présente \nsection.\nCette déclaration a pour objet de permettre à la Commission nationale d’exercer les \ncompétences qui lui sont dévolues par la présente loi, afin de contrôler le respect de \nses dispositions et d’assurer la publicité du traitement des données personnelles."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 14",
+    "text": "Le responsable du traitement ou, le cas échéant, son représentant doit adresser une \ndéclaration à la Commission nationale préalablement à la mise en œuvre d’un \ntraitement entièrement ou partiellement automatisé ou d’un ensemble de tels \ntraitements ayant une même finalité ou des finalités liées."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 15",
+    "text": "La déclaration prévue à l’article 12 ci-dessus doit comprendre :\na) le nom et l’adresse du responsable du traitement et, le échéant, de son \nreprésentant ;\nb) la dénomination, les caractéristiques et la ou les finalités du traitement \nenvisagé ;\nc) une description de la ou des catégories de personnes concernées et des \ndonnées ou des catégories de données à caractère personnel s’y \nrapportant ;\nd) les destinataires, ou les catégories de destinataires auxquels les données \nsont susceptibles d’être communiquées ;\ne) les transferts de données envisagés à destination d’Etats étrangers ;\nf) la durée de conservation des données;\ng) le service auprès duquel la personne concernée pourra exercer, le cas \nchéant, les droits qui lui sont reconnus par les dispositions de la présente \nloi, ainsi que les mesures prises pour faciliter l’exercice de ceux-ci.\nh) Une description générale permettant d’apprécier de façon préliminaire le \ncaractère approprié des mesures prises pour assurer la confidentialité et\nla sécurité du traitement en application des dispositions des articles 23 et \n24 ci- dessous ;\ni) Les recoupements, les interconnexions, ou toutes autres formes de \nrapprochement des données ainsi que leur cession, sous-traitance, sous \ntoute forme, à des tiers, à titre gratuit ou onéreux.\nToute modification aux informations ci-dessus et toute suppression de traitement \ndoivent être portées, sans délai, à la de la connaissance Commission nationale.\nEn cas de cession d’un fichier de données, le cessionnaire est tenu de remplir les \nformalités de déclaration prévues par la présente loi.\nLes modalités de la déclaration à la Commission nationale des changements affectant \nles informations visées à l’alinéa ci-dessus sont fixées par le gouvernement, après \navis de ladite commission."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 16",
+    "text": "La Commission nationale fixe la liste des catégories de traitements de données à \ncaractère personnel qui, compte tenu des données à traiter, ne sont pas susceptibles \nde porter atteinte aux droits et libertés des personnes concernés, et pour lesquelles la \ndéclaration doit préciser uniquement les éléments prévus aux b), c), d), e) et f) de \nl’article 15 ci-dessus.\nLa décision de la Commission nationale est soumise à homologation du\ngouvernement."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 17",
+    "text": "La Commission nationale fixe la liste des traitements non automatisés de données à \ncaractère personnel qui peuvent faire l’objet d’une déclaration simplifiée, dont elle \nprécise les éléments par une décision homologuée par le gouvernement."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 18",
+    "text": "L’obligation de déclaration ne s’applique pas aux traitements ayant pour seul objet la \ntenue d’un registre qui est, en vertu de dispositions législatives ou réglementaires, \ndestiné à l’information du public et ouvert à la consultation du public ou de toute \npersonne justifiant d’un intérêt légitime.\nToutefois, dans ce cas, il doit être désigné un responsable du traitement des données \ndont l’identité est rendue publique et notifiée à la Commission nationale et qui est \nresponsable de l’application des dispositions du chapitre II de la présente loi vis-à-vis \ndes personnes concernées.\nLe responsable du traitement dispensé de déclaration doit communiquer à toute \npersonne qui en fait la demande les informations relatives à la dénomination et à la \nfinalité du traitement, à l’identité du responsable, aux données traitées, à leurs \ndestinataires et, le cas échéant, aux transferts envisagés à destination de l’échanger.\nLa Commission nationale fixe la liste des traitements répondant à la définition prévue \nci-dessus par une décision soumise à homologation du gouvernement."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 19",
+    "text": "La Commission nationale délivre, dans un délai de 24 heures courant à compter de la \ndate du dépôt de la déclaration un récépissé de la ladite déclaration, dont les \ncaractéristiques doivent figurer dans toutes les opérations de collecte ou de \ntransmission des données. Le responsable du traitement peut mettre ledit traitement \nen œuvre dès réception dudit récépissé."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section première. – Déclaration préalable",
+    "article_no": "Article 20",
+    "text": "Lorsqu’il apparaît à la Commission nationale, à l’examen de la déclaration qui lui est \nfournie, que le traitement envisagé présente des dangers manifestes pour le respect\net la protection de la vie privée et des libertés et droits fondamentaux des personnes à \nl’égard du traitement dont ces données font l’objet ou peuvent faire l’objet, elle\ndécide de soumettre ledit traitement au régime d’autorisation préalable prévu ci après.\nSa décision, motivée, est notifiée au déclarant dans les huit jours suivant celui du\ndépôt de la déclaration."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section 2. – Autorisation préalable",
+    "article_no": "Article 21",
+    "text": "1- Le traitement des données sensibles est subordonné à une autorisation de la loi \nqui en fixe les conditions. A défaut, il doit être autorisé par la Commission \nnationale ;\n2- Cette autorisation est accordée au vu du consentement exprès de la personne \nconcernée ou lorsque le traitement des données est indispensable à l’exercice \ndes fonctions légales ou statutaires du responsable du traitement ;\n3- Outre l’ordre de la loi, le consentement exprès de la personne concernée ou \nl’obligation légale ou statutaire du responsable, l’autorisation préalable de la \nCommission nationale peut également être accordée dans les cas où :\na) le traitement est nécessaire à la défense d’intérêt vitaux de la personne \nconcernée ou d’une personne et si la personne concernée se trouve dans \nl’incapacité physique ou juridique de donner son consentement ;\nb) le traitement porte sur des données manifestement rendues publiques par \nla personne concernée et que son consentement au traitement des \ndonnées peut légitimement être déduit de ses déclarations ;\nc) le traitement est nécessaire à la reconnaissance, l’exercice ou la défense \nd’un droit en justice et est effectué exclusivement à cette fin."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section 2. – Autorisation préalable",
+    "article_no": "Article 22",
+    "text": "Par dérogation aux dispositions de l’article 21 ci-dessus, le traitement des données \nrelatives à la santé est subordonné à une déclaration à la Commission nationale, \nlorsqu’il a pour seule finalité :\n- la médecine préventive, les diagnostics médicaux, l’administration de \nsoins ou de traitements ou la gestion des services de santé et qu’il est \neffectué par un praticien de la santé soumis au secret professionnel ou par \ntoute autre personne également soumise à une obligation de secret ;\n- de sélectionner les personnes susceptibles de bénéficier d’un droit, d’une \nprestation ou d’un contrat, dès lors qu’elles n’en sont exclues par aucune \ndisposition légale ou réglementaire."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section 3. – Des obligations de confidentialité et de sécurité des traitements et de secret professionnel",
+    "article_no": "Article 23",
+    "text": "1- Le responsable du traitement doit mettre en œuvre les mesures techniques et \norganisationnelles appropriées pour protéger les données à caractère personnel \ncontre la destruction accidentelle ou illicite, la perte accidentelle, l’altération, la \ndiffusion ou l’accès non autorisé, notamment lorsque le traitement comporte \ndes transmissions de données dans un réseau, ainsi que contre toute autre forme \nde traitement illicite. Ces mesures doivent assurer, compte tenu de l’Etat de \nl’art et des coûts liés à leur mise en œuvre, un niveau de sécurité approprié \nau regard des risques présentés par le traitement et de la nature des données à \nprotéger ;\n2- Le responsable du traitement, lorsque le traitement est effectué pour son\ncompte, doit choisir un sous-traitant qui apporte des garanties suffisantes au \nregard des mesures de sécurité technique et d’organisation relative aux \ntraitements à effectuer et il doit veiller au respect de ces mesures ;\n3- La réalisation du traitement en sous-traitance doit être régie par un contrat ou \nun acte juridique qui lie le sous-traitant au responsable du traitement et qui \nprévoit notamment que le sous-traitant n’agit que sous la seule instruction du \nresponsable du traitement et que les obligations visées au paragraphe 1 ci dessus lui incombent également ;\n4- Aux fins de la conservation des preuves, les éléments du contrat ou de l’acte \njuridique relatif à la protection des données et les exigences portant sur les \nmesures visées au paragraphe 1 ci-dessus, sont consignés par écrit ou sous une \nautre forme équivalente."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section 3. – Des obligations de confidentialité et de sécurité des traitements et de secret professionnel",
+    "article_no": "Article 24",
+    "text": "1- Les responsables du traitement des données sensibles ou relatives à la santé \ndoivent prendre les mesures appropriées pour :\na) empêcher l’accès de toute personne non autorisée aux installations \nutilisées pour le traitement de ces données (contrôle de l’entrée dans les \ninstallations) ;\nb) empêcher que les supports de données puissent être lus, copiés, modifiés \nou retirés par des personnes non autorisées (contrôle des supports de \ndonnées) ;\nc) empêcher l’introduction non autorisée, ainsi que la prise de connaissance, \nla modification ou l’élimination non autorisées de données à caractère \npersonnel introduites (contrôle de l’insertion) ;\nd) empêcher que les systèmes de traitements automatisés de données \npuissent être utilisés par des personnes non autorisées au moyen\nd’installations de transmission de données(contrôle de l’utilisation) ;\ne) garantir que seules les personnes autorisées puissent avoir accès aux \ndonnées visées par l’autorisation (contrôle de l’accès) ;\nf) garantir la vérification des entités auxquelles les données à caractère \npersonnel peuvent être transmises par des installations de transmission \nde données (contrôle de la transmission) ;\ng) garantir qu’il soit possible de vérifier a posteriori, dans un délai approprié \nen fonction de la nature du traitement à fixer dans la réglementation \napplicable à chaque secteur particulier, quelles données à caractère \npersonnel sont introduites, quand elles l’ont été et pour qui (contrôle de \nl’introduction) ;\nh) empêcher que lors de la transmission de données à caractère personnel et \ndu transport des supports, les données puissent être lues, reproduites, \nmodifiées ou éliminées sans autorisation (contrôle du transport) ;\n2- Suivant la nature des organismes responsables du traitement et du type \nd’installations avec lequel il est effectué, la Commission nationale peut \ndispenser de certaines mesures de sécurité, à condition que le respect des \ndroits, libertés et garanties des personnes concernées soit assuré."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section 3. – Des obligations de confidentialité et de sécurité des traitements et de secret professionnel",
+    "article_no": "Article 25",
+    "text": "Toute personne agissant sous l’autorité du responsable du traitement ou de celle du \nsous-traitant, ainsi que le sous-traitant lui-même qui accède à des données à\ncaractère personnel ne peut les traiter que sur instruction du responsable du \ntraitement, sauf en vertu d’obligations légales."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre III : DES OBLIGATIONS DES RESPONSABLES DU TRAITEMENT",
+    "section": "Section 3. – Des obligations de confidentialité et de sécurité des traitements et de secret professionnel",
+    "article_no": "Article 26",
+    "text": "Le responsable du traitement de données à caractère personnel, ainsi que les \npersonnes qui, dans l’exercice de leurs fonctions, ont connaissance de données à \ncaractère personnel traitées, sont tenues de respecter le secret professionnel\nmême après avoir cessé d’exercer leurs fonctions, dans les termes prévus par la loi \npénale.\nLes dispositions de l’alinéa premier ci-dessus n’exemptent pas de l’obligation de\nfournir des informations, conformément aux dispositions légales applicables aux \nfichiers en cause ou conformément à la législation de droit commun."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section première. – Institution, pouvoirs et attributions",
+    "article_no": "Article 27",
+    "text": "Il est institué auprès du Premier ministre une Commission nationale de contrôle de la \nprotection des données à caractère personnel, chargée de mettre en œuvre et de \nveiller au respect des dispositions de la présente loi et des textes pris pour son \napplication.\nA cet effet, elle est chargée de :\nA- Donnerson avis:\n1- au gouvernement ou au parlement sur les projets ou propositions de \nlois ou projets de règlements relatifs au traitement de données à \ncaractère personnel dont elle est saisie ;\n2- à l’autorité compétente sur les projets de règlements créant des \nfichiers relatifs aux données à caractère personnel recueillies et \ntraitées à des fins de prévention et de répression des crimes et délits, \nl’avis demandé, dans le cas d’espèce, vaut déclaration ;\n3- à l’autorité compétente sur les projets et propositions de lois \nportant création et traitement des données relatives aux enquêtes \net données statistiques recueillies et traitées par des autorités \npubliques ;\n4- au gouvernement sur les modalités de la déclaration prévue au \nparagraphe 2 de l’article 12 ci-dessus ;\n5- au gouvernement sur les modalités d’inscription au registre national \ninstitué par l’article 45 de la présente loi ;\n6- au gouvernement sur les règles de procédure et de protection des \ndonnées des traitements de fichiers sécurité qui doivent faire l’objet \nd’un enregistrement.\nB- Recevoir :\n1- notification de l’identité du représentant installé au Maroc qui se\nsubstitue au responsable du traitement résidant à l’étranger ;\n2- les déclarations prévues aux articles 12 (paragraphe 2) et 13 et \ndélivrer récépissé de la déclaration ;\n3- l’identité du responsable du traitement des registres tenus pour être \nouverts au public, prévu à l’article 19 ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section première. – Institution, pouvoirs et attributions",
+    "article_no": "Article 28",
+    "text": "Aux fins prévues à l’article 27 (1er alinéa) ci-dessus, la Commission nationale est \nhabilitée à :\n1- autoriser la conservation des données au-delà d’une durée prévue ;\n2- accorder au responsable du traitement un délai supplémentaire pour \nrépondre aux demandes de communication présentée par la personne \nconcernée ;\n3- faire procéder aux rectifications justifiées lorsque le responsable du \ntraitement refuse d’y procéder à la demande de l’intéressé ;\n4- instruire et délivrer les autorisations prévues à l’article 12 ci-dessus;\n5- fixer la liste des catégories de traitements bénéficiant d’une déclaration \nsimplifiée ;\n6- fixer la liste des traitements non automatisés soumis à déclaration \nsimplifiée ;\n7- fixer la liste des traitements correspondant à la définition de l’article 18 de \nla présente loi ;\n8- délivrer récépissé de la déclaration prévue à l’article 13, en précisant le \ncontenu ;\n9- délivrer les autorisations prévues à l’article 21 ci-dessus ;\n10- établir la liste des pays à législation adéquate en matière de protection \ndes personnes physiques à l’égard du traitement des données à caractère \npersonnel ;\n11- autoriser les transferts de données dans les cas prévus à l’article 43 ci dessous ;\n12- assurer la tenue du registre national de la protection des données prévu à \nl’article 45 ci-dessous ;\n13- accorder les dispenses des mesures de sécurité eu égard à la qualité du \nresponsable du traitement et du type d’installation avec lequel ce \ntraitement est effectué ;\n14- décider de soumettre à autorisation un traitement légalement soumis à \ndéclaration conformément à l’article 20 ci-dessus ;\n15- procéder au retrait du récépissé ou de l’autorisation conformément aux \ndispositions de l’article 51 de la présente loi.\nLa Commission nationale est également compétente pour :\n1- recevoir les plaintes de toute personne concernée estimant être lésée par \nla publication d’un traitement de données à caractère personnel, de les \ninstruire et de leur donner suite en ordonnant la publication de rectificatifs \nou/et la saisine du procureur du Roi aux fins de poursuites ;\n2- expertiser, à la demande des autorités publiques, notamment des\nautorités judiciaires, les éléments soumis à leur appréciation lors des \ncontentieux nés de l’application de la présente loi ou des textes pris pour \nson application ;\n3- assister le gouvernement dans la préparation et la définition de la position \nmarocaine lors des négociations internationales dans le domaine de la \nprotection des données à caractère personnel ;\n4- coopérer avec les organismes similaires de contrôle du traitement des \ndonnées à caractère personnel dans les Etats étrangers."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section première. – Institution, pouvoirs et attributions",
+    "article_no": "Article 29",
+    "text": "Afin de permettre une mise en application appropriée de la protection des données, \nla Commission nationale mène une mission permanente d’information du public et\ndes personnes concernées sur les droits et obligations édictés par la présente loi et \nles textes pris pour son application."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section première. – Institution, pouvoirs et attributions",
+    "article_no": "Article 30",
+    "text": "La Commission nationale est dotée :\n1- des pouvoirs d’investigation et d’enquête permettant à ses agents, \négulièrement commissionnés à cet effet par le président, d’avoir accès\naux données faisant l’objet de traitement, de requérir l’accès direct aux \nlocaux au sein desquels le traitement est effectué, de recueillir et de saisir \ntoutes les informations et tous documents nécessaires pour remplir les \nfonctions de contrôle, le tout conformément aux termes de la commission \nqu’ils exécutent ;\n2- du pouvoir d’ordonner que lui soient communiqués, dans les délais et\nselon les modalités ou sanctions éventuelles qu’elle fixe, les documents de \ntoute nature ou sur tous supports lui permettant d’examiner les faits \nconcernant les plaintes dont elle est saisie ;\n3- du pouvoir d’ordonner ou de procéder ou de faire procéder aux\nmodificatifs nécessaires pour une tenue loyale des données contenues\ndans le fichier ;\n4- du pouvoir d’ordonner le verrouillage, l’effacement ou la destruction de \ndonnées et celui d’interdire provisoirement ou définitivement, le \ntraitement de données à caractère personnel, même de celles inclues dans \ndes réseaux ouverts de transmission de données à partir de serveurs situés \nsur le territoire national."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section première. – Institution, pouvoirs et attributions",
+    "article_no": "Article 31",
+    "text": "L’exercice des pouvoirs visés aux paragraphes 2 et 4 de l’article 30 ci-dessus est \nsubordonné au respect d’une procédure disciplinaire garantissant les droits de la \ndéfense et notamment le principe du contradictoire précisé dans le règlement\nintérieur de la Commission nationale et applicable à toutes les autres procédures\nmises en œuvre par la Commission nationale et présentant un caractère disciplinaire."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 2. – Composition de la commission nationale",
+    "article_no": "Article 32",
+    "text": "La Commission nationale de contrôle de la protection des données à caractère \npersonnel se compose de sept membres :\n- un président nommé par Sa Majesté le Roi ;\n- six membres nommés également par Sa Majesté le Roi,sur proposition :\n• du Premier ministre ;\n• du président de la Chambre desreprésentants ;\n• du président de la Chambre des conseillers.\nLa durée du mandat des membres de la Commission nationale est de cinq ans \nrenouvelable une seule fois.\nLes modalités et les conditions de nomination des membres de la Commission\nnationale sont fixées par décret."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 3. – Organisation et fonctionnement de la Commission nationale",
+    "article_no": "Article 33",
+    "text": "La Commission nationale se réunit sur convocation de son président, agissant de sa \npropre initiative ou à la demande de la moitié des membres. Le président fixe l’ordre \ndu jour de la réunion."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 3. – Organisation et fonctionnement de la Commission nationale",
+    "article_no": "Article 34",
+    "text": "Les réunions de la Commission nationale se tiennent valablement lorsque les deux\ntiers au moins des membres sont présents. Les décisions sont prises valablement à la \nmajorité des membres présents la voix du président étant prépondérante en cas de \npartage égal des voix."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 4. – Statut des membres",
+    "article_no": "Article 35",
+    "text": "Les fonctions de membre de la Commission nationale sont incompatibles avec celles \nd’administrateur, de gérant, de membre du directoire ou de directeur général unique \nou de membre du conseil de surveillance d’une société de traitement de données à \ncaractère personnel.\nUn membre de la Commission nationale ne peut participer à une délibération ou à \ndes vérifications relatives à un organisme au sein duquel il a détenu un intérêt, direct \nou indirect, ou a exercé un mandat ou une fonction, si un délai de cinq ans ne s’est \nécoulé entre la date où est intervenue la cessation de fonction, la fin du mandat ou \nde la disposition de l’intérêt et la date de sa nomination au sein de la Commission \nnationale.\nSi l’incompatibilité édictée par l’alinéa précédent concerne le président de la \nCommission nationale, il désigne un membre de la Commission nationale pour \nexercer la plénitude de ses compétences lorsque l’affaire concernant l’organisme en \ncause est appelée devant la Commission nationale. La décision du président est\npubliée au « Bulletin officiel »."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 4. – Statut des membres",
+    "article_no": "Article 36",
+    "text": "Les membres de la Commission nationale sont tenus au secret professionnel pour les \nfaits, actes et informations dont ils ont pu avoir connaissance à l’occasion de \nl’accomplissement de leurs fonctions. Ils sont soumis à la même obligation, même \naprès la fin de leur mandat.\nLes fonctionnaires, agents ou techniciens qui exercent des fonctions au sein de la \nCommission nationale ou auprès de ses membres sont également soumis à\nl’obligation de respecter le secret professionnel."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 4. – Statut des membres",
+    "article_no": "Article 37",
+    "text": "Les membres et les fonctionnaires ou agents et techniciens de la Commission\nnationale sont protégés contre les outrages ou les atteintes à leur personne dans les \ntermes des articles 265 et 267 du code pénal."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 4. – Statut des membres",
+    "article_no": "Article 38",
+    "text": "Lorsque la Commission nationale délibère sur une question mettant en cause une \nadministration, les membres représentants du gouvernement participent aux \ndélibérations avec voix consultative."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 4. – Statut des membres",
+    "article_no": "Article 39",
+    "text": "La Commission nationale élabore et approuve son règlement intérieur, qui est soumis\nà l’homologation du gouvernement avant sa publication au « Bulletin officiel »."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 5. – Administration",
+    "article_no": "Article 40",
+    "text": "Le président est assisté, dans l’exercice de ses fonctions administratives et financières, \npar un secrétaire général nommé par le gouvernement sur proposition du président.\nLe secrétaire général, outre les pouvoirs qu’il exerce par délégation du président, est\nchargé :\n- de gérer le personnel recruté ou détaché selon les décisions du président ;\n- de préparer et d’exécuter le budget de la Commission nationale dont il est \nsous-ordonnateur ;\n- de préparer et de passer les marchés de la Commission nationale ;\n- de préparer les documents de travail des réunions de la Commission \nnationale et de tenir le registre de ses décisions ;\n- de suivre les travaux des comités mis en place par la Commission\nnationale et de mettre à leur disposition les moyens matériels et humains \nnécessaires à l’accomplissement de leurs missions."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 5. – Administration",
+    "article_no": "Article 41",
+    "text": "Le secrétaire général dispose, pour l’exercice de ses attributions, d’un personnel \nadministratif et technique composé de fonctionnaires des administrations publiques\nou d’agents publics, détachés auprès de la Commission nationale, et d’un personnel \nrecruté conformément aux procédures applicables en la matière, notamment par \nvoie contractuelle."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre IV De la Commission nationale de contrôle de la protection des données à caractère personnel",
+    "section": "Section 5. – Administration",
+    "article_no": "Article 42",
+    "text": "La Commission nationale crée les comités permanents ou ad hoc nécessaires à \nl’accomplissement de ses missions par des dispositions du règlement intérieur.\nElle fixe dans le même règlement les modalités de fonctionnement et d’organisation\nde ces comités, qui doivent être présidés par un membre de la Commission nationale, \nmais peuvent être composés de personnalités choisies en dehors des membres de la \nCommission nationale ou faisant partie de son personnel."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre V Du transfert de données vers un pays étranger",
+    "section": null,
+    "article_no": "Article 43",
+    "text": "Le responsable d’un traitement ne peut transférer des données à caractère personnel \nvers un Etat étranger que si cet Etat assure un niveau de protection suffisant de la vie \nprivée et des libertés et droits fondamentaux des personnes à l’égard du traitement \ndont ces données font l’objet ou peuvent faire l’objet.\nLe caractère suffisant du niveau de protection assuré par un Etat s’apprécie \nnotamment en fonction des dispositions en vigueur dans cet Etat, des mesures de \nsécurité qui y sont appliquées, des caractéristiques propres du traitement telles que \nses fins et sa durée, ainsi que de la nature, de l’origine et de la destination des\ndonnées traitées.\nLa Commission nationale établit la liste des Etats répondant aux critères définis aux \nalinéas 1 et 2 ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre V Du transfert de données vers un pays étranger",
+    "section": null,
+    "article_no": "Article 44",
+    "text": "Par dérogation aux dispositions de l’article 43 ci-dessus, le responsable d’un\ntraitement peut transférer des données à caractère personnel vers un Etat ne \nrépondant pas aux conditions prévues à l’article ci-dessus, si la personne à laquelle se \nrapportent les données a consenti expressément à leur transfert ou :\n1- Si le transfert est nécessaire :\na) à la sauvegarde de la vie de cette personne ;\nb) à la préservation de l’intérêt public ;\nc) au respect d’obligations permettant d’assurer la constatation,\nl’exercice ou la défense d’un droit en justice ;\nd) à l’exécution d’un contrat entre le responsable du traitement et \nl’intéressé, ou de mesures précontractuelles prises à la demande de \ncelui-ci ;\ne) à la conclusion ou à l’exécution d’un contrat conclu ou à conclure, dans \nl’intérêt de la personne concernée, entre le responsable du traitement \net un tiers ;\nf) à l’exécution d’une mesure d’entraide judiciaire internationale ;\ng) à la prévention, le diagnostic ou le traitement d’affections médicales.\n2- Si le transfert s’effectue en application d’un accord bilatéral ou multilatéral \nauquel le Royaume du Maroc est partie ;\n3- Sur autorisation expresse et motivée de la Commission nationale lorsque\nle traitement garantit un niveau de protection suffisant de la vie privée\nainsi que des libertés et droits fondamentaux des personnes, notamment \nen raison des clauses contractuelles ou règles internes dont il fait l’objet."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VI Du registre national de la protection des données à caractère personnel et des limites à la création ou à l’usage de registres centraux et de fichiers",
+    "section": null,
+    "article_no": "Article 45",
+    "text": "Il est institué un registre national de la protection des données à caractère personnel, \ndésigné ci-après par registre national, dont la tenue est dévolue à la commission, qui\nen assure la mise à disposition du public."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VI Du registre national de la protection des données à caractère personnel et des limites à la création ou à l’usage de registres centraux et de fichiers",
+    "section": null,
+    "article_no": "Article 46",
+    "text": "Sontinscrits au registre national :\na) lesfichiers dontsont responsables du traitementles autorités publiques ;\nb) lesfichiers dont le traitement est effectué par des personnes privées ;\nc) les références aux lois ou règlement publiés portant création de fichiers \npublics ;\nd) les autorisations délivrées en application de la présente loi et des textes\npris pour son application ;\ne) les données relatives aux fichiers qui sont nécessaires pour permettre aux \npersonnes concernées d’exercer les droits d’information, d’accès, de \nrectification, de suppression et d’opposition prévus par la présente loi, \nnotamment les précisions que comporte la déclaration, fixées aux a) à e)\nde l’article 15 ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VI Du registre national de la protection des données à caractère personnel et des limites à la création ou à l’usage de registres centraux et de fichiers",
+    "section": null,
+    "article_no": "Article 47",
+    "text": "Les fichiers dont le traitement a pour seul objet la tenue d’un registre qui, en vertu de \ndispositions législatives ou réglementaires, est destiné à l’information du public et est \nouvert à la consultation du public sont dispensés de l’inscription au registre national.\nToutefois, doit figurer audit registre national l’identité de la personne responsable du \ntraitement aux fins d’exercices par les personnes concernées des droits prévus au \nchapitre II de la présente loi."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VI Du registre national de la protection des données à caractère personnel et des limites à la création ou à l’usage de registres centraux et de fichiers",
+    "section": null,
+    "article_no": "Article 48",
+    "text": "Les modalités d’inscription des données prévues à l’article 46 ci-dessus au registre \nnational et celles de sa tenue à jour sont fixées par le gouvernement, après avis de la \nCommission nationale."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VI Du registre national de la protection des données à caractère personnel et des limites à la création ou à l’usage de registres centraux et de fichiers",
+    "section": null,
+    "article_no": "Article 49",
+    "text": "Les traitements de données à caractère personnel relatives aux infractions, \ncondamnations et mesures de sûreté ne peuvent être mis en œuvre que par :\n- les juridictions, les autorités publiques et les personnes morales gérant un \nservice public, agissant dans le cadre de leurs attributions légales ;\n- les auxiliaires de justice, pour les stricts besoins de l’exercice des missions \nqui leur sont confiées par la loi ;\n- l’organisme chargé de la protection des droits d’auteur et des droits\nvoisins visé à l’article 11 (2e alinéa) de la loi n° 34-05 modifiant et \ncomplétant la loi n° 2-00 relative aux droits d’auteur et droits voisins."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VI Du registre national de la protection des données à caractère personnel et des limites à la création ou à l’usage de registres centraux et de fichiers",
+    "section": null,
+    "article_no": "Article 50",
+    "text": "La création, la tenue et le traitement de registres centraux concernant les personnes \nsoupçonnées d’activités illicites, de délits et d’infractions administratives et les \ndécisions prévoyant des peines, des mesures de sûreté, des amendes et des \nsanctions accessoires relèvent des seuls services publics qui ont une compétence \nexpresse en vertu de la loi d’organisation et de fonctionnement et qui doivent \nrespecter les règles de procédure et de protection des données prévues par la loi, \naprès avis de la Commission nationale."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 51",
+    "text": "Sans préjudice des sanctions pénales, lorsqu’il apparaît, à la suite de la mise en \nœuvre du traitement objet de la déclaration ou de l’autorisation prévue à l’article 12\nde la présente loi, que ce traitement porte atteinte à la sûreté ou à l’ordre public ou\nest contraire à la morale et aux bonnes mœurs, la Commission nationale peut, sans \ndélais, retirer, selon le cas, le récépissé de la déclaration ou l’autorisation."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 52",
+    "text": "Sans préjudice de la responsabilité civile à l’égard des personnes ayant subi des \ndommages du fait de l’infraction, est puni d’une amende de 10.000 à 100.000 DH, \nquiconque aura mis en œuvre un fichier de données à caractère personnel sans la \ndéclaration ou l’autorisation exigée à l’article 12 ci-dessus ou aura continué son\nactivité de traitement de données à caractère personnel malgré le retrait du \nrécépissé de la déclaration ou de l’autorisation."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 53",
+    "text": "Est puni d’une amende de 20.000 à 200.000 DH par infraction, tout responsable de \ntraitement de données à caractère personnel refusant les droits d’accès, de\nrectification ou d’opposition prévus aux articles 7, 8 et 9 ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 54",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement quiconque, en violation des a),\nb) et c) de l’article 3 de la présente loi, collecte des données à caractère personnel \npar un moyen frauduleux, déloyal ou illicite, met en œuvre un traitement à des fins \nautres que celles déclarées ou autorisées ou soumet les données précitées à un \ntraitement ultérieur incompatible avec les finalités déclarées ou autorisées."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 55",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement quiconque :\n- conserve des données à caractère personnel au-delà de la durée prévue \npar la législation en vigueur ou celle prévue dans la déclaration ou \nl’autorisation ;\n- conserve les données précitées en violation des dispositions du e) de \nl’article 3 de la présente loi.\nEst puni des mêmes peines le fait de traiter à des fins autres qu’historiques,\nstatistiques ou scientifiques des données à caractère personnel conservées au-delà \nde la durée mentionnée au premier alinéa ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 56",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement quiconque procède à un \ntraitement de données à caractère personnel en violation des dispositions de l’article \n4 ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 57",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 50.000 à\n300.000 DH ou de l’une de ces deux peines seulement quiconque procède, sans le \nconsentement exprès des personnes intéressées, au traitement des données à \ncaractère personnel qui, directement ou indirectement, font apparaître les origines \nraciales ou ethniques, les opinions politiques, philosophiques ou religieuses, les \nappartenances syndicales des personnes ou qui sont relatives à la santé de celle-ci. \nEst puni des mêmes peines quiconque procède au traitement des données à \ncaractère personnel concernant des infractions, des condamnations ou des mesures\nde sûreté."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 58",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement, quiconque aura procédé ou \nfait procéder à un traitement de données à caractère personnel sans mettre en \nœuvre les mesures visant à préserver la sécurité des données prévues aux articles 23\net 24 ci-dessus."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 59",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement, quiconque procède à un \ntraitement de données à caractère personnel concernant une personne physique \nmalgré l’opposition de cette personne, lorsque cette opposition est fondée sur des \nmotifs légitimes ou lorsque ce traitement répond à des fins de prospection,\nnotamment commerciale, tel que mentionné à l’article 9 ou par voie électronique tel \nque prévu à l’article 10 de la présente loi."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 60",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement, quiconque effectue un\ntransfert de données à caractère personnel vers un Etat étranger, en violation des \ndispositions des articles 43 et 44 de la présente loi."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 61",
+    "text": "Est puni d’un emprisonnement de trois mois à un an et d’une amende de 20.000 à\n200.000 DH ou de l’une de ces deux peines seulement, tout responsable de\ntraitement, tout sous-traitant et toute personne qui, en raison de ses fonctions, est \nchargé (e) de traiter des données à caractère personnel et qui, même par négligence, \ncause ou facilite l’usage abusif ou frauduleux des données traitées ou reçues ou les \ncommunique à des tiers non habilités.\nLe tribunal pourra, en outre, prononcer la saisie du matériel ayant servi à commettre \nl’infraction ainsi que l’effacement de tout ou partie des données à caractère \npersonnel faisant l’objet du traitement ayant donné lieu à l’infraction."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 62",
+    "text": "Est puni d’un emprisonnement de trois à six mois d’une amende de 10.000 à 50.000\nDH ou de l’une de ces deux peines seulement, quiconque :\n- entrave l’exercice des missions de contrôle de la Commission nationale ;\n- refuse de recevoir les contrôleurs et de les laisser remplir leurs \ncommissions ;\n- refuse d’envoyer les documents ou informations demandés ;\n- refuse de transmettre les documents prévus par la loi."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 63",
+    "text": "Tout responsable qui refuse d’appliquer les décisions de la Commission nationale est \npassible d’un emprisonnement de trois mois à un an et d’une amende de 10.000 à\n100.000 DH ou de l’une de ces deux peines seulement."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 64",
+    "text": "Lorsque l’auteur de l’une des infractions prévues et sanctionnées au titre du présent \nchapitre est une personne morale et sans préjudice des peines qui peuvent être \nappliquées à ses dirigeants auteurs de l’une des infractions prévues ci-dessus, les \npeines d’amende sont portées au double.\nEn outre, la personne morale peut être punie de l’une des peines suivantes :\n- la confiscation partielle de ses biens;\n- la confiscation prévue à l’article 89 du code pénal ;\n- la fermeture du ou des établissements de la personne morale où \nl’infraction a été commise."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 65",
+    "text": "En cas de récidive, lessanctions prévues au présent chapitre sont portées au double.\nEst en Etat de récidive, toute personne ayant été condamnée par décision de justice \ndevenue irrévocable pour l’une des infractions prévues au présent chapitre a commis \nune infraction de même nature dans l’année qui suit le prononcé d’une telle décision."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VII Des sanctions",
+    "section": null,
+    "article_no": "Article 66",
+    "text": "Outre les officiers de police judiciaire, les agents de la Commission nationale \nspécialement commissionnés à cet effet par le président et assermentés dans les \nformes du droit commun peuvent rechercher et constater, par procès-verbal, les \ninfractions aux dispositions de la présente loi et des textes pris pour son application. \nLeurs procès-verbaux sont adressés au procureur du Roi dans les cinq jours suivant \nles opérations de recherche et de constatation."
+  },
+  {
+    "loi": "Loi n° 09-08 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel",
+    "chapitre": "Chapitre VIII Dispositions transitoires",
+    "section": null,
+    "article_no": "Article 67",
+    "text": "Les personnes physiques ou morales dont l’activité consistait, avant la date de \npublication de la présente loi au Bulletin officiel à effectuer, à titre principal ou \naccessoire, des traitements de données à caractère personnel répondant à la définition \nprévue à l’article premier ci-dessus, disposent d’un délai maximum de deux ans, \ncourant à compter de la date d’installation de la Commission nationale qui sera \nconstatée par un acte administratif publié au Bulletin officiel, pour régulariser leur \nsituation en conformité avec les dispositions de la présente loi.\nA défaut de cette régularisation dans le délai précité, leurs activités sont réputées être \nexercées sans déclaration ou sans autorisation. Le contrevenant s’expose, dans ce cas, \naux sanctions prévues par la présente loi."
+  }
+]
